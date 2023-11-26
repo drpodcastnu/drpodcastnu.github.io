@@ -1,6 +1,70 @@
-<html>
-  <head></head>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DR Podcasts</title>
+    <meta
+      name="description"
+      content="Genudgivelse af podcasts fra DR som RSS, uden forsinkelser."
+    />
+
+    <!-- Pico.css -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
+  </head>
+
   <body>
-    <p>Hello, world</p>
+    <!-- Header -->
+    <header class="container">
+      <hgroup>
+        <h1>DR Podcasts</h1>
+        <h2>Genudgivelse af podcasts fra DR som RSS, uden forsinkelser.</h2>
+      </hgroup>
+    </header>
+    <!-- ./ Header -->
+    <!-- Main -->
+    <main class="container">
+      <section id="podcasts">
+        <h2>Podcasts</h2>
+        <div class="grid">
+          <a href="genstart/feed.xml">
+            <div>
+              <img
+                src="genstart/image.jpg"
+                alt="Genstart"
+                />
+              <strong><img src="rss.png" /> Genstart</strong>
+            </div>
+          </a>
+          <a href="sara-og-monopolet/feed.xml">
+            <div>
+              <img
+                src="sara-og-monopolet/image.jpg"
+                alt="Sara og Monopolet"
+                />
+              <strong><img src="rss.png" /> Sara &amp; Monopolet</strong>
+            </div>
+          </a>
+          <a href="djaevlen-i-detaljen/feed.xml">
+            <div>
+              <img
+                src="djaevlen-i-detaljen/image.jpg"
+                alt="Djævlen i Detaljen"
+                />
+              <strong><img src="rss.png" /> Djævlen i detaljen</strong>
+            </div>
+          </a>
+          <a href="du-kender-typen/feed.xml">
+            <div>
+              <img
+                src="du-kender-typen/image.jpg"
+                alt="Du Kender Typen"
+                />
+              <strong><img src="rss.png" /> Du kender typen</strong>
+            </div>
+          </a>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
