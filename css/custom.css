@@ -1,0 +1,25 @@
+div {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+img.tile {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 990px) {
+    
+    img.tile, strong {
+	max-width: 300px;
+	border-radius: 5px;
+    }
+    
+    section h2 {
+	text-align: center;
+    }
+}
