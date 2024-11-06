@@ -1,136 +1,576 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>DR Podcasts</title>
     <meta
-      name="description"
-      content="Genudgivelse af podcasts fra DR som RSS, uden forsinkelser."
+            name="description"
+            content="Genudgivelse af podcasts fra DR som RSS, uden forsinkelser."
     />
 
     <!-- Pico.css -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
-  </head>
+    <link rel="stylesheet" href="css/pico.min.css" />
+    <!-- Custom.css -->
+    <link rel="stylesheet" href="css/custom.css" />
+</head>
 
-  <body>
-    <a href="https://github.com/drpodcastnu">
-      <img
-        style="position: absolute; right: 0; width:64px; height:64px;"
-        src="github-mark.png"
-        />
-    </a>
-    <!-- Header -->
-    <header class="container">
-      <hgroup>
+<body>
+<a href="https://github.com/drpodcastnu">
+    <img style="position: absolute; right: 0; width:40px; height:40px; margin: 15px;" src="github-mark.png"/>
+</a>
+<!-- Header -->
+<header class="container">
+    <hgroup>
         <h1>DR Podcasts</h1>
         <h2>Genudgivelse af podcasts fra DR som RSS, uden forsinkelser.</h2>
-      </hgroup>
-    </header>
-    <!-- ./ Header -->
-    <!-- Main -->
-    <main class="container">
-      <section id="podcasts">
+    </hgroup>
+</header>
+<!-- ./ Header -->
+<!-- Main -->
+<main class="container">
+    <section id="podcasts">
         <h2>Podcasts</h2>
         <div class="grid">
-          <a href="genstart/feed.xml">
-            <div>
-              <img
-                src="genstart/image.jpg"
-                alt="Genstart"
-                />
-              <strong><img src="rss.png" /> Genstart</strong>
-            </div>
-          </a>
-          <a href="sara-og-monopolet/feed.xml">
-            <div>
-              <img
-                src="sara-og-monopolet/image.jpg"
-                alt="Sara og Monopolet"
-                />
-              <strong><img src="rss.png" /> Sara &amp; Monopolet</strong>
-            </div>
-          </a>
-          <a href="djaevlen-i-detaljen/feed.xml">
-            <div>
-              <img
-                src="djaevlen-i-detaljen/image.jpg"
-                alt="Djævlen i Detaljen"
-                />
-              <strong><img src="rss.png" /> Djævlen i detaljen</strong>
-            </div>
-          </a>
-          <a href="du-kender-typen/feed.xml">
-            <div>
-              <img
-                src="du-kender-typen/image.jpg"
-                alt="Du Kender Typen"
-                />
-              <strong><img src="rss.png" /> Du kender typen</strong>
-            </div>
-          </a>
+            <a href="genstart/feed.xml">
+                <div>
+                    <img class="tile" src="genstart/image.jpg" alt="Genstart" />
+                    <br>
+                    <strong>Genstart</strong>
+                </div>
+            </a>
+            <a href="sara-og-monopolet/feed.xml">
+                <div>
+                    <img class="tile" src="sara-og-monopolet/image.jpg" alt="Sara &amp; Monopolet - podcast" />
+                    <br>
+                    <strong>Sara &amp; Monopolet - podcast</strong>
+                </div>
+            </a>
+            <a href="djaevlen-i-detaljen/feed.xml">
+                <div>
+                    <img class="tile" src="djaevlen-i-detaljen/image.jpg" alt="Djævlen i detaljen" />
+                    <br>
+                    <strong>Djævlen i detaljen</strong>
+                </div>
+            </a>
+            <a href="du-kender-typen/feed.xml">
+                <div>
+                    <img class="tile" src="du-kender-typen/image.jpg" alt="Du kender typen" />
+                    <br>
+                    <strong>Du kender typen</strong>
+                </div>
+            </a>
+            <a href="de-lovloese/feed.xml">
+                <div>
+                    <img class="tile" src="de-lovloese/image.jpg" alt="De lovløse" />
+                    <br>
+                    <strong>De lovløse</strong>
+                </div>
+            </a>
         </div>
         <div>&nbsp;</div>
         <div class="grid">
-          <a href="de-lovloese/feed.xml">
-            <div>
-              <img
-                src="de-lovloese/image.jpg"
-                alt="De lovløse"
-                />
-              <strong><img src="rss.png" /> De lovløse</strong>
-            </div>            
-          </a>
-          <a href="moerklagt/feed.xml">
-            <div>
-              <img
-                      src="moerklagt/image.jpg"
-                      alt="Mørklagt"
-              />
-              <strong><img src="rss.png" /> Mørklagt</strong>
-            </div>
-          </a>
-          <a href="ubegribeligt/feed.xml">
-            <div>
-              <img
-                      src="ubegribeligt/image.jpg"
-                      alt="Ubegribeligt"
-              />
-              <strong><img src="rss.png" /> Ubegribeligt</strong>
-            </div>
-          </a>
-          <a href="hjernekassen/feed.xml">
-            <div>
-              <img
-                      src="hjernekassen/image.jpg"
-                      alt="Hjernekassen"
-              />
-              <strong><img src="rss.png" /> Hjernekassen</strong>
-            </div>
-          </a>
+            <a href="moerklagt/feed.xml">
+                <div>
+                    <img class="tile" src="moerklagt/image.jpg" alt="Mørklagt" />
+                    <br>
+                    <strong>Mørklagt</strong>
+                </div>
+            </a>
+            <a href="ubegribeligt/feed.xml">
+                <div>
+                    <img class="tile" src="ubegribeligt/image.jpg" alt="Ubegribeligt" />
+                    <br>
+                    <strong>Ubegribeligt</strong>
+                </div>
+            </a>
+            <a href="hjernekassen/feed.xml">
+                <div>
+                    <img class="tile" src="hjernekassen/image.jpg" alt="Hjernekassen på P1" />
+                    <br>
+                    <strong>Hjernekassen på P1</strong>
+                </div>
+            </a>
+            <a href="brinkmanns-briks/feed.xml">
+                <div>
+                    <img class="tile" src="brinkmanns-briks/image.jpg" alt="Brinkmanns briks" />
+                    <br>
+                    <strong>Brinkmanns briks</strong>
+                </div>
+            </a>
+            <a href="alban-alex-og-evigheden/feed.xml">
+                <div>
+                    <img class="tile" src="alban-alex-og-evigheden/image.jpg" alt="Alban, Alex og Evigheden" />
+                    <br>
+                    <strong>Alban, Alex og Evigheden</strong>
+                </div>
+            </a>
         </div>
+        <div>&nbsp;</div>
         <div class="grid">
-          <a href="brinkmanns-briks/feed.xml">
-            <div>
-              <img
-                      src="brinkmanns-briks/image.jpg"
-                      alt="Brinkmanns briks"
-              />
-              <strong><img src="rss.png" /> Brinkmanns briks</strong>
-            </div>
-          </a>
-          <div></div>
-          <div></div>
-          <div></div>
+            <a href="besaettelsen/feed.xml">
+                <div>
+                    <img class="tile" src="besaettelsen/image.jpg" alt="Besættelsen" />
+                    <br>
+                    <strong>Besættelsen</strong>
+                </div>
+            </a>
+            <a href="blodets-band-2/feed.xml">
+                <div>
+                    <img class="tile" src="blodets-band-2/image.jpg" alt="Blodets bånd" />
+                    <br>
+                    <strong>Blodets bånd</strong>
+                </div>
+            </a>
+            <a href="blaa-stemmer/feed.xml">
+                <div>
+                    <img class="tile" src="blaa-stemmer/image.jpg" alt="Blå Stemmer" />
+                    <br>
+                    <strong>Blå Stemmer</strong>
+                </div>
+            </a>
+            <a href="bravo/feed.xml">
+                <div>
+                    <img class="tile" src="bravo/image.jpg" alt="Bravo - med Lotte Heise" />
+                    <br>
+                    <strong>Bravo - med Lotte Heise</strong>
+                </div>
+            </a>
+            <a href="dj-brevets-program/feed.xml">
+                <div>
+                    <img class="tile" src="dj-brevets-program/image.jpg" alt="DJ Brevets musikprogram" />
+                    <br>
+                    <strong>DJ Brevets musikprogram</strong>
+                </div>
+            </a>
         </div>
-      </section>
-      <section>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="dansktoppen/feed.xml">
+                <div>
+                    <img class="tile" src="dansktoppen/image.jpg" alt="Dansktoppen" />
+                    <br>
+                    <strong>Dansktoppen</strong>
+                </div>
+            </a>
+            <a href="debut-programmer/feed.xml">
+                <div>
+                    <img class="tile" src="debut-programmer/image.jpg" alt="Debut" />
+                    <br>
+                    <strong>Debut</strong>
+                </div>
+            </a>
+            <a href="det-tomme-magasin/feed.xml">
+                <div>
+                    <img class="tile" src="det-tomme-magasin/image.jpg" alt="Det Tomme Magasin" />
+                    <br>
+                    <strong>Det Tomme Magasin</strong>
+                </div>
+            </a>
+            <a href="du-har-det-fra-mig/feed.xml">
+                <div>
+                    <img class="tile" src="du-har-det-fra-mig/image.jpg" alt="Du har det fra mig" />
+                    <br>
+                    <strong>Du har det fra mig</strong>
+                </div>
+            </a>
+            <a href="du-ved-det/feed.xml">
+                <div>
+                    <img class="tile" src="du-ved-det/image.jpg" alt="Du ved det" />
+                    <br>
+                    <strong>Du ved det</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="eldorado/feed.xml">
+                <div>
+                    <img class="tile" src="eldorado/image.jpg" alt="Eldorado" />
+                    <br>
+                    <strong>Eldorado</strong>
+                </div>
+            </a>
+            <a href="enken-med-den-forsvundne-kasse/feed.xml">
+                <div>
+                    <img class="tile" src="enken-med-den-forsvundne-kasse/image.jpg" alt="Enken med nazidokumenterne" />
+                    <br>
+                    <strong>Enken med nazidokumenterne</strong>
+                </div>
+            </a>
+            <a href="faldet-mysteriet-om-de-rystede-hjerner-lydfoelsom-version/feed.xml">
+                <div>
+                    <img class="tile" src="faldet-mysteriet-om-de-rystede-hjerner-lydfoelsom-version/image.jpg" alt="Faldet - Lydfølsom version" />
+                    <br>
+                    <strong>Faldet - Lydfølsom version</strong>
+                </div>
+            </a>
+            <a href="faldet/feed.xml">
+                <div>
+                    <img class="tile" src="faldet/image.jpg" alt="Faldet - mysteriet om de rystede hjerner" />
+                    <br>
+                    <strong>Faldet - mysteriet om de rystede hjerner</strong>
+                </div>
+            </a>
+            <a href="fezten/feed.xml">
+                <div>
+                    <img class="tile" src="fezten/image.jpg" alt="Fezten" />
+                    <br>
+                    <strong>Fezten</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="fodboldlisten/feed.xml">
+                <div>
+                    <img class="tile" src="fodboldlisten/image.jpg" alt="Fodboldlisten" />
+                    <br>
+                    <strong>Fodboldlisten</strong>
+                </div>
+            </a>
+            <a href="forbrydelsens-anatomi/feed.xml">
+                <div>
+                    <img class="tile" src="forbrydelsens-anatomi/image.jpg" alt="Forbrydelsens Anatomi" />
+                    <br>
+                    <strong>Forbrydelsens Anatomi</strong>
+                </div>
+            </a>
+            <a href="fredskvinder/feed.xml">
+                <div>
+                    <img class="tile" src="fredskvinder/image.jpg" alt="Fredskvinder" />
+                    <br>
+                    <strong>Fredskvinder</strong>
+                </div>
+            </a>
+            <a href="gaderadio-pa-p6-beat/feed.xml">
+                <div>
+                    <img class="tile" src="gaderadio-pa-p6-beat/image.jpg" alt="Gaderadio" />
+                    <br>
+                    <strong>Gaderadio</strong>
+                </div>
+            </a>
+            <a href="genstart/feed.xml">
+                <div>
+                    <img class="tile" src="genstart/image.jpg" alt="Genstart" />
+                    <br>
+                    <strong>Genstart</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="giro-413/feed.xml">
+                <div>
+                    <img class="tile" src="giro-413/image.jpg" alt="Giro 413" />
+                    <br>
+                    <strong>Giro 413</strong>
+                </div>
+            </a>
+            <a href="grundtvig-leth-fortalt/feed.xml">
+                <div>
+                    <img class="tile" src="grundtvig-leth-fortalt/image.jpg" alt="Grundtvig Leth fortalt" />
+                    <br>
+                    <strong>Grundtvig Leth fortalt</strong>
+                </div>
+            </a>
+            <a href="vadgaards-fredagsfest/feed.xml">
+                <div>
+                    <img class="tile" src="vadgaards-fredagsfest/image.jpg" alt="Happy Hour" />
+                    <br>
+                    <strong>Happy Hour</strong>
+                </div>
+            </a>
+            <a href="hemmeligheder-2/feed.xml">
+                <div>
+                    <img class="tile" src="hemmeligheder-2/image.jpg" alt="Hemmeligheder" />
+                    <br>
+                    <strong>Hemmeligheder</strong>
+                </div>
+            </a>
+            <a href="hjerteflimmer-for-voksne/feed.xml">
+                <div>
+                    <img class="tile" src="hjerteflimmer-for-voksne/image.jpg" alt="Hjerteflimmer for voksne" />
+                    <br>
+                    <strong>Hjerteflimmer for voksne</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="hotellet/feed.xml">
+                <div>
+                    <img class="tile" src="hotellet/image.jpg" alt="Hotellet" />
+                    <br>
+                    <strong>Hotellet</strong>
+                </div>
+            </a>
+            <a href="hvad-taender-os-to/feed.xml">
+                <div>
+                    <img class="tile" src="hvad-taender-os-to/image.jpg" alt="Hvad tænder os to?" />
+                    <br>
+                    <strong>Hvad tænder os to?</strong>
+                </div>
+            </a>
+            <a href="hvem-er/feed.xml">
+                <div>
+                    <img class="tile" src="hvem-er/image.jpg" alt="Hvem er..." />
+                    <br>
+                    <strong>Hvem er...</strong>
+                </div>
+            </a>
+            <a href="kampen-om-historien-3/feed.xml">
+                <div>
+                    <img class="tile" src="kampen-om-historien-3/image.jpg" alt="Kampen om historien" />
+                    <br>
+                    <strong>Kampen om historien</strong>
+                </div>
+            </a>
+            <a href="klog-pa-sprog/feed.xml">
+                <div>
+                    <img class="tile" src="klog-pa-sprog/image.jpg" alt="Klog på Sprog" />
+                    <br>
+                    <strong>Klog på Sprog</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="korfix-og-kaffe/feed.xml">
+                <div>
+                    <img class="tile" src="korfix-og-kaffe/image.jpg" alt="Korfix og Kaffe" />
+                    <br>
+                    <strong>Korfix og Kaffe</strong>
+                </div>
+            </a>
+            <a href="krigen-pa-isen/feed.xml">
+                <div>
+                    <img class="tile" src="krigen-pa-isen/image.jpg" alt="Krigen på isen" />
+                    <br>
+                    <strong>Krigen på isen</strong>
+                </div>
+            </a>
+            <a href="lottomysteriet-genfortalt/feed.xml">
+                <div>
+                    <img class="tile" src="lottomysteriet-genfortalt/image.jpg" alt="Lottomysteriet - Genfortalt" />
+                    <br>
+                    <strong>Lottomysteriet - Genfortalt</strong>
+                </div>
+            </a>
+            <a href="marcella-1989/feed.xml">
+                <div>
+                    <img class="tile" src="marcella-1989/image.jpg" alt="Marcela 1989" />
+                    <br>
+                    <strong>Marcela 1989</strong>
+                </div>
+            </a>
+            <a href="marias-arv/feed.xml">
+                <div>
+                    <img class="tile" src="marias-arv/image.jpg" alt="Marias arv" />
+                    <br>
+                    <strong>Marias arv</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="mens-vi-husker-det/feed.xml">
+                <div>
+                    <img class="tile" src="mens-vi-husker-det/image.jpg" alt="Mens vi husker det" />
+                    <br>
+                    <strong>Mens vi husker det</strong>
+                </div>
+            </a>
+            <a href="dorrits-alder/feed.xml">
+                <div>
+                    <img class="tile" src="dorrits-alder/image.jpg" alt="Moden &amp; cool" />
+                    <br>
+                    <strong>Moden &amp; cool</strong>
+                </div>
+            </a>
+            <a href="mon-ami-complex/feed.xml">
+                <div>
+                    <img class="tile" src="mon-ami-complex/image.jpg" alt="Mon Amie Complexe" />
+                    <br>
+                    <strong>Mon Amie Complexe</strong>
+                </div>
+            </a>
+            <a href="musiklivet-med-carsten-holm/feed.xml">
+                <div>
+                    <img class="tile" src="musiklivet-med-carsten-holm/image.jpg" alt="Musiklivet med Carsten Holm" />
+                    <br>
+                    <strong>Musiklivet med Carsten Holm</strong>
+                </div>
+            </a>
+            <a href="nyborg-station/feed.xml">
+                <div>
+                    <img class="tile" src="nyborg-station/image.jpg" alt="Nyborg Station" />
+                    <br>
+                    <strong>Nyborg Station</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="pilgrim-pa-rejse-i-troens-univers/feed.xml">
+                <div>
+                    <img class="tile" src="pilgrim-pa-rejse-i-troens-univers/image.jpg" alt="Pilgrim - på rejse i troens univers" />
+                    <br>
+                    <strong>Pilgrim - på rejse i troens univers</strong>
+                </div>
+            </a>
+            <a href="pa-bagsaedet/feed.xml">
+                <div>
+                    <img class="tile" src="pa-bagsaedet/image.jpg" alt="På Bagsædet - med Hav &amp; Kamal" />
+                    <br>
+                    <strong>På Bagsædet - med Hav &amp; Kamal</strong>
+                </div>
+            </a>
+            <a href="ramt-af-kaerlighed/feed.xml">
+                <div>
+                    <img class="tile" src="ramt-af-kaerlighed/image.jpg" alt="Ramt af kærlighed" />
+                    <br>
+                    <strong>Ramt af kærlighed</strong>
+                </div>
+            </a>
+            <a href="rotationer/feed.xml">
+                <div>
+                    <img class="tile" src="rotationer/image.jpg" alt="Rotationer" />
+                    <br>
+                    <strong>Rotationer</strong>
+                </div>
+            </a>
+            <a href="solo-med-anna-lin/feed.xml">
+                <div>
+                    <img class="tile" src="solo-med-anna-lin/image.jpg" alt="SOLO med Anna Lin" />
+                    <br>
+                    <strong>SOLO med Anna Lin</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="salonen/feed.xml">
+                <div>
+                    <img class="tile" src="salonen/image.jpg" alt="Salonen" />
+                    <br>
+                    <strong>Salonen</strong>
+                </div>
+            </a>
+            <a href="se-det-for-dig/feed.xml">
+                <div>
+                    <img class="tile" src="se-det-for-dig/image.jpg" alt="Se det for dig" />
+                    <br>
+                    <strong>Se det for dig</strong>
+                </div>
+            </a>
+            <a href="singlepladen/feed.xml">
+                <div>
+                    <img class="tile" src="singlepladen/image.jpg" alt="Singlepladen" />
+                    <br>
+                    <strong>Singlepladen</strong>
+                </div>
+            </a>
+            <a href="sjael/feed.xml">
+                <div>
+                    <img class="tile" src="sjael/image.jpg" alt="Sjæl" />
+                    <br>
+                    <strong>Sjæl</strong>
+                </div>
+            </a>
+            <a href="sporvognen/feed.xml">
+                <div>
+                    <img class="tile" src="sporvognen/image.jpg" alt="Sporvognen" />
+                    <br>
+                    <strong>Sporvognen</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="status-pa-p6-beat/feed.xml">
+                <div>
+                    <img class="tile" src="status-pa-p6-beat/image.jpg" alt="Status" />
+                    <br>
+                    <strong>Status</strong>
+                </div>
+            </a>
+            <a href="stjernestoev/feed.xml">
+                <div>
+                    <img class="tile" src="stjernestoev/image.jpg" alt="Stjernestøv" />
+                    <br>
+                    <strong>Stjernestøv</strong>
+                </div>
+            </a>
+            <a href="staa-af-raeset/feed.xml">
+                <div>
+                    <img class="tile" src="staa-af-raeset/image.jpg" alt="Stå af ræset" />
+                    <br>
+                    <strong>Stå af ræset</strong>
+                </div>
+            </a>
+            <a href="supertanker/feed.xml">
+                <div>
+                    <img class="tile" src="supertanker/image.jpg" alt="Supertanker" />
+                    <br>
+                    <strong>Supertanker</strong>
+                </div>
+            </a>
+            <a href="soester-elsker-elsker-ikke/feed.xml">
+                <div>
+                    <img class="tile" src="soester-elsker-elsker-ikke/image.jpg" alt="Søster - elsker, elsker ikke" />
+                    <br>
+                    <strong>Søster - elsker, elsker ikke</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+        <div class="grid">
+            <a href="to-vers-og-et-omkvaed/feed.xml">
+                <div>
+                    <img class="tile" src="to-vers-og-et-omkvaed/image.jpg" alt="To vers og et omkvæd" />
+                    <br>
+                    <strong>To vers og et omkvæd</strong>
+                </div>
+            </a>
+            <a href="under-radaren/feed.xml">
+                <div>
+                    <img class="tile" src="under-radaren/image.jpg" alt="Under Radaren" />
+                    <br>
+                    <strong>Under Radaren</strong>
+                </div>
+            </a>
+            <a href="vidnesbyrd/feed.xml">
+                <div>
+                    <img class="tile" src="vidnesbyrd/image.jpg" alt="Vidnesbyrd - Sexisme i musikbranchen" />
+                    <br>
+                    <strong>Vidnesbyrd - Sexisme i musikbranchen</strong>
+                </div>
+            </a>
+            <a href="vistis-weekendguide/feed.xml">
+                <div>
+                    <img class="tile" src="vistis-weekendguide/image.jpg" alt="Vistis Weekendguide" />
+                    <br>
+                    <strong>Vistis Weekendguide</strong>
+                </div>
+            </a>
+            <a href="vaer-her-nu-pa-p6-beat/feed.xml">
+                <div>
+                    <img class="tile" src="vaer-her-nu-pa-p6-beat/image.jpg" alt="vær.her.nu" />
+                    <br>
+                    <strong>vær.her.nu</strong>
+                </div>
+            </a>
+        </div>
+        <div>&nbsp;</div>
+    </section>
+    <section>
         <h2>Hvad er dette?</h2>
         <p>DR har for nyligt valgt at et udvalg af deres podcasts ikke længere skal være tilgængelige som RSS-feeds, eller at de RSS-feeds de publicerer er forsinkede med flere dage. Dette betyder at du som lytter ikke kan bruge den app du foretrækker, men at du bliver tvunget til at bruge DR's app "DR Lyd".</p>
         <p>Argumentet som DR bruger er, at de ikke vil lade store techgiganter som Spotify bestemme over DR's indhold. Dette argument giver ikke nogen mening, da DR samtidig også afskærer alle andre 3. parts apps fra at abonnere på deres podcasts.</p>
         <p>Dette går direkte imod DR's public service forpligtelser, og svarer til at bestemme at du kun må bruge en radio produceret af DR til at lytte til DR's programmer. I værste fald er DR med til yderligere at normalisere tendensen til, at indhold gemmes bag betalingsmure og proprietære apps i stedet for at blive gjort tilgængeligt via de åbne web-standarder der allerede findes, og som sikrer at folk kan bruge den software de foretrækker.</p>
         <p>De RSS-feeds du kan finde på denne side kan du importere i de fleste RSS-læsere som understøtter import af vilkårlige RSS URL'er. Med tiden kan det også være at du vil kunne finde dem direkte i den app du foretrækker, såfremt deres indekseringsrobot har fundet dem.</p>
-      </section>
-    </main>
-  </body>
+    </section>
+</main>
+</body>
 </html>
