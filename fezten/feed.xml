@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 17 Jan 2025 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,30 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564055</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-saa-der-bas-16122564055</link>
+            <title>Så' der bas</title>
+            <description>Vi går dybt og jagter ekstra bas og gode grooves til Fezten.</description>
+            <pubDate>Fri, 31 Jan 2025 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601404" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7535356776e89a4c84c/68c9e9d12aa429dd782f3c3c0f9490d14556eaaf00692165028a7a4ed04288df"/>
+        </item>
+        <item>
+            <guid isPermalink="false">16122564045</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-jukebox-16122564045</link>
+            <title>Jukebox</title>
+            <description>Hvordan lyder din fredag? Jukeboxen er tændt, og Fezten er åben for ønsker og forslag.</description>
+            <pubDate>Fri, 24 Jan 2025 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601426" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67859bd99d2403e7d5a19459/41645243bfa16bc38994c2b03fe88d8d323d2cf5f24a7aa8a05b4a44efcd7bb0"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564035</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-sange-om-drikkevarer-16122564035</link>
@@ -46,19 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="165601490" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327a081654c75b6cc9914/f5735010e46bace37463057111edeed12b6b6f5cabaa573c10011e930b3fa3ae"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122464012</guid>
-            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/nytaarsfezten-16122464012</link>
-            <title>NytårsFezten</title>
-            <description>Niels Fez Pedersen giver 2024 et sidste skud og søger for musikken til Fezten på årets sidste dag. 
-Du får seks timers indiedisco, P6-favoritter og diverse knaldperler.</description>
-            <pubDate>Tue, 31 Dec 2024 18:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>05:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="514081506" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f82932632014e32334f8/73bac55b9781dc28711546def9f61568e5972f4589094dbdfd8d60695a3cb855"/>
         </item>
         <item>
             <guid isPermalink="false">16122464505</guid>
