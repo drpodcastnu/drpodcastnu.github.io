@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 31 Jan 2025 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">18452527065</guid>
+            <link>https://www.dr.dk/lyd/p8jazz/paa-scenen/paa-scenen/paa-scenen-dr-big-bands-nytaarskoncert-featuring-curti-stigers-18452527065</link>
+            <title>DR Big Bands Nytårskoncert - Featuring Curti Stigers</title>
+            <description>I denne version af  "På scenen" kan du lytte til et orkester, de fleste af os kender - DR Big Band! 
+Vi skal høre deres nytårskoncert fra 11. januar, og med på scenen er sanger: Curtis Stigers.
+Du kender måske Curtis fra 90'ernes hit I Wonder Why, men i dag er han primært vokalist og fortolker jazzklassikere fra blandt andet Frank Sinatra. Aftenen byder på klassikere som Come Fly with Me, I've Got You Under My Skin og Fly Me to the Moon, og måske et nummer fra James Taylor og et 90'er hit? Hvem ved.
+Det bliver en skøn koncert med masser af jazz.</description>
+            <pubDate>Fri, 07 Feb 2025 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601604" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811eb5930d90048a99f72/9458b13adabe0bc71747acd18fbb73c631a650845cb6434f896969b42236e8d1"/>
+        </item>
         <item>
             <guid isPermalink="false">18452527055</guid>
             <link>https://www.dr.dk/lyd/p8jazz/paa-scenen/paa-scenen/paa-scenen-kasia-pietrzko-trio-18452527055</link>
@@ -54,22 +69,6 @@ Redaktør: Kasper Overby.</description>
             <itunes:duration>01:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="165601612" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61c38540867cc0a0b782/25b68863dff93f0575efe57e848a331d3344142c028fbb3596645f474d4c673f"/>
-        </item>
-        <item>
-            <guid isPermalink="false">18452527025</guid>
-            <link>https://www.dr.dk/lyd/p8jazz/paa-scenen/paa-scenen/paa-scenen-wdr-big-band-kurt-elling-18452527025</link>
-            <title>WDR Big Band - Kurt Elling</title>
-            <description>I aften kan du glæde dig til en fantastisk koncert med WDR Big Band og den cremede sanger Kurt Elling.
-Det bliver en aften, hvor vi ruller de helt store fløjlsbløde akkorder ud og du kan vippe med til genkendelige jazz standarder  som "You're Too Beautiful",  "Speak No Evil",  og "Li'l Darlin.'"
-Kurt Ellings crooner stemme er et lækkert match med Big Bandets sprøde og svingende lydbillede, og så har vi også saxofonist Bob Mintzer  med på scenen som både musiker og dirigent.  Krydr din fredag aften med en klassisk jazz koncert i topklasse - helt uden afbrydelser.
-Vært &amp; tilrettelægger: Stine Schwennesen.
-Redaktør: Kasper Overby.</description>
-            <pubDate>Fri, 10 Jan 2025 18:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="165601606" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327a2c87851ecd170f6f8/1fe134e7a213bd604c38e21c7a625c96689181dbf3ace586f540cd24709f10dd"/>
         </item>
     </channel>
 </rss>

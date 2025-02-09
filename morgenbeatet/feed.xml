@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 06 Feb 2025 07:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 07:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16452532065</guid>
+            <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532065</link>
+            <title>Fredag 7. feb. 2025</title>
+            <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Jonas Hansen.</description>
+            <pubDate>Fri, 07 Feb 2025 07:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="252001415" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811cae66b43f5cc677bac/addf5a46309b13d42d06e6d625443b4e8547800e8ae67f42d2ee5cac96b658d6"/>
+        </item>
         <item>
             <guid isPermalink="false">16452532064</guid>
             <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532064</link>
@@ -48,32 +61,6 @@ Vært: Jonas Hansen.</description>
             <itunes:duration>02:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="252001415" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67956e43cf5a1760ec84a9b6/7cb2164c1d64887944fbae83193beb26f578e65986931dcca5250d8153a53476"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16452532062</guid>
-            <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532062</link>
-            <title>Tirsdag 4. feb. 2025</title>
-            <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Goodluck Casper.</description>
-            <pubDate>Tue, 04 Feb 2025 07:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="252001994" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67941ce3300ca6d6775baaa1/7c473dc250a00da63af56079f21bb2357bb093a9aff2a6e5c2742170251c6ad6"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16452532061</guid>
-            <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532061</link>
-            <title>Mandag 3. feb. 2025</title>
-            <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Goodluck Casper.</description>
-            <pubDate>Mon, 03 Feb 2025 07:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="252001418" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6792cb5ae9536038e3202384/eb2cfcad43a9e714755cf495c08a2af5453bc39b536f18d6b478b5a41a85e01a"/>
         </item>
     </channel>
 </rss>

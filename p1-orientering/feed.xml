@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 06 Feb 2025 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802510065</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2025/p1-orientering-11802510065</link>
+            <title>Fredag 7. feb. 2025</title>
+            <description>Hvad siger grønlænderne til selvstændighed inden for de næste fire år? Bør Danmark droppe forsvarsaftale med USA? Har Merz brudt brandmuren ned til AfD?
+Dagens værter: Ole Brink og Augsut Steenbroen.</description>
+            <pubDate>Fri, 07 Feb 2025 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158463748" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811eb5930d90048a99f81/d8d5dd8572e2d8dd880589c9addfd202dfd2e9535f52dc2978b35d0efaf0f15c"/>
+        </item>
         <item>
             <guid isPermalink="false">11802510064</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2025/p1-orientering-11802510064</link>
@@ -1639,32 +1652,6 @@ Dagens værter: Jan Falkentoft og Pernille Øhlenschlæger Rudbæk.</description
             <itunes:duration>01:49:54</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158277752" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66aea9f36257516c803770a1/84fc432752583d9223a117e7cfa625453909a37466856251910d3db820a3d9b1"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802410332</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410332</link>
-            <title>Tirsdag 13. aug. 2024</title>
-            <description>Hvad betyder det for SAS, at de afnoteres fra børsmarkedet? Hvad er de vestlige ledere bange for, når det står klart for de fleste, at Iran ikke er interesseret i at gå i krig med Israel? Hvorfor bliver der sendt våbendele til Libyen fra en havn i det sydlige Italien?
-Dagens værter: Jan Falkentoft og Anne Kirstine Hermann.</description>
-            <pubDate>Tue, 13 Aug 2024 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:24:28</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="121645186" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ad581cf909c5bfdd7aa28a/bbd14e87c592c537ffaeecb83320b8b7147e7a20bfba4a23cc4a400006da2b37"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802410331</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410331</link>
-            <title>Mandag 12. aug. 2024</title>
-            <description>Hvad vil LA's krav være til de kommende forhandlinger? Hvad kan vi lære om ledelse af landstræner Nikolaj Jacobsen? Og hvad er situationen i Gaza efter angreb i weekenden og evakueringsordre fra Israel?
-Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
-            <pubDate>Mon, 12 Aug 2024 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:21:34</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="117480130" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ac079600671d4bf375f21f/deb5fd3917503d19077485e4cd40d9b2a3030bf0a70ff531ee624b2217e3262f"/>
         </item>
     </channel>
 </rss>

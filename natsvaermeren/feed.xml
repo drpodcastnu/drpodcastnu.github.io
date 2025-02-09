@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 06 Feb 2025 03:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 03:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422563066</guid>
+            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-den-store-verden-12422563066</link>
+            <title>Den store verden</title>
+            <description>Udsyn, viden og håb. 
+Vært: Katrine Ring.</description>
+            <pubDate>Sun, 09 Feb 2025 03:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:56:56</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168388082" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67996267b617052b80d6d2e5/165802efc9c5fe64f2f084514df892f83835d72f33eeaeb6d9892ef0ba7e0c71"/>
+        </item>
         <item>
             <guid isPermalink="false">12422563063</guid>
             <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-et-strejf-i-tusind-naetter-12422563063</link>
@@ -191,32 +204,6 @@ Vært: Minna Groos.</description>
             <enclosure length="168481472" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cac25e5e1a6ed3e2c87a/2392ee476f36342a8f373d09e01c015668b6d10d2c275235d4f9919f0949dd97"/>
         </item>
         <item>
-            <guid isPermalink="false">12422563023</guid>
-            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-aabne-graenser-12422563023</link>
-            <title>Åbne grænser</title>
-            <description>Natsværmer ser hen over hovedet på politiske strømninger, krige og økonomisk vækst og hylder musikkens evne til at se igennem menneskets grådighed, og hæve sig op over, stort set, alle omstændigheder
-Vært: Minna Grooss.</description>
-            <pubDate>Thu, 09 Jan 2025 03:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481575" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6770841f81654c75b6c0115c/4297f23691e75378ee94192600bed6aa0546cef05ffcc0b6955cb92d943d0de8"/>
-        </item>
-        <item>
-            <guid isPermalink="false">12422563022</guid>
-            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-naar-pj-er-dj-12422563022</link>
-            <title>Når PJ er DJ</title>
-            <description>I forbindelse med årsskiftet har den britiske musiker og komponist PJ Harvey udvalgt en playliste med noget af sin favoritmusik, og da meget af det passer ind i Natsværmerens lyd og vibe, spiller aftenens vært Peter Albrechtsen udvalgte højdepunkter fra den liste her. Der er endda danske toner blandt. 
-Vært: Peter Albrechtsen.</description>
-            <pubDate>Wed, 08 Jan 2025 03:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481608" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676f3276ce6d3443e40896bb/ac97a50c7a51b2967c75ecd341462f9dd625d1ee3018a5ee50ca56230fdf510b"/>
-        </item>
-        <item>
             <guid isPermalink="false">12422463401</guid>
             <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-jorden-rundt-12422463401</link>
             <title>Jorden rundt</title>
@@ -241,19 +228,6 @@ Vært: Minna Grooss.</description>
             <itunes:duration>01:56:59</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168478666" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e214b4374be7e3ceaef6a7/dc543bd476ebe8744f61e9e089870da717a7c06cf115b4a35a73503f4793222b"/>
-        </item>
-        <item>
-            <guid isPermalink="false">12422463384</guid>
-            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-upoleret-inderlighed-12422463384</link>
-            <title>Upoleret inderlighed</title>
-            <description>En nøgen cello, en ikonisk stemme fra 90´ernes trip hop scene, og Angel fra Girona er nogen af dem, der klæder dig af helt ind til benet i aften.
-Vært Minna Grooss.</description>
-            <pubDate>Fri, 10 Jan 2025 03:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:56:59</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168465963" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66de2097dd21726237d49d1b/555c8672e1a8923bf7a98b692451f8448a2b28c41269c0c954455363115e865d"/>
         </item>
         <item>
             <guid isPermalink="false">12422463381</guid>
@@ -319,6 +293,32 @@ Vært: Minna Grooss.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481544" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85dc52725bd2ff1df01/fefeef23311db86ef67c8d3fb4fdac73ea76426bf224b14b02a339a5e14e1f4a"/>
+        </item>
+        <item>
+            <guid isPermalink="false">12422463076</guid>
+            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-kaskader-af-glemsel-12422463076</link>
+            <title>Kaskader af glemsel</title>
+            <description>- musikken er min dagbog.
+Vært: Katrine Ring.</description>
+            <pubDate>Fri, 07 Feb 2025 03:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:56:59</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168473333" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c2bc248f18dc4b976fa4bd/8e28855abd589434d5abaf8bb194add9a7e2b57c721820785bfaf4f139e0a84a"/>
+        </item>
+        <item>
+            <guid isPermalink="false">12422463072</guid>
+            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-verden-rundt-paa-to-timer-12422463072</link>
+            <title>Verden rundt på to timer</title>
+            <description>Guddommelige stemmer, et soundtrack fra et Italiensk erotisk drama, koncertaktuelle Hvalfugl, lyden af Madagaskars nationalinstrument, og andre overraskelser fylder din æter i aftens Natsværmer.
+Vært: Minna Grooss.</description>
+            <pubDate>Sat, 08 Feb 2025 03:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:56:59</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168475806" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65bd76365d596d65a4715004/8b8e4e72cc499dc5ccc0c84d5d2c5ab677b03e52a1df8befa5bb03374fe9faa9"/>
         </item>
         <item>
             <guid isPermalink="false">12422463062</guid>

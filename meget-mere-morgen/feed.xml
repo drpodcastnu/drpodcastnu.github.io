@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 06 Feb 2025 07:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 07:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452534065</guid>
+            <link>https://www.dr.dk/lyd/p5/meget-mere-morgen/meget-mere-morgen-2025/meget-mere-morgen-15452534065</link>
+            <title>Fredag 7. feb. 2025</title>
+            <description>'Meget mere morgen' giver dig den bedste start på dagen! 
+Hver dag sørger P5 for at du gennem godt, nærværende og vedkommende selskab bliver klædt på til dagen og ved hvad der rør sig, helt fra morgenstunden.
+'Meget mere morgen' er her og nu, det er dét vi deler og det er live, hver dag på P5.
+Vært: Jesper Nyborg.</description>
+            <pubDate>Fri, 07 Feb 2025 07:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="252001592" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811c92251f10a24a74599/707d5dd15c437f5ce2d7f1deef584039e526ec006324236b9a5dd6647289dcbf"/>
+        </item>
         <item>
             <guid isPermalink="false">15452534064</guid>
             <link>https://www.dr.dk/lyd/p5/meget-mere-morgen/meget-mere-morgen-2025/meget-mere-morgen-15452534064</link>
@@ -54,36 +69,6 @@ Vært: Jesper Nyborg.</description>
             <itunes:duration>02:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="252001592" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67956e42b42ca32cf2f07fd1/a02477a36a26c85d218a500d70b22fd7d4bc18df690b2976d4e200641c7956be"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452534062</guid>
-            <link>https://www.dr.dk/lyd/p5/meget-mere-morgen/meget-mere-morgen-2025/meget-mere-morgen-15452534062</link>
-            <title>Tirsdag 4. feb. 2025</title>
-            <description>'Meget mere morgen' giver dig den bedste start på dagen! 
-Hver dag sørger P5 for at du gennem godt, nærværende og vedkommende selskab bliver klædt på til dagen og ved hvad der rør sig, helt fra morgenstunden.
-'Meget mere morgen' er her og nu, det er dét vi deler og det er live, hver dag på P5.
-Vært: Jesper Nyborg.</description>
-            <pubDate>Tue, 04 Feb 2025 07:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="252001592" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67941ce34d18d96eaf0b319f/13fbb19096f9593422542ffbf9b7eb08a48b4046100e771606334730b51edda4"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452534061</guid>
-            <link>https://www.dr.dk/lyd/p5/meget-mere-morgen/meget-mere-morgen-2025/meget-mere-morgen-15452534061</link>
-            <title>Mandag 3. feb. 2025</title>
-            <description>'Meget mere morgen' giver dig den bedste start på dagen! 
-Hver dag sørger P5 for at du gennem godt, nærværende og vedkommende selskab bliver klædt på til dagen og ved hvad der rør sig, helt fra morgenstunden.
-'Meget mere morgen' er her og nu, det er dét vi deler og det er live, hver dag på P5.
-Vært: Jesper Nyborg.</description>
-            <pubDate>Mon, 03 Feb 2025 07:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="252002168" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6792cb57e939bb92c135147b/62a0f6b8faf6740566fb45b296c1faf5cbf88d1ca44d3ae665266a32ac47275d"/>
         </item>
     </channel>
 </rss>

@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 06 Feb 2025 10:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 10:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">18452524065</guid>
+            <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt/formiddag-for-evigt-18452524065</link>
+            <title>Fredag 7. feb. 2025</title>
+            <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+            <pubDate>Fri, 07 Feb 2025 10:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481588" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811e65930d90048a99ef6/9d6e2bc255810c5c82f69c2bd601ca8817e08eabbffdf63ee2cfbc88c4138cbf"/>
+        </item>
         <item>
             <guid isPermalink="false">18452524064</guid>
             <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt/formiddag-for-evigt-18452524064</link>
@@ -278,42 +292,6 @@ Redaktør: Kasper Christensen.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481506" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67771ba076693605850fd0ea/6841cf44e8c963cfd6f2f9e62229843f9445c0c350e076a81e9c7b4bcb3a10a7"/>
-        </item>
-        <item>
-            <guid isPermalink="false">18452524025</guid>
-            <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt/formiddag-for-evigt-18452524025</link>
-            <title>Fredag 10. jan. 2025</title>
-            <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.</description>
-            <pubDate>Fri, 10 Jan 2025 10:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481506" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327a181654c75b6cc9921/ef8c36a162e6c4ed318b6e9123a72b981cc5ec05ce23baff4360cfcc00c8dcf7"/>
-        </item>
-        <item>
-            <guid isPermalink="false">18452524024</guid>
-            <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt/formiddag-for-evigt-18452524024</link>
-            <title>Torsdag 9. jan. 2025</title>
-            <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.</description>
-            <pubDate>Thu, 09 Jan 2025 10:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482082" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6771d689e60bfb1c9b66378b/9584f51198d537ba3d19f9aa90f442ac5f6b735b9a14b349f1ae27858507050b"/>
-        </item>
-        <item>
-            <guid isPermalink="false">18452524023</guid>
-            <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt/formiddag-for-evigt-18452524023</link>
-            <title>Onsdag 8. jan. 2025</title>
-            <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.</description>
-            <pubDate>Wed, 08 Jan 2025 10:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481506" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6770841d4405696a02833734/3ee2da7794aeb0ff113e2601e4aee6bc4bc64cd7d4533900b930ff266adda7e7"/>
         </item>
     </channel>
 </rss>

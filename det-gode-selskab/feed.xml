@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 06 Feb 2025 10:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 10:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452528065</guid>
+            <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-joergen-skouboe-15452528065</link>
+            <title>Med Jørgen Skouboe</title>
+            <description>Det bliver Jørgen Skouboes sidste sæson i det 15 år gamle DR-program 'Nak og æd'. Efter 47 år i DRs tjeneste går Jørgen på pension 
+Vært: Charlotte Striib.</description>
+            <pubDate>Fri, 07 Feb 2025 10:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482090" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811c94a69d0ba3a937509/8cb82e30938a1dded2935bdab54dab9f86c3411b6cd62b4ff7e651a0647afc3b"/>
+        </item>
         <item>
             <guid isPermalink="false">15452528064</guid>
             <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-mona-sandbaek-larsen-15452528064</link>
@@ -49,36 +62,6 @@ Vært: Charlotte Striib.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481612" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67956e414d18d96eaf14100c/c14e7d44920b2ae36bd3fa370a1d56b6f646f95992b5fcaeb123816d094a4a96"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452528062</guid>
-            <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-thomas-rojas-silva-15452528062</link>
-            <title>Med Thomas Rojas Silva</title>
-            <description>Thomas har været leder af Byens Bedste Banko på Nørrebro i København i 10 år, og formand for Bankforeninger i Danmark BFID, som han selv stiftede i 2019.
-Han er fuldstændig vild med bankospil - men hvordan har bankospillet det egentlig i Danmark i 2025?
-Er det stadig med "kød på bordet" eller...?
-Vært: Søren Hansen.</description>
-            <pubDate>Tue, 04 Feb 2025 10:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482183" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67941ce2491a04172ffcdfe3/6cd62b06c28f631db09c9536c584a962646043176979d5271c69aacb1c3abbc3"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452528061</guid>
-            <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-frank-jensen-15452528061</link>
-            <title>Med Frank Jensen</title>
-            <description>Den tidligere operativ chef i PET og krimibogs-forfatter er aktuel med endnu en bog.
-To danske efterretningsfolk bliver brikker i et farligt, internationalt spil under den kolde krig.
-Bogen er 2. bind i serien om "Den Dansende Spion" - en fortælling, der er baseret på virkelige karakterer og hændelser.
-Vært: Søren Hansen.</description>
-            <pubDate>Mon, 03 Feb 2025 10:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481601" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6792cb3b2f0d6506ab307789/a92ca6786e6b06a08fbb3c208813116857d47bf7c8229583f4c34acfb67fea0f"/>
         </item>
     </channel>
 </rss>
