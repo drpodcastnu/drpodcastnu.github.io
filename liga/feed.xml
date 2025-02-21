@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 20 Feb 2025 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652502085</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga/liga-13652502085</link>
+            <title>Fredag 21. feb. 2025</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <pubDate>Fri, 21 Feb 2025 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338401400" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67aa86a30557f071b63bb26f/516df1061bb4a32966cc06a58bfa185a72367368dff34b75b077fabada9dea18"/>
+        </item>
         <item>
             <guid isPermalink="false">13652502084</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga/liga-13652502084</link>
@@ -142,18 +154,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:59:26</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="258395130" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6786ed2f397a134680025d97/cf87bb90d8ca33c0d4b80a1d68293a7dac52d1c8c97c60379def99091256a843"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502044</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga/liga-13652502044</link>
-            <title>Torsdag 23. jan. 2025</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Thu, 23 Jan 2025 18:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>04:51:37</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="419943546" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67844a9c9d2403e7d59bd929/a0f6876f5d555ac93fa5b4ea53d14e89cbada2eb88fed8989631676c15fb7a99"/>
         </item>
     </channel>
 </rss>
