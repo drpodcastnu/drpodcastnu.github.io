@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 21 Feb 2025 20:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 20:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332516095</guid>
+            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-youss-2-13332516095</link>
+            <title>Youss #2</title>
+            <description>Vi mixer hverdag til weekend, når Youss er bag P3 Pulten. I aften er det varmt med hip hop og r'n'b fra flere verdenshjørne  - og lytter du godt efter, er der også totalt hemmelige ting fra Sivas og Noah Carter, som du aldrig har hørt før.</description>
+            <pubDate>Fri, 28 Feb 2025 20:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801577" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0c2f064e1e888b8e76b/10ae0aa489a94f1dee0b1e35d9266b6ddb4b4666e7861df04860600f0ee86f77"/>
+        </item>
         <item>
             <guid isPermalink="false">13332516085</guid>
             <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-dj-lilli-2-13332516085</link>
@@ -303,19 +315,6 @@ SCHAARUP er bag pulten.</description>
             <itunes:duration>03:00:38</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="260124326" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ccfcf82b60231f67ee8a8d/e3b902111e57be0f1d83c24546b86f390893af6f90da1a066eedaeb26a486576"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332416325</guid>
-            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-anton-westerlin-2-13332416325</link>
-            <title>Anton Westerlin #2</title>
-            <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-Anton Westerlin er bag pulten.</description>
-            <pubDate>Fri, 09 Aug 2024 06:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="259201588" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a8124ad979faa188ee743a/4e7d1cc62992fb4f0ce34ad794f72bb5b52d7c746c790a81b6440dcb7092e370"/>
         </item>
     </channel>
 </rss>
