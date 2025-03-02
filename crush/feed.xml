@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 27 Feb 2025 20:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 20:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515097</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/crush-13332515097</link>
+            <title>Søndag 2. mar. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.</description>
+            <pubDate>Sun, 02 Mar 2025 20:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b665245a2f57d1ea406dbc/c0d99b468b510b747b3965f5627dbdafdd786235c23dccfc81cd011ca96b3d57"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515094</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/crush-13332515094</link>
             <title>Torsdag 27. feb. 2025</title>
@@ -34,18 +46,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b270791c492b010484e34d/616d6696db8941695f33d23157af7efbd8d34928b85088ee06d130d7ccb5be13"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515093</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/crush-13332515093</link>
-            <title>Onsdag 26. feb. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.</description>
-            <pubDate>Wed, 26 Feb 2025 20:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b11ddef4291fb5c3b6fb04/ea3f127214a6c7b74de3e4e00f32d9be19da7e9c57e824cd634558021a1d83fd"/>
         </item>
     </channel>
 </rss>
