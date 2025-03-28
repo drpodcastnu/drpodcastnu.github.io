@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 21 Mar 2025 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564135</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/fredagsmixet-16122564135</link>
+            <title>Fredagsmixet</title>
+            <description>Håndplukkede slagsange, klubklassikere, indiefavoritter og diverse skæverter.</description>
+            <pubDate>Fri, 28 Mar 2025 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601997" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d8ab4aea334c10b3d49f41/02c1ddd79a7229951c041d3c027eb1d1a8f01276d276e85f93cabafe46440e05"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564125</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/biopic-boom-16122564125</link>
