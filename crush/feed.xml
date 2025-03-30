@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 27 Mar 2025 20:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515137</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/crush-13332515137</link>
+            <title>Søndag 30. mar. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.</description>
+            <pubDate>Sun, 30 Mar 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67db4df95a443496f5478716/25f8b1b5393cd90a6910229756bfdf4aa28a21275f1f6a19b44e85b520ef1498"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515134</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/crush-13332515134</link>
             <title>Torsdag 27. mar. 2025</title>
@@ -35,19 +47,6 @@ Ugens anbefaler The Minds of 99.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801540" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d75a5ceb0a841decb9e341/411963abdb66d59d3f89dbac180b4ace0ac25b0bb5656d01a670733433a5b299"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515133</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/crush-13332515133</link>
-            <title>Onsdag 26. mar. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler The Minds of 99.</description>
-            <pubDate>Wed, 26 Mar 2025 20:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802116" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d608222a51a3dbbe85a04d/dfaddfe598c5a0bcabad8efc379c0d9463aa7563486ecef411ba413f74a8dbfc"/>
         </item>
     </channel>
 </rss>
