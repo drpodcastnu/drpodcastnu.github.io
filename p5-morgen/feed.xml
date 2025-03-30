@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 29 Mar 2025 07:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 07:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452520137</guid>
+            <link>https://www.dr.dk/lyd/p5/p5-morgen/p5-morgen/p5-morgen-15452520137</link>
+            <title>Søndag 30. mar. 2025</title>
+            <description>Historier om dagen i dag, dagens fødselarer, dagens TV-tips og masser af den gode P5-Musik.</description>
+            <pubDate>Sun, 30 Mar 2025 07:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254881421" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67db4e162940a33a24e6b5ae/970f48cfd502dfc641f236077fe53998ace84a68011e9c4cef884cd29cb6dcd8"/>
+        </item>
         <item>
             <guid isPermalink="false">15452520136</guid>
             <link>https://www.dr.dk/lyd/p5/p5-morgen/p5-morgen/p5-morgen-15452520136</link>
