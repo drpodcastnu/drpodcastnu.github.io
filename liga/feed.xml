@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 30 Mar 2025 14:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652502141</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga/liga-13652502141</link>
+            <title>Mandag 31. mar. 2025</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <pubDate>Mon, 31 Mar 2025 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:51:26</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="333275576" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67dca0dd66176586e82dce9c/df86cd6c890c97eae674602ed3a3a0f5076be9ffffca61fab03ec458b0963467"/>
+        </item>
         <item>
             <guid isPermalink="false">13652502137</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga/liga-13652502137</link>
@@ -154,18 +166,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>03:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338401976" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b7b5195747a843fa98006d/836b9ce65e39ae98f2ff60b2a51d57f6f8380d8f49af687df91c58afb257e94e"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502097</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga/liga-13652502097</link>
-            <title>Søndag 2. mar. 2025</title>
-            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-            <pubDate>Sun, 02 Mar 2025 14:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>06:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="600481976" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b6652cff5c53172ffa8857/81d8eb23ef1f933d5afa1dd3bfc2a38182c5be7ca15a6855e54b5dbbb020e4a1"/>
         </item>
     </channel>
 </rss>
