@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 28 Mar 2025 20:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332516145</guid>
+            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-4-13332516145</link>
+            <title>Sanjari #4</title>
+            <description>Du har fortjent verdens bedste weekend! Sanjari mixer dig godt ind i den med en fræk blanding af klassikere og nye ting, når han hopper bag 'P3 Pulten'.</description>
+            <pubDate>Fri, 04 Apr 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801493" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e4f84e70842074133657/ba71654075fef44ba14ad5e322c0af11d5ce396185c7f3ebd4e0de032d013a31"/>
+        </item>
         <item>
             <guid isPermalink="false">13332516135</guid>
             <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-3-13332516135</link>
@@ -298,19 +310,6 @@ Bless You er bag pulten.</description>
             <itunes:duration>03:00:08</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="259414120" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670d95d590249a756fe8d135/682a8c576f62cb337218f323a352fec85cff2bfa69c08bd8b9aa1bb4fa6e4012"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332416405</guid>
-            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/jacob-bech-1-13332416405</link>
-            <title>Jacob Bech #1</title>
-            <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-Jacob Bech er bag pulten.</description>
-            <pubDate>Fri, 04 Oct 2024 06:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:00:40</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="260177898" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e02db2374be7e3cea5f2e9/e0b866bb59f38bf219c779c65b5979d1bc4a240ff04ef364849d4ed8fb082e4d"/>
         </item>
     </channel>
 </rss>
