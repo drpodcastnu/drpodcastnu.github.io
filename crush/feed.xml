@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 03 Apr 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515147</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-6-apr-2025-13332515147</link>
+            <title>Søndag 6. Apr. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Alida Blakaj tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler Blæst.</description>
+            <pubDate>Sun, 06 Apr 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801531" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e41a80c039d56f04e1a108/7ec81f3a63f500d7afbd8ae788f8b002b8949a7eed917669463ff84271eb3b32"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515144</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-3-apr-2025-13332515144</link>
             <title>Torsdag 3. Apr. 2025</title>
@@ -35,19 +48,6 @@ Ugens anbefaler Blæst.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801531" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e0948f7f593ce63bc9fbd9/6612fc23c7b205b22e3ba873c6f8c4e91f56afaa3b0a4e01a3e719fc012e2f70"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515143</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/onsdag-2-apr-2025-13332515143</link>
-            <title>Onsdag 2. Apr. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler Blæst.</description>
-            <pubDate>Wed, 02 Apr 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802107" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67df4320c41ed17d2a59ee68/e4e923146155b92c97f62241b68cebaeb0ae6ad97f1771af015b2bc9017362b1"/>
         </item>
     </channel>
 </rss>
