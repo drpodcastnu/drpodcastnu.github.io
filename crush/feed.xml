@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 10 Apr 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515157</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-13-apr-2025-13332515157</link>
+            <title>Søndag 13. apr. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler Lord Siva.</description>
+            <pubDate>Sun, 13 Apr 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801534" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb57a0a3ca23728a078d5/40367d02d959956982567d7e75bec8e5e61ec058ba7a0eb7eadbdb4b419890ec"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515154</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-10-apr-2025-13332515154</link>
             <title>Torsdag 10. Apr. 2025</title>
@@ -35,19 +48,6 @@ Ugens anbefaler Lord Siva.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802110" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e9c0c38e43b46d284c0861/9d89239e8319774f34325bd9e630f04191457f5fca329a823aa200f8dcb893e9"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515153</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/onsdag-9-apr-2025-13332515153</link>
-            <title>Onsdag 9. Apr. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler Lord Siva.</description>
-            <pubDate>Wed, 09 Apr 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172801534" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e87cfbd5634992e7389fb4/d7dc1395e96440637a1a13c278d9fc17579ba2f63010600267ffae6b58d582bf"/>
         </item>
     </channel>
 </rss>
