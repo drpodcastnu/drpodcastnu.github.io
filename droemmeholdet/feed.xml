@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 22 Apr 2025 09:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 09:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332525173</guid>
+            <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2025/lufthavns-maraton-13332525173</link>
+            <title>Lufthavns-Maraton</title>
+            <description>Drømmeholdet sender Maraton-radio direkte fra lufthavnen, længere er den ik... Eller den er jo selvfølgelig lige 42,195 km.</description>
+            <pubDate>Wed, 23 Apr 2025 09:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254882179" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fae38caa49e222d577849d/525128f74ecf259ec89441bbe17e106ef66e96915c753f3f0a3a03cc4e77507e"/>
+        </item>
         <item>
             <guid isPermalink="false">13332525172</guid>
             <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2025/stjerner-i-koekkenet-og-noget-fra-en-elmast-13332525172</link>
