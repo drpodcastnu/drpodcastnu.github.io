@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 27 Apr 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515181</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/mandag-28-apr-2025-13332515181</link>
+            <title>Mandag 28. apr. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler Zar Paulo.</description>
+            <pubDate>Mon, 28 Apr 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802110" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68017bd4895592a7c2383b3c/2a34401ef52c8da37f1b48e00f2469f27adee6327ba1ac96a7480005502ba179"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515177</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-27-apr-2025-13332515177</link>
             <title>Søndag 27. apr. 2025</title>
@@ -34,18 +47,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68002931aa49e222d59aa3d3/fc48331121721a50ca31dab247c6958461589228ad855c80981f0a4cc0164676"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515174</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-24-apr-2025-13332515174</link>
-            <title>Torsdag 24. apr. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Alida Blakaj tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.</description>
-            <pubDate>Thu, 24 Apr 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc35b3aa49e222d58077f6/29f5509ab03b4a48a4928b8af3feeb75126d836dcded0a94e37e540f949c30e4"/>
         </item>
     </channel>
 </rss>
