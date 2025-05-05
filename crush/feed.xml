@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 04 May 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515191</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/mandag-5-maj-2025-13332515191</link>
+            <title>Mandag 5. maj. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler Christopher.</description>
+            <pubDate>Mon, 05 May 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801536" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680ab57f8335367e1b342aed/5865e005b6ae8ecd5f1ff950f6702d8b0501eb324ddb7af7bf1c7a0710728da8"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515187</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-4-maj-2025-13332515187</link>
             <title>Søndag 4. maj. 2025</title>
@@ -35,19 +48,6 @@ Ugens anbefaler Zar Paulo.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801534" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680963e5b564004141928d7f/6911084793236b8bf67b568d13627ad4d4eab92af4ca960268c00fb0d0179068"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515184</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-1-maj-2025-13332515184</link>
-            <title>Torsdag 1. maj. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler Zar Paulo.</description>
-            <pubDate>Thu, 01 May 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172801534" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68057078036df1a93c9e167b/4db5972be63aedb5687c39a0825d4da8e713073702d21bc6579c9ad373253d7e"/>
         </item>
     </channel>
 </rss>
