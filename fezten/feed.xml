@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 02 May 2025 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564195</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/eurofezten-16122564195</link>
+            <title>EuroFezten</title>
+            <description>Det er Europadag, og Eurovision står for døren. Fezten samler nationerne og spiller Euro af mange slags. Har du en favorit fra kontinentet?</description>
+            <pubDate>Fri, 09 May 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601481" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680a1b1bb21aafec6d771275/db41f85762be37a24a2cb8e22a8cde691bb93a93c09246d04cdef878e157592f"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564185</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/majmixet-16122564185</link>
