@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 09 May 2025 13:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 13:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422535201</guid>
+            <link>https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mozart-i-lubeck-12422535201</link>
+            <title>Mozart i Lübeck</title>
+            <description>Violinisten Alina Pogostkina er solist i Mozarts femte violinkoncert, også kaldet 'Den tyrkiske', efterfulgt af Mozarts symfoni nr. 40 i g-mol i en koncert fra Lübeck med Den Nordtyske Radiofilharmoni under ledelse af Jörg Widmann. 
+Vært: Magnus Larsson.</description>
+            <pubDate>Mon, 12 May 2025 13:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082177" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f6684b5e3c5d300a84b3ff/a030dd4baeb29a8a5da1e0bde6647d0768e7955d29fab5e7caac568419ca5d5b"/>
+        </item>
         <item>
             <guid isPermalink="false">12422535195</guid>
             <link>https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/cellisten-anastasia-kobekina-12422535195</link>
