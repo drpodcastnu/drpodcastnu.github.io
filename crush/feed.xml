@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 18 May 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13332515211</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/mandag-19-maj-2025-13332515211</link>
+            <title>Mandag 19. maj. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler Drew Sycamore.</description>
+            <pubDate>Mon, 19 May 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801538" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681d2b95923dffbb197b2e9e/6c76eb948fdfc4a550fbf9eda9372aae1dc90ef05628c76d3c061bdef899281f"/>
+        </item>
+        <item>
             <guid isPermalink="false">13332515207</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-18-maj-2025-13332515207</link>
             <title>Søndag 18. maj. 2025</title>
@@ -35,19 +48,6 @@ Ugens anbefaler FINNEAS.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801532" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681bd9ad923dffbb19722ce1/c3a3bf18f6d975bfb02d50d381000f9754819708dfb7f7a9798a65d6edcddfb5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515204</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-15-maj-2025-13332515204</link>
-            <title>Torsdag 15. maj. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler FINNEAS.</description>
-            <pubDate>Thu, 15 May 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172801532" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6817e49f8e3a344c917732c8/e25e0e46329d80f150ff964b190650292c79e4b199a45794cfabe1b0d6449633"/>
         </item>
     </channel>
 </rss>
