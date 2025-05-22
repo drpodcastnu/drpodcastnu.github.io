@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 22 May 2025 11:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 14:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,50 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842514214</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514214</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Thu, 22 May 2025 14:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4411800" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68211f263723e0ca7731abf2/71635a30bc309f709bac636db4bf880891a6c2f3b7efb0e94ff81648236195de"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842513214</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513214</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Thu, 22 May 2025 13:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4418136" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68211f385862c74eebcc535b/0b5c634329c971db7ae74bcf7c4c8517e13b5362bdddf3884a257e4846011f5b"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842512214</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-de-groveste-voldsforbrydere-skal-laengere-tid-bag-tremmer-14842512214</link>
+            <title>Kl. 12:00: De groveste voldsforbrydere skal længere tid bag tremmer</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Straffen skal markant i op de groveste voldssager. Til gengæld skal tidligere kriminelle der holder sig fra at begå ny kriminalitet slippe for den gæld, der ellers ofte tynger dem.
+
+To ansatte ved den israelske ambassade i USA er blevet skudt mens gerningsmanden råbte palæstinensiske slagord. Hør om reaktionerne og hvad det betyder for krigen i Gaza.
+
+Og så skal du nu have et endnu skarpere syn for at få øje på din pensionsalder. Hvis ikke du allerede er fyldt 55 i år kan du først går fra når du bliver 70.
+
+Vært: Niels Christian Lang.</description>
+            <pubDate>Thu, 22 May 2025 12:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:14:45</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21241952" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68211f44377ae1710cb7f47e/e465319d17e94b536c3f55729cbb9422508504d7e1a64fcdea353aa194993c11"/>
+        </item>
         <item>
             <guid isPermalink="false">14842511214</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511214</link>
@@ -302,7 +346,7 @@ Genudgivet RSS-feed.</description>
         <item>
             <guid isPermalink="false">14842512213</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-gaza-sulter-israel-blokerer-for-noedhjaelpen-14842512213</link>
-            <title>Kl 12:00: Gaza sulter - Israel blokerer for nødhjælpen</title>
+            <title>Kl. 12:00: Gaza sulter - Israel blokerer for nødhjælpen</title>
             <description>Dagens vigtigste nyheder på 15 minutter.
 
 Presset på Israel tager til for at få nødhjælp ind til Gaza. Befolkningen har ikke har fået mad, rent vand og medicin ind i over to måneder. DR's internationale korrespondent har lige været ved grænseovergangen til Gazastriben.
