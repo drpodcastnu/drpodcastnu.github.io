@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 28 May 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332515224</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-29-maj-2025-13332515224</link>
+            <title>Torsdag 29. maj. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler er Anton Westerlin.</description>
+            <pubDate>Thu, 29 May 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801543" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682a5999f007aef049d2a910/eb83611569c6a32de45e6db3cb37484241303717891d3c268453466339e45436"/>
+        </item>
         <item>
             <guid isPermalink="false">13332515223</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/onsdag-28-maj-2025-13332515223</link>
@@ -61,19 +74,6 @@ Ugens anbefaler er Anton Westerlin.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801543" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6826659861175376c1038004/10227f02b0d34b3f6e114646d65532ad868c822c13703a7e7a7a4f3b07397b40"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515217</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-25-maj-2025-13332515217</link>
-            <title>Søndag 25. maj. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler Drew Sycamore.</description>
-            <pubDate>Sun, 25 May 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802114" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825145461175376c1fa6ce7/69f426616dad83a1262737d26d8c84c4c6431ab49bff9b1825769f42124dc73a"/>
         </item>
     </channel>
 </rss>
