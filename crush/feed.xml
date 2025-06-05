@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 04 Jun 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332515234</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-5-jun-2025-13332515234</link>
+            <title>Torsdag 5. jun. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Medvirkende: FINNEAS og Lord Siva.</description>
+            <pubDate>Thu, 05 Jun 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801542" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683395033b767b2eb6608bc0/6802bc21cfcf7bd367abc3acc5afbdcf038816b6b341d9b8496959284ef9227b"/>
+        </item>
         <item>
             <guid isPermalink="false">13332515233</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/onsdag-4-jun-2025-13332515233</link>
@@ -61,19 +74,6 @@ Anbefaler - recap: FINNEAS og Lord Siva.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802084" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682fa024bc0c69d54d9306fd/f246676a41cf67907ed8001e511bd035ad09f07c625d1d61279c567d514cec09"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515227</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-1-jun-2025-13332515227</link>
-            <title>Søndag 1. jun. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler er Anton Westerlin.</description>
-            <pubDate>Sun, 01 Jun 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802119" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682e4e81bc0c69d54d8a56fe/bf9424633618acf59443f938fa50ab07432285a62501c7edc361d08ef8dfe8ac"/>
         </item>
     </channel>
 </rss>
