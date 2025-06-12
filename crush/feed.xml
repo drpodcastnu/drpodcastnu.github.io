@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 11 Jun 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332515244</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-12-jun-2025-13332515244</link>
+            <title>Torsdag 12. jun. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Alida Blakaj tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler: APHACA.</description>
+            <pubDate>Thu, 12 Jun 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801532" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821e2783723e0ca7736d2da/61b3a6d9c29c54f50c8a9ba41b0cc54fd2b1668fc89aa3e571f0b542e188a78b"/>
+        </item>
         <item>
             <guid isPermalink="false">13332515243</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/onsdag-11-jun-2025-13332515243</link>
@@ -61,18 +74,6 @@ Ugens anbefaler: APHACA.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821e26eab5eb23dbf7128c9/fed5f23a73cba06f0ba6b5bc820e9391399f586ef82fdeead9c770ecea42794f"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515237</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-8-jun-2025-13332515237</link>
-            <title>Søndag 8. jun. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Marie Hobitz tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.</description>
-            <pubDate>Sun, 08 Jun 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802084" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6837893eb55477aa4738340b/26faee24f5357298eb84ee9b0480fb8dcbf04eb945bdcf533461d5a4490bf4e5"/>
         </item>
     </channel>
 </rss>
