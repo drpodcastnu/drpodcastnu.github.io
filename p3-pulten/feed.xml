@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 06 Jun 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332516245</guid>
+            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-6-13332516245</link>
+            <title>DJ Lilli #6</title>
+            <description>Så er det lige ind i weekenden med det helt gode humør og DJ Lilli bag 'P3 Pulten'.</description>
+            <pubDate>Fri, 13 Jun 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802003" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683e2557f526fd481f8beda5/b6703300a06b6b6d6835712d1eea42766726f259b284219597750766c2f951b2"/>
+        </item>
         <item>
             <guid isPermalink="false">13332516235</guid>
             <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-6-13332516235</link>
@@ -314,19 +326,6 @@ KATO er bag pulten.</description>
             <itunes:duration>03:22:07</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="291056670" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6757782af27a14daa0d42a53/1612ed5505402ce91c239d457805204808b0d4d283c3809a113cc27e2aec0239"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332416505</guid>
-            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/kato-2-13332416505</link>
-            <title>KATO #2</title>
-            <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-KATO er bag pulten.</description>
-            <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:00:31</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="259967070" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674e3da6797e57dfefe9a2d0/e85b47d42579fb7de5ad01abd28d13606e0c6f3660f6820d4d22178ebb809212"/>
         </item>
     </channel>
 </rss>
