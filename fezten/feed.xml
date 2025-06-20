@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 13 Jun 2025 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564255</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/midsommer-jukebox-16122564255</link>
+            <title>Midsommer-jukebox</title>
+            <description>Fezten holder båltalen, og du kan være med til at vælge musikken, der passer til din midsommer.</description>
+            <pubDate>Fri, 20 Jun 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601444" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68475be850790136dd4eb400/bf51154444117f0f950ae8a7796ed2827c115c65bc0897dd0aff66afac36e8bd"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564245</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/folkefezten-16122564245</link>
