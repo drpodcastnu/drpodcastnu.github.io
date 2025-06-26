@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 25 Jun 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332515264</guid>
+            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/torsdag-26-jun-2025-13332515264</link>
+            <title>Torsdag 26. jun. 2025</title>
+            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Alida Blakaj tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
+Ugens anbefaler: Patina.</description>
+            <pubDate>Thu, 26 Jun 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802108" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821e3f0ab5eb23dbf713317/2b9f6117a2e742a92a3a32efe40981236d6ab1fd925f1ebaa95bcab456199655"/>
+        </item>
         <item>
             <guid isPermalink="false">13332515263</guid>
             <link>https://www.dr.dk/lyd/p3/crush/crush-2025/onsdag-25-jun-2025-13332515263</link>
@@ -61,19 +74,6 @@ Ugens anbefaler: Patina.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802084" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821e3f0002e131c0a93923c/18c55b3e46ba4fd1479d9e139a9e126743e1ba6bc73798b2064b37c16b0e8fc1"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332515257</guid>
-            <link>https://www.dr.dk/lyd/p3/crush/crush-2025/soendag-22-jun-2025-13332515257</link>
-            <title>Søndag 22. jun. 2025</title>
-            <description>Forelsk dig i den nyeste musik, og vær med i klubben, når Alida Blakaj tager nye navne og udgivelser under kærlig og kompetent behandling, så du kan sige, at du var med fra dag ét.
-Ugens anbefaler: Mina Okabe.</description>
-            <pubDate>Sun, 22 Jun 2025 20:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802112" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821e423002e131c0a93939b/bd0733e29883302d1a68451bf032a455f16e85dd469c28bbde1f8f6367df3a5a"/>
         </item>
     </channel>
 </rss>
