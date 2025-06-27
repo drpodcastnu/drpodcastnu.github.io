@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 20 Jun 2025 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332516265</guid>
+            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-7-13332516265</link>
+            <title>Sanjari #7</title>
+            <description>Lad os da lige komme i kollektivt godt humør! Sanjari er bag pulten og sender dig lige ind i weekenden med et to timers DJ-set.</description>
+            <pubDate>Fri, 27 Jun 2025 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802045" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a467b626ea9bbfb0f8d/11229451722f5c0339344e9dad49412e5555d8285a260fd5043143889fc05beb"/>
+        </item>
         <item>
             <guid isPermalink="false">13332516255</guid>
             <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-6-13332516255</link>
@@ -312,19 +324,6 @@ Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weeke
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801554" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278081654c75b6cc9845/19cc99835f20bc40c205d1eb753b3285c67bd7cf0266f43a2eea2d28addb305b"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332416525</guid>
-            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/kato-4-13332416525</link>
-            <title>KATO #4</title>
-            <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-KATO er bag pulten.</description>
-            <pubDate>Fri, 27 Dec 2024 06:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:00:30</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="259942878" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6760b941f55b9722f8a1f2b2/f2825d66c143d2b579445398e5685ff074903db32100bf6b27e964cb832e2dca"/>
         </item>
     </channel>
 </rss>
