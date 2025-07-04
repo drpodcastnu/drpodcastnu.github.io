@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 27 Jun 2025 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564275</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/havnefezten-16122564275</link>
+            <title>HavneFezten</title>
+            <description>Sommerudgaven af Fezten kigger ud over landet og spiller lyden af årstidens store fester. Vi lægger ud med HavneFezten, hvor søfolk og landkrabber sørger for stemning på kajen.</description>
+            <pubDate>Fri, 04 Jul 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165603251" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6859d0536c43d38565dea2ce/76cc5926ceaf195be72a2c37f0578c3f426b5303fb29808fddaae2cd2959cb6e"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564265</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/nedtaelling-til-roskilde-16122564265</link>
