@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 04 Jul 2025 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564285</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/strandfezten-16122564285</link>
+            <title>StrandFezten</title>
+            <description>Fezten slår parasollen op og samler på strandskaller og sange, der lyder af bølgeskvulp og strandbar.</description>
+            <pubDate>Fri, 11 Jul 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602023" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685bc76c6c43d38565efded1/008bb7c6ec00c47420bde144f893ad3b9864ffb7b8984fe9dfdb8f6561d8316f"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564275</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/havnefezten-16122564275</link>
