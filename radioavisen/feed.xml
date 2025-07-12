@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 12 Jul 2025 08:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 11:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842511286</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511286</link>
+            <title>Seneste nyt kl. 11:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sat, 12 Jul 2025 11:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4423896" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6824510c61175376c1f52a13/c77b4e8414c9933cd12a1cb29ccf6a2926ffcb7696f5d87867c87527b77beb1b"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842510286</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/seneste-nyt-kl-10-00-14842510286</link>
+            <title>Seneste nyt kl. 10:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sat, 12 Jul 2025 10:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4410648" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68244f627b626ea9bbfaa988/8a47e0de2c1fc5f9769d75bedc9edbfe98ce4e916b52fda24e0fdbd1be80ab24"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842509286</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/seneste-nyt-kl-09-00-14842509286</link>
+            <title>Seneste nyt kl. 09:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sat, 12 Jul 2025 09:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:05:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="7331544" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68244d9b7b626ea9bbfa9bb1/5b39bd1042c4e3932c0b12705085a78748df529b45393b047eceaef1b88f93f5"/>
+        </item>
         <item>
             <guid isPermalink="false">14842508286</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/seneste-nyt-kl-08-00-14842508286</link>
@@ -267,7 +303,7 @@ Genudgivet RSS-feed.</description>
             <guid isPermalink="false">14842512285</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-sporarbejde-rammer-tusinder-af-togrejsende-14842512285</link>
             <title>Kl. 12:00: Sporarbejde rammer tusinder af togrejsende</title>
-            <description>Dagens vigtigste historier på 15 minutter
+            <description>Dagens vigtigste historier på 15 minutter.
 
 Masser af tog vil den kommende uge være aflyst på grund af sporarbejde. Det får sindene i kog hos mange passagerer.
 
