@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 10 Jul 2025 19:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 19:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,22 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652550064</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/pogacars-problem-i-bjergene-13652550064</link>
+            <title>Pogacars problem i bjergene</title>
+            <description>Når Touren mandag rammer årets første bjergetape er der godt nyt for Vingegaard, selvom det er på en grim baggrund. Tadej Pogacars vigtigste hjælperytter, Joao Almeida, udgik søndag af Tour de France med et brækket ribben efter et styrt fredag. Det giver fordel Vingegaard inden mandagens bjergslag mellem de to rivaler. 
+Wimbledon lukkede søndag med en finale mellem verdens bedste herrerspillere. Jannik Sinner slog Carlos Alcaraz i fire sæt, og dermed italieneren et skridt tættere på sin spanske rival i det indbyrdes grandslam-regnskab. 
+
+Vært: Mikkel Nygaard.
+Gæster: Emil Schiønning og Kresten Mosbæk.</description>
+            <pubDate>Sun, 13 Jul 2025 19:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:28</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="30921279" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f76e60bfb1c9b6997fc/1f68f76fdf0afc8ebe6f1edbbd05ea0873d1af6d8076ddff686276dfa5e54070"/>
+        </item>
         <item>
             <guid isPermalink="false">13652550062</guid>
             <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/wimbledons-stoerste-mesterstykke-13652550062</link>
@@ -1065,26 +1081,6 @@ Gæster: Tidligere sportsdirektør Dan Frost, håndboldekspert Lars Krogh og ten
             <itunes:duration>00:35:29</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="51107769" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f7fe60bfb1c9b699878/ad8daa9f56f013ea5d88d8fa887061b726729baadfc7c811facaf4af612a46ed"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652550003</guid>
-            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/vejen-til-verdensherredoemmet-kaptajn-kjaers-eftermaele-og-sprudlende-tauson-13652550003</link>
-            <title>Vejen til verdensherredømmet, Kaptajn Kjærs eftermæle og sprudlende Tauson</title>
-            <description>VM i håndbold begynder tirsdag, og de danske herrer er endnu engang storfavoritter. I dagens program kigger vi frem mod en slutrunde, hvor Danmark starter nemt, møder en outsider tidligt og kan spille for propfyldte tribuner i Boxen i Herning. Håndboldkommentator Frederik Lindved klæder os på til tre uger med fortryllende tophåndbold.
-
-Simon Kjær har valgt at stoppe karrieren. Fodboldkommentator Andreas Kraul gæster programmet og er med til at sætte punktum for Simon Kjærs karriere. En karriere, der har bragt ham vidt omkring, givet ham næstflest kampe af alle på det danske landshold og også budt på noget af et image-skifte.
-
-I Australien går det fremragende. Clara Tauson spiller god tennis og er videre til anden runde med sit helt nye våben - en rigtig god baghånd! Sammen med vores udsendte reporter gennemgår vi Tausons forvandling og kigger frem mod Holger Runes førsterundekamp mod en besværlig kineser.
- 
-Vært: Emil Schiønning
-Medvært: Tobias Hansen
-Gæster: Frederik Lindved, Andreas Kraul og Kresten Mosbæk</description>
-            <pubDate>Mon, 13 Jan 2025 13:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:40:01</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="57626916" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9581654c75b6c9c71e/086674d9fef1eff24ecb264890fe5b60199b5139eaf79cc889f395ef04fa3208"/>
         </item>
     </channel>
 </rss>
