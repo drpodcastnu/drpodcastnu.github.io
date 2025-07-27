@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 20 Jul 2025 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122562307</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe/alt-der-ligger-mellem-alle-stregerne-16122562307</link>
+            <title>Alt der ligger mellem alle stregerne</title>
+            <description>Lydigt ladig og ledigt tilbage i din radio.</description>
+            <pubDate>Sun, 27 Jul 2025 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481397" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6863aaaf5979eac113d49892/4bc8b180559acc0cc80343544e1609c7caa363969916be67a82e789a92a5d37f"/>
+        </item>
         <item>
             <guid isPermalink="false">16122562297</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe/gaven-giveren-og-givet-16122562297</link>

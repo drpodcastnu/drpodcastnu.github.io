@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 25 Jul 2025 19:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 19:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,25 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652550073</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/au-revoir-le-tour-13652550073</link>
+            <title>Au revoir, le Tour</title>
+            <description>Efter tre opslidende uger nåede rytterne til Paris med Jonas Vingegaard på det næstøverste trin på podiet og danskerens holdkammerat Wout van Aert som vinder på Champs-Élysées. 
+
+2025-udgaven var fyldt med op- og nedture, drama og cykelløb i absolut verdensklasse. Men hvad husker vi fra årets Tour de France? Hvad var højdepunkterne? Hvem strøg ind i vores hjerter?
+
+Det og meget mere diskuterer vi i dagens afsnit Tyvstart, som også bliver det sidste, inden redaktionen går på en lille sommerferie frem til uge 33. 
+
+Vært: Emil Schiønning.
+Gæster, Morten Hausborg, Alberte Røhl og Janus Duus-Larsen.</description>
+            <pubDate>Sun, 27 Jul 2025 19:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:32</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="29592437" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9ee60bfb1c9b6999d1/db0adb487a76dd6edf4249f712bb20d7a98584eb3cfc477b735319c90087a862"/>
+        </item>
         <item>
             <guid isPermalink="false">13652550072</guid>
             <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/jonas-slog-tadej-forgaeves-13652550072</link>
@@ -1125,26 +1144,6 @@ Gæster: Håndbolkommentator Frederik Lindved, tennisreporter Kresten Mosbæk og
             <itunes:duration>00:40:01</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="57648251" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f6081654c75b6c9c5ad/0362dfb817774846fe6137bff7ecd052300011668842805ee49d19fab06d736d"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652550007</guid>
-            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/supertalent-med-tordendroen-ploerefulde-fans-og-ny-dansk-fodboldlandstraener-13652550007</link>
-            <title>Supertalent med tordendrøn, plørefulde fans og ny dansk fodboldlandstræner</title>
-            <description>Han skyder som en hest sparker og kan blive en stor udfordring for det danske forsvar. Men er supertalentet Monte da Silva god nok til at kunne drille Danmark i VM-kvartfinalen? Det svarer håndboldekspert Lotte Griegel på i dagens program, hvor vi også ser nærmere på Danmarks mulige semifinalemodstandere. (2:00)
-
-Jacob Friis har taget et stort skridt op ad karrierestigen. Han er blevet ansat som landstræner for det finske fodboldlandshold. Nordjyden skal nu håndtere presset fra en hel nation, men har den fordel, at han ikke forstår et ord af, hvad de siger. (13.45)
-
-I Australien er årets første grand slam slut. Her diskuterer vi, om arrangørernes forsøg på at engagere publikum er godt for sporten, eller om de fulde fans nærmere ødelægger kampene. (24.45)
-
-Vært: Emil Schiønning
-Medvært: Tobias Hansen 
-Gæster: Lotte Griegel, Jacob Friis og Kresten Mosbæk</description>
-            <pubDate>Mon, 27 Jan 2025 13:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:39:56</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="57522681" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f8281654c75b6c9c6a7/2d902877dbc632bdcbdfca0376656ecc9620722626346a57801e529c9e3bd6ee"/>
         </item>
     </channel>
 </rss>
