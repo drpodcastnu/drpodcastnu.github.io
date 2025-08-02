@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 27 Jul 2025 18:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 18:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332543316</guid>
+            <link>https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/det-gode-sommerliv-13332543316</link>
+            <title>Det gode sommerliv</title>
+            <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo!</description>
+            <pubDate>Sat, 02 Aug 2025 18:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801401" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683d75225f16b69830932a58/2ee2fac05664d3268a5b30c17883d6cc02ab992b97da201d3e785ce6af1c7afd"/>
+        </item>
         <item>
             <guid isPermalink="false">13332543307</guid>
             <link>https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/det-gode-sommerliv-13332543307</link>
