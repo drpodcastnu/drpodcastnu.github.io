@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 08 Aug 2025 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564335</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/sommerens-sang-16122564335</link>
+            <title>Sommerens sang</title>
+            <description>Er der en sang, der har fulgt dig gennem sommeren? Fezten bygger et sandslot af sange - nye som gamle - der har været del af sommerens lydspor.</description>
+            <pubDate>Fri, 15 Aug 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601484" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68912f60b24a7f302ff194cb/6cf0ee86c758386c4122f7280761380ff722a51c0ce7dda0f92a23ed96d67580"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564325</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/all-inclusive-16122564325</link>
