@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 04 Aug 2025 05:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 05:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452558025</guid>
+            <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/let-s-eat-15452558025</link>
+            <title>Let´s eat</title>
+            <description>Husk at spise godt og varieret - også når det gælder musik. Denne gang serverer Fedty et saftigt sæt HOUSE direkte fra køkkenet til dansegulvet.</description>
+            <pubDate>Mon, 18 Aug 2025 05:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:03:07</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="90909244" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6853ca83de5d5eb0ff581ade/0c74d9b7cff2db9a2d1fa2009b62bac58bbfbc5965d0122843aaf0c48c5c235a"/>
+        </item>
         <item>
             <guid isPermalink="false">15452558024</guid>
             <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/dancing-around-in-my-tanktop-15452558024</link>
