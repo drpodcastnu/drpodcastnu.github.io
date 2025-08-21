@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 20 Aug 2025 20:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13652502344</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/torsdag-21-aug-2025-13652502344</link>
+            <title>Torsdag 21. aug. 2025</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Thu, 21 Aug 2025 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:54:58</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338377914" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68a2e11d2563b2d54c2f1e91/84683c8768055edd444329762bb13e21f5519562027dd401cffab671160065a9"/>
+        </item>
+        <item>
             <guid isPermalink="false">13652502343</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2025/onsdag-20-aug-2025-13652502343</link>
             <title>Onsdag 20. aug. 2025</title>
@@ -31,9 +43,9 @@ Genudgivet RSS-feed.</description>
             <pubDate>Wed, 20 Aug 2025 20:03:00 +0200</pubDate>
             <explicit>no</explicit>
             <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
+            <itunes:duration>02:56:59</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254882106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c4316dc2d1a211da9229b/e5053bc63a2e434fdd200bf3b6ce4c82f5e3f6c8a3be85f8f6b0ac333b50603f"/>
+            <enclosure length="254873466" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c4316dc2d1a211da9229b/2f780da745aba8f88afc9f08a07875fcc5c76904f80b3236cfba47045e4ae666"/>
         </item>
         <item>
             <guid isPermalink="false">13652502341</guid>
@@ -202,18 +214,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:53:30</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="163446584" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685175088b127900c7655e2f/a935d55ee2b7f48a63c2f303b17094120816cbecaa18906a4d7fb118bffabf14"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502303</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga/onsdag-23-jul-2025-13652502303</link>
-            <title>Onsdag 23. jul. 2025</title>
-            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-            <pubDate>Wed, 23 Jul 2025 21:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:49:05</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="243503096" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685aa2eb9f240a4462bcebfa/c3daa63bb662550666ca2e109e6d65506ce9ffef74700b886eb743f977d75126"/>
         </item>
     </channel>
 </rss>
