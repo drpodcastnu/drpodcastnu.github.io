@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 15 Aug 2025 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564345</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/usynlige-helte-16122564345</link>
+            <title>Usynlige helte</title>
+            <description>Vi hylder dem, vi sjældent ser: Musikkens producere og bagpersoner. Dem, der trykker på knapperne, men ikke er i spotlyset. Hvem skal have en hånd?</description>
+            <pubDate>Fri, 22 Aug 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602068" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6899c9419f287fbc5ecc8f80/688ad2f3e94f24e9ba94b66d5c3b0fddd6f8a02b06fbf0d27643b1568a56abb5"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564335</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/sommerens-sang-16122564335</link>
