@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 10 Sep 2025 13:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 13:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422535374</guid>
+            <link>https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mozarts-sidste-symfoni-12422535374</link>
+            <title>Mozarts sidste Symfoni</title>
+            <description>Symfoni nr. 41 er en stor symfoni der derfor i al sin grandiositet i eftertiden har fået kælenavnet Jupiter. 
+Den bliver spillet af Sveriges Radios Symfoniorkester under ledelse af Maxim Emelyanychev.
+Vært: Mette Greiffenberg.</description>
+            <pubDate>Thu, 11 Sep 2025 13:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:58</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82042989" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7563923dffbb197656a9/bec69f7ea19e6f57b85e30259adfe85952eaae30264a5943608b35d1dee496f8"/>
+        </item>
         <item>
             <guid isPermalink="false">12422535373</guid>
             <link>https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mahlers-4-symfoni-12422535373</link>
