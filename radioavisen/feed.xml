@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 12 Sep 2025 08:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 11:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842511375</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511375</link>
+            <title>Seneste nyt kl. 11:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 12 Sep 2025 11:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4426776" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6824511aed08761f5dbc6fa7/90f2e02b5744d0d29c5a361650090953bb59d5e5b26ec75a2aa03db44a4686b1"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842510375</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/seneste-nyt-kl-10-00-14842510375</link>
+            <title>Seneste nyt kl. 10:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 12 Sep 2025 10:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4422744" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68244f6d61175376c1f51e31/f8362fb4ed030761d42e88cd4fc2707a731b406317fda744c013880dd1474a7e"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842509375</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/seneste-nyt-kl-09-00-14842509375</link>
+            <title>Seneste nyt kl. 09:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 12 Sep 2025 09:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:05:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="7287768" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68244e2561175376c1f5142c/baba6b0b0f37a805c5ed73ca04e0b0488f318f9e4fec6af85d18adf79720d8de"/>
+        </item>
         <item>
             <guid isPermalink="false">14842508375</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/seneste-nyt-kl-08-00-14842508375</link>
@@ -265,8 +301,8 @@ Genudgivet RSS-feed.</description>
         </item>
         <item>
             <guid isPermalink="false">14842512374</guid>
-            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/radioavisen-kl-12-00-salling-paa-vej-med-beredskabsbutikker-14842512374</link>
-            <title>Radioavisen: Kl. 12:00: Salling på vej med "beredskabsbutikker"</title>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-salling-paa-vej-med-beredskabsbutikker-14842512374</link>
+            <title>Kl. 12:00: Salling på vej med "beredskabsbutikker"</title>
             <description>Dagens vigtigste nyheder på 15 minutter.
 
 Salling Group vil lave beredskabsbutikker, så for eksempel nogle Bilka'er kan holde åben, selvom Danmark går i sort.
