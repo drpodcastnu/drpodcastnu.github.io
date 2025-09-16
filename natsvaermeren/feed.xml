@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 14 Sep 2025 03:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 03:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422563381</guid>
+            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/haab-12422563381</link>
+            <title>Håb</title>
+            <description>Musikken forsoner og blander blod i fredelig sameksistens. 
+Vært: Minna Grooss.</description>
+            <pubDate>Tue, 16 Sep 2025 03:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:56:54</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168346638" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9e74923dffbb197776d7/fc64ed202790388365f25a98f8034cbfcb3ae60c98c92cce617658c5bfb3c455"/>
+        </item>
         <item>
             <guid isPermalink="false">12422563376</guid>
             <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/lydboelger-med-mere-12422563376</link>
