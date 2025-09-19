@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 18 Sep 2025 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13652502385</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/fredag-19-sep-2025-13652502385</link>
+            <title>Fredag 19. sep. 2025</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <pubDate>Fri, 19 Sep 2025 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338520632" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689b1fd4dc2d1a211d9f430d/37a5c390148d3a3b45904c5e2cbae2f1d09816bd9c834791b1e988c5aae0e5e9"/>
+        </item>
+        <item>
             <guid isPermalink="false">13652502384</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2025/torsdag-18-sep-2025-13652502384</link>
             <title>Torsdag 18. sep. 2025</title>
@@ -31,9 +43,9 @@ Genudgivet RSS-feed.</description>
             <pubDate>Thu, 18 Sep 2025 18:05:00 +0200</pubDate>
             <explicit>no</explicit>
             <itunes:author>DR</itunes:author>
-            <itunes:duration>03:55:00</itunes:duration>
+            <itunes:duration>03:55:03</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="338401400" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b948801e3518f26c0ed150/ef6b62e7b8288533621c594958208f99d66f2392cb76ad97c12c4c88430ae582"/>
+            <enclosure length="338491256" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b948801e3518f26c0ed150/562a83c00cf8a325a551997bcc05a632283fd59fa228420968e3623dbcc6cebb"/>
         </item>
         <item>
             <guid isPermalink="false">13652502381</guid>
@@ -190,18 +202,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:51:06</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="246396474" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c435fdc2d1a211da92516/8f34fdd2206d9202731fccfad0f80e9f099feec65946cafc96c3265da8af224c"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502344</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/torsdag-21-aug-2025-13652502344</link>
-            <title>Torsdag 21. aug. 2025</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Thu, 21 Aug 2025 18:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:54:58</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="338377914" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68a2e11d2563b2d54c2f1e91/84683c8768055edd444329762bb13e21f5519562027dd401cffab671160065a9"/>
         </item>
     </channel>
 </rss>
