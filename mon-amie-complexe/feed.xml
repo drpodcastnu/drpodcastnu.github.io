@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 14 Sep 2025 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122562387</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe/vokalernes-univers-16122562387</link>
+            <title>Vokalernes univers</title>
+            <description>Vi taler om overtoner, strubesang, hviskende sange, store vokaler og små vokaler. Stemmebåndet og musklerne i maven, og hvordan man egentlig bliver en god sanger.</description>
+            <pubDate>Sun, 21 Sep 2025 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482091" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68c1f69ba437954b137d494c/e322181dd3fa4016bc107980d6fb1f44095d43e108248710f5b99992236f93c2"/>
+        </item>
         <item>
             <guid isPermalink="false">16122562377</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe/harp-dot-com-16122562377</link>
