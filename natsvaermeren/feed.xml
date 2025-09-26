@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 25 Sep 2025 03:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 03:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422563394</guid>
+            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/musikken-som-ledestjerne-12422563394</link>
+            <title>Musikken som ledestjerne</title>
+            <description>Natten står på vid gab.
+Vært: Minna Grooss.</description>
+            <pubDate>Fri, 26 Sep 2025 03:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481400" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9e51c56338368d769a6d/224b59d583f2d79824148689b85f052cdb573efa75b54eda79a0a817588cc6b0"/>
+        </item>
         <item>
             <guid isPermalink="false">12422563393</guid>
             <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/lyden-af-pta-12422563393</link>
