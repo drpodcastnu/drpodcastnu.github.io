@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 22 Jun 2025 07:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 07:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,16 +24,28 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
-            <guid isPermalink="false">15452520257</guid>
-            <link>https://www.dr.dk/lyd/p5/p5-morgen/p5-morgen/soendag-22-jun-2025-15452520257</link>
-            <title>Søndag 22. jun. 2025</title>
+            <guid isPermalink="false">15452520397</guid>
+            <link>https://www.dr.dk/lyd/p5/p5-morgen/p5-morgen/soendag-28-sep-2025-15452520397</link>
+            <title>Søndag 28. sep. 2025</title>
             <description>Historier om dagen i dag, dagens fødselarer, dagens TV-tips og masser af den gode P5-Musik.</description>
-            <pubDate>Sun, 22 Jun 2025 07:03:00 +0200</pubDate>
+            <pubDate>Sun, 28 Sep 2025 07:03:00 +0200</pubDate>
             <explicit>no</explicit>
             <itunes:author>DR</itunes:author>
-            <itunes:duration>02:40:52</itunes:duration>
+            <itunes:duration>02:40:57</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="231651341" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6849fdf4d9427b60778da9e2/494ec1a12fee877a2ea9145fd30d11b320b010572583f2bf0e2ef3c172c3fa39"/>
+            <enclosure length="231778061" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68249fda61175376c1f77045/5fc3de9a7bf8c011180f3072d561d23c47061decdea6ef9cf1673f04c83dcffe"/>
+        </item>
+        <item>
+            <guid isPermalink="false">15452520396</guid>
+            <link>https://www.dr.dk/lyd/p5/p5-morgen/p5-morgen/loerdag-27-sep-2025-15452520396</link>
+            <title>Lørdag 27. sep. 2025</title>
+            <description>Historier om dagen i dag, dagens fødselarer, dagens TV-tips og masser af den gode P5-Musik.</description>
+            <pubDate>Sat, 27 Sep 2025 07:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:40:51</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="231646733" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6824a0167b626ea9bbfd0b90/c9688b1b2b165121d6ae1474026d6eec98cda866cd423f6320c4f057bbea302a"/>
         </item>
     </channel>
 </rss>
