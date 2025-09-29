@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 15 Sep 2025 05:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 05:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452558028</guid>
+            <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/a-love-affair-15452558028</link>
+            <title>A love affair</title>
+            <description>DJ søger kærlighed. Kærlighed i hverdagsmagien!</description>
+            <pubDate>Mon, 29 Sep 2025 05:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:58:42</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="84552424" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6853ca85d25149d8c0b5c834/f7ed781c05d0a60653a6b1566af2fbed1c6d5e48b8e6bb4a2a83d9038f805ddc"/>
+        </item>
         <item>
             <guid isPermalink="false">15452558027</guid>
             <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/00erne-har-ringet-15452558027</link>
