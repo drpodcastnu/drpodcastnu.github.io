@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 29 Sep 2025 13:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 13:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422535402</guid>
+            <link>https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/beethovens-eroica-symfoni-nr-3-12422535402</link>
+            <title>Beethovens Eroica, Symfoni nr. 3</title>
+            <description>Det Hollandske Filharmoniske Radioorkester.
+Dirigent: Roderick Cox. 
+Vært: Mette Greiffenberg.</description>
+            <pubDate>Tue, 30 Sep 2025 13:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82124647" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7565923dffbb197656fa/70eb1825ee538fa80a1d5fca14231fee74024858c858ebf6e05d40907c7d6c9d"/>
+        </item>
         <item>
             <guid isPermalink="false">12422535401</guid>
             <link>https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/klaverduo-i-wigmore-hall-12422535401</link>
