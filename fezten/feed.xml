@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 10 Oct 2025 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564435</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/lys-vs-moerke-16122564435</link>
+            <title>Lys vs. Mørke</title>
+            <description>Vi går tilbage til vintertid i weekenden, så Fezten tænder lampen. Hvilken sang eller kunstner lyser op i en mørk tid?</description>
+            <pubDate>Fri, 24 Oct 2025 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602042" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e4f871df10db2ff7f7d41c/c4973eddabc0257e9a2e56cd39f868b780690b80cdb7e8b2fc513f217f4f0d3f"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564415</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/fri-bar-16122564415</link>
