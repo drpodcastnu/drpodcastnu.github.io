@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 26 Oct 2025 14:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652502441</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/mandag-27-oktober-2025-13652502441</link>
+            <title>Mandag 27. oktober 2025</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <pubDate>Mon, 27 Oct 2025 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:51:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="332705336" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cc02524e0efd14f509861f/c3cb776215db48530378b6280e617e29a11460a77fe18f8e0863ea2316c39fcd"/>
+        </item>
         <item>
             <guid isPermalink="false">13652502437</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2025/soendag-26-oktober-2025-13652502437</link>
@@ -214,18 +226,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>04:00:03</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="345685496" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689b2a09985ac6b7e095eb5f/6d9378cc185ec4bc95933df191e8f3d40cd288bf4398334a63501fe2f90b1547"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502397</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/soendag-28-sep-2025-13652502397</link>
-            <title>Søndag 28. sep. 2025</title>
-            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-            <pubDate>Sun, 28 Sep 2025 14:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>08:00:54</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="692502584" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689b2157985ac6b7e095a1ed/7a035063e68282e62c84e1e8a2ed9f83e0a61caff1863b78a1bcc32d687d7abf"/>
         </item>
     </channel>
 </rss>
