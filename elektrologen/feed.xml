@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 13 Oct 2025 05:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 05:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452558030</guid>
+            <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/efterklang-fra-paris-15452558030</link>
+            <title>Efterklang fra Paris</title>
+            <description>Fedty har trampet lidt i Paris - og det kan mærkes. Byen har sat sig i kroppen, og i denne udgave af Elektrologen deler hun de toner og stemninger, der stadig danser rundt i hende.</description>
+            <pubDate>Mon, 27 Oct 2025 05:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:06:29</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="95749995" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6853ca8c047dbd9dedf5f021/c063a52410dfce3c376f53776f5e17322dd1f3fceb3f754e9fc0d479700ef927"/>
+        </item>
         <item>
             <guid isPermalink="false">15452558029</guid>
             <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/it-ebbs-and-it-flows-15452558029</link>
