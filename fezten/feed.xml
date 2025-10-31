@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 24 Oct 2025 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122564445</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/dans-dansk-dag-16122564445</link>
+            <title>Dans Dansk Dag</title>
+            <description>Fezten samler på danske godbidder med ekstra beat. Skal det være elektronisk, fingerknipsende eller fodvippende? Byd ind med en danseklar dansk favorit.</description>
+            <pubDate>Fri, 31 Oct 2025 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601498" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e4f86ddf10db2ff7f7d3bf/9777ca8cd35fd613956494e99e780a56736d232468dde9bc8ad65c247c31d6d3"/>
+        </item>
         <item>
             <guid isPermalink="false">16122564435</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten/lys-vs-moerke-16122564435</link>
