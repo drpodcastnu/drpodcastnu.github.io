@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 09 Nov 2025 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842514457</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514457</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4406040" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f14202e199a1c531295f5/4d2004afdc8f22e52efd0d537889ba58688888b478466840a283911315829bc8"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842513457</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513457</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 09 Nov 2025 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4416408" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f12fc2e199a1c53128995/81ffecdbccc6fe95f010508bac23345046bc1467d73e66ff0183a2e5f7d5c2a6"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842512457</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-diagnose-muren-14842512457</link>
+            <title>Kl. 12:00: Diagnose-muren</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Daniel Ehnhuus.</description>
+            <pubDate>Sun, 09 Nov 2025 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21706249" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f11f2ab10e7b0b689d210/32946e4d47c47025d10d3a0469efe7c381876f7af43e6d3ee10098674f92445f"/>
+        </item>
         <item>
             <guid isPermalink="false">14842511457</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511457</link>
