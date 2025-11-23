@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 23 Nov 2025 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 23 Nov 2025 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842514477</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514477</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 23 Nov 2025 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4435416" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be915eca1e334d4fc4efb8/eab81347aabd2672e42e0cfb95af541664eb00da33b23eeb55631dd105acb5bd"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842513477</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513477</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 23 Nov 2025 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4439448" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be863f6873638e2679e6cb/7541b3fb3a50d8ab0d458c01ebf0354dfe8c7b441773076f87340e888097b9f0"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842512477</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-boernesoldater-i-danmark-14842512477</link>
+            <title>Kl. 12:00: "Børnesoldater" i Danmark</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Michael Olesen.</description>
+            <pubDate>Sun, 23 Nov 2025 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21730441" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68baa08a1e3518f26c1a15a2/cfd991f5700e021d1f7d8255af015127e683ec67ff01ad1193989e0ae45f104a"/>
+        </item>
         <item>
             <guid isPermalink="false">14842511477</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511477</link>
