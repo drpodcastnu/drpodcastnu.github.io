@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 23 Nov 2025 14:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122548151</guid>
+            <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2025/soendag-30-nov-2025-16122548151</link>
+            <title>Søndag 30. nov. 2025</title>
+            <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+            <pubDate>Sun, 30 Nov 2025 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:06:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="95099551" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dc821ce6d3443e401f925/64fd6c9f7336d78c720fd3796f6b0fe7d1b63b36c32f9f6470d63fb9e1b6917d"/>
+        </item>
         <item>
             <guid isPermalink="false">16122548150</guid>
             <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2025/julefrokostquizzen-16122548150</link>
