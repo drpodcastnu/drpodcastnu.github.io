@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 03 Dec 2025 02:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 05:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842505493</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/seneste-nyt-kl-05-00-14842505493</link>
+            <title>Seneste nyt kl. 05:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Wed, 03 Dec 2025 05:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4474008" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b96b233d1da25c234372a1/986ea0fc4d5b3575b5b8ecbcc75c295ae2983d6fe3deb8922098ddc6fa62d2db"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842504492</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/seneste-nyt-kl-04-00-14842504492</link>
+            <title>Seneste nyt kl. 04:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Wed, 03 Dec 2025 04:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4471704" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b9687eca1e334d4f98abfe/63cd38daec3bcafe543787f5b6ddb9e53cb9a7c3d9081b32d978519a6fadd431"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842503492</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/seneste-nyt-kl-03-00-14842503492</link>
+            <title>Seneste nyt kl. 03:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Wed, 03 Dec 2025 03:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4471704" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b95a2b3d1da25c2342dbdc/7e691a508bbc44ae3b285c0ad374d67743ae82476bf01411dd16a968f76199b2"/>
+        </item>
         <item>
             <guid isPermalink="false">14842502492</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/seneste-nyt-kl-02-00-14842502492</link>
