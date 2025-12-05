@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 05 Dec 2025 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842514495</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514495</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 05 Dec 2025 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4430232" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be9160f41632b3606e2874/ef18d667548479c198414821f2953444633fd5e5aaa68c2255fe8f6e09efe19a"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842513495</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513495</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 05 Dec 2025 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4433112" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be8640f41632b3606dc8f0/730de7544f8ae86af8594be2f9a8fb9e6e18c18fb2355d466dc974ba0caa5a40"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842512495</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-mette-f-paa-tiktok-14842512495</link>
+            <title>Kl. 12:00: Mette F på TikTok</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Morten Schnell Lauritzen.</description>
+            <pubDate>Fri, 05 Dec 2025 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21737940" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68baa0e9ca1e334d4fa342ff/ea8388d0a8f4b3f7ef1bd3eea019a59c4571f41aa019cdc977b76fde3672e6df"/>
+        </item>
         <item>
             <guid isPermalink="false">14842511495</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511495</link>
