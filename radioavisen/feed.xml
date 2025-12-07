@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 07 Dec 2025 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842514497</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514497</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 07 Dec 2025 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4410648" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be91611e3518f26c3a74fd/4d627682e6a355a3e9cbccf00a425c822dc053c17c58d3cca2c5474ad5281cc3"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842513497</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513497</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 07 Dec 2025 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4377816" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be86401e3518f26c3a164c/9bda50ecf046f34472d3874bea4dfedfaef292421a03640aec6a800cea2aa9bc"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842512497</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-smil-det-er-gratis-14842512497</link>
+            <title>Kl. 12:00: Smil, det er gratis</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Maria Dohn.</description>
+            <pubDate>Sun, 07 Dec 2025 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21731589" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68baa0ba155920cf17c95c0f/895a96b87c6b4d635099cdd80824e312fb52c36de862fb7b92111021dcf90654"/>
+        </item>
         <item>
             <guid isPermalink="false">14842511497</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511497</link>
