@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 24 Nov 2025 05:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Dec 2025 05:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452558033</guid>
+            <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/et-oejeblik-mellem-hverdag-og-nat-15452558033</link>
+            <title>Et øjeblik mellem hverdag og nat</title>
+            <description>Når byen dæmper lyset, og verden trækker vejret lidt langsommere, tænder jeg for musikken - et sted mellem stue og klub, mellem puls og pause.</description>
+            <pubDate>Mon, 08 Dec 2025 05:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:06:44</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="96116872" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6853ca82de5d5eb0ff581ab6/06c5385ae303c6a5ad22b30aa6cf36af6a8c29dc2d8ea706b1a9a202a3a3111b"/>
+        </item>
         <item>
             <guid isPermalink="false">15452558032</guid>
             <link>https://www.dr.dk/lyd/special-radio/elektrologen/elektrologen-2025/it-s-inside-that-counts-15452558032</link>
