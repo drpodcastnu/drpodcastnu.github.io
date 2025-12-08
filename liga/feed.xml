@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 07 Dec 2025 14:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 08 Dec 2025 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13652502501</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/mandag-8-december-2025-13652502501</link>
+            <title>Mandag 8. december 2025</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <pubDate>Mon, 08 Dec 2025 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>04:00:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="345685496" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e773efdf10db2ff70d9ae3/c896e00d408073ceb7894a324859f4c61559a28f021d61f5591d571e8a5a971c"/>
+        </item>
+        <item>
             <guid isPermalink="false">13652502497</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2025/soendag-7-december-2025-13652502497</link>
             <title>Søndag 7. december 2025</title>
@@ -31,9 +43,9 @@ Genudgivet RSS-feed.</description>
             <pubDate>Sun, 07 Dec 2025 14:03:00 +0100</pubDate>
             <explicit>no</explicit>
             <itunes:author>DR</itunes:author>
-            <itunes:duration>08:12:00</itunes:duration>
+            <itunes:duration>08:54:50</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="708481400" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e772d3df10db2ff70d8f56/3a48472271f91b76ee69cd6bbb68c19fab87ded7aebf091a6052ef087a34ce4f"/>
+            <enclosure length="770175608" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e772d3df10db2ff70d8f56/72e6cb3155491c32921c06a3f387f30e9881fa0c0f049d69d623f3328f9a21df"/>
         </item>
         <item>
             <guid isPermalink="false">13652502495</guid>
@@ -227,18 +239,6 @@ Værter: Mikkel Nygaard og Morten Hausborg.</description>
             <itunes:duration>03:55:05</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338532858" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b1206bf545a44d7f4a982/0d2c7c4890ad729c2510804960eb90ce96ff34a3dd6c94ecb421edfca7b093c5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502457</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/soendag-9-november-2025-13652502457</link>
-            <title>Søndag 9. november 2025</title>
-            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-            <pubDate>Sun, 09 Nov 2025 14:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>06:57:05</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="600618488" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cc05022d41e0e7a0380349/6b49d3d43ee6b0033578679e77a19d8d31eb8a02c6947aa014e3d0ee83ebc3a2"/>
         </item>
     </channel>
 </rss>
