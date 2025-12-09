@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 09 Dec 2025 08:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 11:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842511502</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511502</link>
+            <title>Seneste nyt kl. 11:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 09 Dec 2025 11:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4411224" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ba9e7c1e3518f26c1a007c/8247bcab84b46abed3197a6cd6a2fff28f4caa7bc04848342216024f43fc5218"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842510502</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/seneste-nyt-kl-10-00-14842510502</link>
+            <title>Seneste nyt kl. 10:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 09 Dec 2025 10:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4449240" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ba9a7aca1e334d4fa3069c/2d287cf28e9ad8fc03436544142304075e7cd5851a6335c14aac277c41f23700"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842509502</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/seneste-nyt-kl-09-00-14842509502</link>
+            <title>Seneste nyt kl. 09:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 09 Dec 2025 09:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:05:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="7347096" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ba98351e3518f26c19c8ca/21aefa7ddeccc56372a697a880d0ce9827898b895ad655748b69e9240e76a1b6"/>
+        </item>
         <item>
             <guid isPermalink="false">14842508502</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/seneste-nyt-kl-08-00-14842508502</link>
@@ -265,8 +301,8 @@ Genudgivet RSS-feed.</description>
         </item>
         <item>
             <guid isPermalink="false">14842512501</guid>
-            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/klokken-12-dansker-draebt-i-ukraine-14842512501</link>
-            <title>Klokken 12: Dansker dræbt i Ukraine</title>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-dansker-draebt-i-ukraine-14842512501</link>
+            <title>Kl. 12:00: Dansker dræbt i Ukraine</title>
             <description>Dagens vigtigste nyheder på 15 minutter.
 
 Vært: Niels Christian Lang.</description>
