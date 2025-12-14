@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 13 Dec 2025 18:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 14:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652502507</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/soendag-14-december-2025-13652502507</link>
+            <title>Søndag 14. december 2025</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <pubDate>Sun, 14 Dec 2025 14:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>06:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="600481400" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e773f0df10db2ff70d9afc/7ddc15f79f11c45a3a7c8bd5a98fa4abc112ca18089fd011eaf078b18bb2a7df"/>
+        </item>
         <item>
             <guid isPermalink="false">13652502506</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2025/loerdag-13-december-2025-13652502506</link>
@@ -251,18 +263,6 @@ Værter: Mikkel Nygaard og Morten Hausborg.</description>
             <itunes:duration>03:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="259202016" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:691302ef3d1d95f2b20dc71d/507838fe42e5519a61ceda7208ca5d061e217ee74ce437b3b72fc66c238ee64a"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652502466</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2025/loerdag-15-november-2025-13652502466</link>
-            <title>Lørdag 15. november 2025</title>
-            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-            <pubDate>Sat, 15 Nov 2025 18:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>05:00:03</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="432085496" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cc05522d41e0e7a03805fa/138061d32dbb403a5e6227f51bdda2222c74891553b0b74dbd0156bdf74a0064"/>
         </item>
     </channel>
 </rss>

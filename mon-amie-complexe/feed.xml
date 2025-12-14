@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 07 Dec 2025 19:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 19:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122562507</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2025/julebuk-16122562507</link>
+            <title>Julebuk</title>
+            <description>Strå og røde bånd og djævelsk fortid, årets sidste program er et tema program om julebukken!</description>
+            <pubDate>Sun, 14 Dec 2025 19:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481445" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69270a57f813fbba905629bc/7b192b2b9565077b319a8c244f22410b3751942fb1a3859f4fe79131c7b66596"/>
+        </item>
         <item>
             <guid isPermalink="false">16122562497</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2025/vinter-16122562497</link>
