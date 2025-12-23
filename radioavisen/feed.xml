@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 23 Dec 2025 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842514522</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514522</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 23 Dec 2025 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4403736" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be9167ca1e334d4fc4f0a4/a94f157839dd1e511195f0a1db723748c3764d3259f488b04c62443ba7a23d2e"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842513522</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513522</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 23 Dec 2025 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4425624" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68be86483d1da25c236e8e72/72ced65c08114e8f980132a5f1529f20362a604ede036b63c480b54c96867188"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842512522</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-tab-dig-med-en-pille-14842512522</link>
+            <title>Kl. 12:00: Tab dig med en pille</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Morten Schnell Lauritzen.</description>
+            <pubDate>Tue, 23 Dec 2025 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21707411" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68baa0a91e3518f26c1a16e6/0e4e49fb72ade312c52e157d4c1abae1e996443c304c2fc0c2924d412f4bf472"/>
+        </item>
         <item>
             <guid isPermalink="false">14842511522</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511522</link>
