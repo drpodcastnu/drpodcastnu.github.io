@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 24 Dec 2025 18:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 18:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452523524</guid>
+            <link>https://www.dr.dk/lyd/p5/hithouse/hithouse/hithouse-15452523524</link>
+            <title>Hithouse</title>
+            <description>Musik og historier fra 
+pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+            <pubDate>Thu, 25 Dec 2025 18:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82182772" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682498cd802fda5b406b2825/a1d1f39c33f10a4c7c3342cc909468dc1fa11d67f913afd24f66f33c60988c95"/>
+        </item>
         <item>
             <guid isPermalink="false">15452523523</guid>
             <link>https://www.dr.dk/lyd/p5/hithouse/hithouse/jul-i-hithouse-15452523523</link>
