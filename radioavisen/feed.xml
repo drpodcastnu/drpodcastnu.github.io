@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 26 Dec 2025 05:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 08:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842508525</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/seneste-nyt-kl-08-00-14842508525</link>
+            <title>Seneste nyt kl. 08:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 26 Dec 2025 08:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:05:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="7317720" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ba92cf1e3518f26c199b49/70e01a62e74749c83e4e8d18b4fa7758b4e6bb8c900cbd769dcc64eb0b186391"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842507525</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/seneste-nyt-kl-07-00-14842507525</link>
+            <title>Seneste nyt kl. 07:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 26 Dec 2025 07:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4474584" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ba903c1e3518f26c1980b2/21318939503f9d85e6983aaf8e04ae5e2e48acdd69dc0bdea9fb22ea26d3aee3"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842506525</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/seneste-nyt-kl-06-00-14842506525</link>
+            <title>Seneste nyt kl. 06:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 26 Dec 2025 06:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4471128" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ba8c00ca1e334d4fa27a0f/c88c8c4fd6627e06300ad08e1e2f1cd2b4588d548dd24c4c1dfe342ef26559de"/>
+        </item>
         <item>
             <guid isPermalink="false">14842505525</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/seneste-nyt-kl-05-00-14842505525</link>
@@ -229,9 +265,11 @@ Genudgivet RSS-feed.</description>
         </item>
         <item>
             <guid isPermalink="false">14842512524</guid>
-            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/seneste-nyt-kl-12-00-14842512524</link>
-            <title>Seneste nyt kl. 12:00</title>
-            <description>Dagens vigtigste nyheder på 15 minutter.</description>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-kroniske-sygdomme-kobles-til-kost-14842512524</link>
+            <title>Kl. 12:00: Kroniske sygdomme kobles til kost</title>
+            <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Thomas Hougaard.</description>
             <pubDate>Thu, 25 Dec 2025 12:00:00 +0100</pubDate>
             <explicit>no</explicit>
             <itunes:author>DR</itunes:author>
