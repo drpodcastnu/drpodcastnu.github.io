@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 31 Dec 2025 12:30:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 08:30:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,29 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14042608014</guid>
+            <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-08-30-14042608014</link>
+            <title>Seneste nyt kl. 08:30</title>
+            <description>Seneste nyt kl. 08:30</description>
+            <pubDate>Thu, 01 Jan 2026 08:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad37f963a392e8f461461/918e08f4c06aa98c79697d69deb99614b78a74f9ee34474d76194647916da8ca"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14042607014</guid>
+            <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-07-30-14042607014</link>
+            <title>Seneste nyt kl. 07:30</title>
+            <description>Seneste nyt kl. 07:30</description>
+            <pubDate>Thu, 01 Jan 2026 07:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881897" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693acebbaf5ce965642d1e1b/f28bed4d5be1d181ca2d6c0baacc85755a94f8e21d45fcecbee804d5d2ac835b"/>
+        </item>
     </channel>
 </rss>
