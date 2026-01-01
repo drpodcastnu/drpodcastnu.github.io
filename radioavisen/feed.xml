@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 01 Jan 2026 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614014</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614014</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Thu, 01 Jan 2026 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4450968" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b6166ab1506d5ae802d94/a4c54f6d048d2bcd7bddd8cc8c31c94b3cde784e6dbb204489487b48f94f2a69"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613014</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613014</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Thu, 01 Jan 2026 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4442328" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b611bab1506d5ae80299b/19e836e01ffa333f9ce39a8cb5817f2f951b289a21f7fde3a7bc57804b74e4de"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612014</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/kl-12-00-schweiz-i-chok-14842612014</link>
+            <title>Kl. 12:00: Schweiz i chok</title>
+            <description>De seneste nyheder - døgnet rundt.
+
+Vært: Maria Dohn.</description>
+            <pubDate>Thu, 01 Jan 2026 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21711997" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b60cc4f22de874edd626a/d1980d649782f52e95ec17c90ee3c65da301304779cfc70c5238b3ae407a2b10"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611014</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611014</link>
