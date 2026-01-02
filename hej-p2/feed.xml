@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 31 Dec 2025 08:30:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 08:30:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630015</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/moerke-stemmer-12422630015</link>
+            <title>Mørke stemmer</title>
+            <description>Vi dyrker de mørke stemmer i den klassiske musik, både de mandlige og de kvindelige. Hvad skal vi høre og hvorfor?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
+Vært: Benedikte Bové.</description>
+            <pubDate>Fri, 02 Jan 2026 08:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:24:14</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="121301384" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2863af5ce96564306aae/5e079ef313bd7bbd6c58c53242dcd6d87f56e0ae2111313d991a4f89d1f6dc0e"/>
+        </item>
     </channel>
 </rss>

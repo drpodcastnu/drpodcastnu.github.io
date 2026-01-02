@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 30 Dec 2025 06:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 06:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,17 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14802620015</guid>
+            <link>https://www.dr.dk/lyd/p4kbh/p4-morgen-koebenhavn/p4-morgen-koebenhavn-2026/fredag-2-januar-2026-14802620015</link>
+            <title>Fredag 2. januar 2026</title>
+            <description>Stå op med P4 Morgen København og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+            <pubDate>Fri, 02 Jan 2026 06:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402108" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6932a7ade92e3adf154b2869/bddcd2864c5e7cdfdf99541a74dbe5c4ed31cab474a0ff9b20d3752add22e5ca"/>
+        </item>
     </channel>
 </rss>
