@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 31 Dec 2025 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661015</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/rakhmaninovs-symfoni-nr-1-12422661015</link>
+            <title>Rakhmaninovs Symfoni nr. 1</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed.
+Sergej Rakhmaninov: Symfoni nr. 1, d-mol, op. 13. Philadelphia Orkestret. Dirigent: Yannick Nézet-Séguin. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Fri, 02 Jan 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28ddb73064306f3c1f2f/755b401cd1b6777306d9aea0a5f36bd9bafec2b5c26a538aae01234e117ef273"/>
+        </item>
     </channel>
 </rss>

@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 02 Jan 2026 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614015</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614015</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 02 Jan 2026 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4410072" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b6166ab1506d5ae802d93/79281a90dc8b9c51fdfe49b3aab003bb814f27e0b3e7902acf40a33a6c852bf6"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613015</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613015</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 02 Jan 2026 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4416984" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b611b4f22de874edd6543/efa2428417092c5e0327ee292afc641e986126102f4dcfdfd870f039c0de157e"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612015</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/kl-12-00-mettes-moms-dumper-14842612015</link>
+            <title>Kl. 12:00: Mettes moms dumper</title>
+            <description>De seneste nyheder - døgnet rundt.
+
+Vært: Maria Dohn.</description>
+            <pubDate>Fri, 02 Jan 2026 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21720061" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b60cc4f22de874edd6271/92f838c66a52f64d0166358df576fd7e180801f944373abb3e328c9700da27f1"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611015</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611015</link>
