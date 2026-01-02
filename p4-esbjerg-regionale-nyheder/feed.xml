@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 02 Jan 2026 09:30:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 17:30:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,30 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14032617015</guid>
+            <link>https://www.dr.dk/lyd/p4esbjerg/p4-esbjerg-regionale-nyheder/p4-esbjerg-regionale-nyheder/seneste-nyt-kl-17-30-14032617015</link>
+            <title>Seneste nyt kl. 17:30</title>
+            <description>Seneste nyt kl. 17:30</description>
+            <pubDate>Fri, 02 Jan 2026 17:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69392292af5ce965641d1660/64ead93ac15eed59dfd585e1128f5ae3ca4675c0f1668caf951ecd3d2714a3c5"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14032616015</guid>
+            <link>https://www.dr.dk/lyd/p4esbjerg/p4-esbjerg-regionale-nyheder/p4-esbjerg-regionale-nyheder/seneste-nyt-kl-16-30-14032616015</link>
+            <title>Seneste nyt kl. 16:30</title>
+            <description>Seneste nyt kl. 16:30</description>
+            <pubDate>Fri, 02 Jan 2026 16:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693921b6af5ce965641d0c8b/300066016a99674c59b1c22899e7c5e2c7c21a30799d1b7763ab0878e03a062f"/>
+        </item>
         <item>
             <guid isPermalink="false">14032609015</guid>
             <link>https://www.dr.dk/lyd/p4esbjerg/p4-esbjerg-regionale-nyheder/p4-esbjerg-regionale-nyheder/seneste-nyt-kl-09-30-14032609015</link>
