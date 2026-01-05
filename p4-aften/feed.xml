@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 04 Jan 2026 18:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652670021</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/mandag-5-januar-2026-13652670021</link>
+            <title>Mandag 5. januar 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Louise Dreisig.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Mon, 05 Jan 2026 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac8a1b73064306f387742/e069b0b76982a1ea9f6d9632a70b5e8e05f39c27f64a1f94fa919bcc84657c82"/>
+        </item>
         <item>
             <guid isPermalink="false">13652670017</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/soendag-4-januar-2026-13652670017</link>
@@ -51,20 +65,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>03:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69318836f813fbba90b32e45/3a43ce31238d534fa1256054f3758e2d7053f661f539cfb66c21d5cfb1d76157"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670014</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/torsdag-1-januar-2026-13652670014</link>
-            <title>Torsdag 1. januar 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Anders Bisgaard. 
-www.dr.dk/lyd/p4</description>
-            <pubDate>Thu, 01 Jan 2026 18:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="338401586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69318833b5054f05106fc584/2b1f21bf3a722219242e37233fe882175d214cc37bb41f2ef1804010eb0a6294"/>
         </item>
     </channel>
 </rss>
