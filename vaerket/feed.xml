@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 02 Jan 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661021</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/tornerose-12422661021</link>
+            <title>Tornerose</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed.
+Tjajkovskij: Suite fra balletten Tornerose. 
+Philharmonia Orkestret. Dirigent: Santtu-Matias Rouvali. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Mon, 05 Jan 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082091" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28ddaf5ce96564306eb2/6780db90b65f797da4d045a4e627321f40cd6ffda72e5a8e4001592cc0199f8d"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661015</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/rakhmaninovs-symfoni-nr-1-12422661015</link>

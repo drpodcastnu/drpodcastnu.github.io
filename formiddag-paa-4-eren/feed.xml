@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 19 Dec 2025 10:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 10:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,5 +24,17 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14932663021</guid>
+            <link>https://www.dr.dk/lyd/p4/formiddag-paa-4-eren/formiddag-paa-4-eren-2026/mandag-5-januar-2026-14932663021</link>
+            <title>Mandag 5. januar 2026</title>
+            <description>Er du synsk? Kan du læse tarotkort eller har du en nypudset krystalkugle - så vil Knud og Louise gerne høre fra dig. I dag kigger Formiddag på 4'eren nemlig frem og indsamler forudsigelser for 2026. Den første lyder: Du kan vinde en mulepose i programmets store 'Ferien, der gik-quiz'.</description>
+            <pubDate>Mon, 05 Jan 2026 10:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482175" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692d18dfab1506d5ae8fa99f/1181e5db8173748120b793604f2e5984661f1c542c78717bb3bc8c41178b43f8"/>
+        </item>
     </channel>
 </rss>
