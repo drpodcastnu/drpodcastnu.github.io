@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 30 Dec 2025 15:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 15:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,17 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14302630021</guid>
+            <link>https://www.dr.dk/lyd/p4aarhus/p4-eftermiddag-oestjylland/p4-eftermiddag-oestjylland-2026/mandag-5-januar-2026-14302630021</link>
+            <title>Mandag 5. januar 2026</title>
+            <description>P4 Eftermiddag Østjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Mon, 05 Jan 2026 15:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254882056" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693019bfe92e3adf153509d8/fc3087d8cca32fd55f0d8f69851eb8ace1a91fbefd22ce251a3b02258b90ca3b"/>
+        </item>
     </channel>
 </rss>
