@@ -24,24 +24,6 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
-            <guid isPermalink="false">11042605022</guid>
-            <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2026/tirsdag-6-januar-2026-11042605022</link>
-            <title>Tirsdag 6. januar 2026</title>
-            <description>Præludium: Leif Martinussen: Dejlig er den himmel blå
-Fra det G.T.	Esajas Bog 60, 1-6
-Salme: 136, vers 1-5 "Dejlig er den himmel blå"
-Fra det N.T.: Matthæusevangeliet 2, 1-12
-Korvers: P.E. Lange-Müller/Hanne Kuhlmann: De hellig tre konger (Tekst: Heinrich Heine)
-Salme: 136, vers 6-7
-Postludium: Niels W. Gade: Af højheden oprunden er</description>
-            <pubDate>Tue, 06 Jan 2026 08:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:25:02</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="36051116" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69302e98f813fbba90a765ce/eb5174d21367bb8c353971e6149113b78d46f5c6fd1e40ebf014bcd340d77bac"/>
-        </item>
-        <item>
             <guid isPermalink="false">11042605021</guid>
             <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2026/mandag-5-januar-2026-11042605021</link>
             <title>Mandag 5. januar 2026</title>
@@ -436,6 +418,24 @@ Postludium: Franz Tunder: Fuga i g-moll</description>
             <itunes:duration>00:24:55</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="35893870" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c7061175376c109a013/ab2b46909cc85a9827413c7afcaa0178965b7d887e0bcebb3c3a4f32aeabc28f"/>
+        </item>
+        <item>
+            <guid isPermalink="false">11042505496</guid>
+            <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-6-december-2025-11042505496</link>
+            <title>Lørdag 6. december 2025</title>
+            <description>Præludium: Alexandre Guilmant: Prière op. 47,4
+Davidssalme: 84, 2-5
+Salme: 86 "Hvorledes skal jeg møde"
+Fra det N.T.: Jakobsbrevet 5, 7-8
+Trosbekendelsen 	
+Salme: 277, vers 1 - 3 "Herre, når din time kommer"
+Postludium: Charles Harford Lloyd: Andante tranquillo C-dur</description>
+            <pubDate>Sat, 06 Dec 2025 08:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:57</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="35941671" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c5261175376c1099dd7/2f1a22f4e5590be8a1a2c5648302a947b14013790b05d24adec9619686ef7ff8"/>
         </item>
     </channel>
 </rss>
