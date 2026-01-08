@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 07 Jan 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">18452651024</guid>
+            <link>https://www.dr.dk/lyd/p8jazz/salonen/salonen-2026/torsdag-8-januar-2026-18452651024</link>
+            <title>Torsdag 8. januar 2026</title>
+            <description>Josephine Philip slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
+Vært: Josephine Philip.
+Redaktør: Kasper Overby.</description>
+            <pubDate>Thu, 08 Jan 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601568" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69316e064f22de874e12f4e2/bfa469279b0e556d4d1a48592f8310f21c3affb1ea77b6984ee243b28fec3733"/>
+        </item>
         <item>
             <guid isPermalink="false">18452651023</guid>
             <link>https://www.dr.dk/lyd/p8jazz/salonen/salonen-2026/onsdag-7-januar-2026-18452651023</link>
@@ -136,20 +150,6 @@ Redaktør: Kasper Overby.</description>
             <itunes:duration>01:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="165601568" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da9a002e131c0a9345cf/f4657d865757ae0cafdba5f50b644387d9b9c42c0dbaafac31a0e7c9896c0ecd"/>
-        </item>
-        <item>
-            <guid isPermalink="false">18452551503</guid>
-            <link>https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/onsdag-10-december-2025-18452551503</link>
-            <title>Onsdag 10. december 2025</title>
-            <description>Josephine Philip slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
-Vært: Josephine Philip.
-Redaktør: Kasper Overby.</description>
-            <pubDate>Wed, 10 Dec 2025 16:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="165601568" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da9ac374d4d9f712874f/39d779068876f019ddec6ec44ffd84de847216fd71aefe574f11ba8a336ca522"/>
         </item>
     </channel>
 </rss>

@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 07 Jan 2026 16:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 16:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332626024</guid>
+            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/torsdag-8-januar-2026-13332626024</link>
+            <title>Torsdag 8. januar 2026</title>
+            <description>Verden er gået Balalajka! Lyt med, når Jens Malthe og Mathilde gør deres allerbedste for at forstå og forklare de vilde ting, der foregår - og sørger for den gode stemning imens.
+Værter: Mathilde Muus og Jens Malthe Næsby.</description>
+            <pubDate>Thu, 08 Jan 2026 16:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977d14f22de874ecc584b/4496a3bf0aa30aaad460570b17901119f255d46c494e6b33b46c69a6f0917448"/>
+        </item>
         <item>
             <guid isPermalink="false">13332626023</guid>
             <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/kan-alle-laeger-fikse-en-akillessene-13332626023</link>
@@ -138,20 +151,6 @@ Værter: Mathilde Muus og Jens Malthe Næsby.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481557" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e7b869df10db2ff70febb6/8e4ea79639c1a68912af68fde76a5928e01ac82eb6394eba59d50ebcdc6882c6"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332526503</guid>
-            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2025/saadan-udtaler-du-julie-scaglione-13332526503</link>
-            <title>Sådan udtaler du "Julie ScaGlione"</title>
-            <description>Det er for længst blevet etableret, at Jens Malthe har skabt den officielle fanklub for Julie Scaglione, og i dag skal det endnu engang handle om Scaglione og fanklubben. Men Jens Malthe og Mathilde bliver undervejs i dagens udsendelse saboteret af udsendte fra Go' Morgen P3, der insisterer på at sige Scagliones navn forkert. For de siger, at navnet er med et stumt G. Det er det IKKE. Her i den officielle fanklub har vi nemlig vores på det rene.
-Det skal også handle om Forsvarets Efterretningstjenestes årlige trusselsvurdering, der for første gang nævner USA som en negativ del af trusselsbilledet. Mads Korsager, forsvarskorrespondent i DR, gør os klogere OG bliver samtidig officiel forsvarschef i Scaglione-fanklubben. Derudover står den på årets farve og på en uheldig kamp til det kommende VM i USA.
-Værter: Mathilde Muus og Jens Malthe Næsby.</description>
-            <pubDate>Wed, 10 Dec 2025 16:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481557" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e7b8684f0602d2fe3950b4/f1b263f64cd6ef4c94fce46d221e74bf450be77e65061af48b188c3576a68997"/>
         </item>
     </channel>
 </rss>
