@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 08 Jan 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661025</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/mendelssohns-reformationssymfoni-12422661025</link>
+            <title>Mendelssohns Reformationssymfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Felix Mendelssohn: Symfoni nr. 5, Reformationssymfonien. 
+Den Nordtyske Radiofilharmoni. Dirigent: Andrew Manze. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Fri, 09 Jan 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081540" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b29ceaf5ce965643078b0/cbb1a1bfcc994eee3eb37e12e33ff60edbd5527d2af5e1ebb550e055e48ce01d"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661024</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/sigurd-jorsalfar-12422661024</link>
