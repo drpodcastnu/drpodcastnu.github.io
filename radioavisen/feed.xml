@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 10 Jan 2026 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,44 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614026</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614026</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4416408" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b617cab1506d5ae802eb4/999c37618b19264584f8c82bc858c6f2d09f094ea5dafe9a4d0fbe0a243635ab"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613026</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613026</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sat, 10 Jan 2026 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4413528" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b6131ab1506d5ae802b36/27af445997ce1aee5a242c3b18839636c8e368b6822ead8b363aa6893b720416"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612026</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/kl-12-00-pige-forfulgt-af-ulv-14842612026</link>
+            <title>Kl. 12:00: Pige forfulgt af ulv</title>
+            <description>De seneste nyheder - døgnet rundt.
+
+Vært: Michael Olesen.</description>
+            <pubDate>Sat, 10 Jan 2026 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21680321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b60cef813fbba907cd2b0/d2cdb1aba6714e9959e182984b17550bf19ea2b1a069b17385d9a76ca272a254"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611026</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611026</link>
