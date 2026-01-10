@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 28 Dec 2025 07:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 06:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,17 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14802640026</guid>
+            <link>https://www.dr.dk/lyd/p4kbh/p4-weekend-koebenhavn/p4-weekend-koebenhavn-2026/loerdag-10-januar-2026-14802640026</link>
+            <title>Lørdag 10. januar 2026</title>
+            <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+            <pubDate>Sat, 10 Jan 2026 06:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254882092" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6932a63aab1506d5aec13a14/67a7e261116f9e9de6e5462685048f2ca4af6c6ebb6211a07a4e9ea426b0ec7a"/>
+        </item>
     </channel>
 </rss>
