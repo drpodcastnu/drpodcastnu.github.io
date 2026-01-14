@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 13 Jan 2026 12:15:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 12:15:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452642208</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-play/p4-play/onsdag-14-januar-2026-15452642208</link>
+            <title>Onsdag 14. januar 2026</title>
+            <description>Vært Andrew Jensen præsenterer hver dag i P4 Play den nyeste musik på P4.</description>
+            <pubDate>Wed, 14 Jan 2026 12:15:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:45:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="151201983" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693153d6e92e3adf153fcf73/bf31239bebc1102f498dcde4665adf2882b7f2b1c6f660663b1f09a412edc853"/>
+        </item>
         <item>
             <guid isPermalink="false">15452642207</guid>
             <link>https://www.dr.dk/lyd/p4/p4-play/p4-play/tirsdag-13-januar-2026-15452642207</link>
