@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 09 Jan 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664035</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/januar-jukeboks-16122664035</link>
+            <title>Januar-jukeboks</title>
+            <description>Her er ikke brug for mønter. Er der en sang, du har brug for at høre i dag, så er Feztens jukeboks åben.</description>
+            <pubDate>Fri, 16 Jan 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601452" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69319580ab1506d5aeb7f408/2fa80bced7060cd80a7d2a08a696467e720ccdd0c7c1ad24a1ded5737f03b8d9"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664025</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/genstart-16122664025</link>
