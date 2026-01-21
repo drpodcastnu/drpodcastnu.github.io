@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 20 Jan 2026 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652670043</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/onsdag-21-januar-2026-13652670043</link>
+            <title>Onsdag 21. januar 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Louise Dreisig.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Wed, 21 Jan 2026 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac8e5b73064306f387ae8/870654aeae5273b184ffeccc5bdea92e138d53a91a30751c1044f91ba44c5edb"/>
+        </item>
         <item>
             <guid isPermalink="false">13652670042</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/tirsdag-20-januar-2026-13652670042</link>
@@ -65,20 +79,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693acc3cb73064306f389bda/09885e796335fc9007a04190b89bda85be58a1d0312cca0bb9b6136c033698b5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670036</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/loerdag-17-januar-2026-13652670036</link>
-            <title>Lørdag 17. januar 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Britt Berglund.
-www.dr.dk/lyd/p4</description>
-            <pubDate>Sat, 17 Jan 2026 18:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="341281586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac8d5af5ce965642ce106/eacdbecf2af471f5c40f6eff577dc45ffd2e733326e4a47b8adfae8f39b08fac"/>
         </item>
     </channel>
 </rss>
