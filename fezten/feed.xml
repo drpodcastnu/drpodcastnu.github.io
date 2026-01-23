@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 16 Jan 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664045</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/snakkehoveder-16122664045</link>
+            <title>Snakkehoveder</title>
+            <description>Der er ny musik fra blandt andre Sleaford Mods, Dry Cleaning og Getdown Services, og det betyder, at det er tid til at snakke hen over musik. Hvem er god til den slags talk talk talk?</description>
+            <pubDate>Fri, 23 Jan 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601524" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69319580f813fbba90b3a127/6b384e339a4e21397e58ef2a5dd45ce61e6e8ac17f975eb8676e599169cf6ffd"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664035</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/januar-jukeboks-16122664035</link>
