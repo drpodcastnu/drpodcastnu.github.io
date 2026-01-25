@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 25 Jan 2026 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614047</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614047</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 25 Jan 2026 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4415832" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69356b24b5054f0510905275/4452cf2195c5a2b6f37c01d892d0cb8d25d001305a265f553b94fc6cbd328152"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613047</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613047</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 25 Jan 2026 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4414104" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69356ab74f22de874e3527fe/ad6d2164f33755c54bf7a209c16dc1212614cbfd2786d18f6571ad70435ab686"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612047</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/borgerkrigstoner-i-minneapolis-14842612047</link>
+            <title>Borgerkrigstoner i Minneapolis</title>
+            <description>Få overblik og perspektiv på dagens vigtigste nyheder fra Kongeriget og resten af verden</description>
+            <pubDate>Sun, 25 Jan 2026 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21705701" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69353fe14f22de874e33b2b2/a6e3f97fe52c267249f357d390477bedec79b6ee23042000b414407debe573b4"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611047</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611047</link>
