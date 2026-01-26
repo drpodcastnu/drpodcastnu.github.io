@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 24 Jan 2026 08:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 08:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,24 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11042605051</guid>
+            <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2026/mandag-26-januar-2026-11042605051</link>
+            <title>Mandag 26. januar 2026</title>
+            <description>Præludium: Johann Sebastian Bach: Præludium i e-mol
+Ord til dagen: Dostojevskij
+Salme: 69 "Du fødtes på jord"
+Fra det N.T.: Markusevangeliet 8,27-33
+Korvers: Johann Sebastian Bach: O, kommer hid dog til Guds Søn (Tekst: Grundtvig)
+Salme: 54 "Hvad mener I om Kristus"
+Postludium: Johann Sebastian Bach: Fuga i e-mol</description>
+            <pubDate>Mon, 26 Jan 2026 08:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="36035570" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69302e8bab1506d5aeab9e38/7e9f680b062434c0e8ae9d420712e8c90200640290ef66b94e5a44c39d17c460"/>
+        </item>
         <item>
             <guid isPermalink="false">11042605046</guid>
             <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2026/loerdag-24-januar-2026-11042605046</link>
