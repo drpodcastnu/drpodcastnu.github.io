@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 28 Jan 2026 11:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 14:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614053</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614053</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Wed, 28 Jan 2026 14:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4404312" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69356b46f813fbba90d3c83b/7214b2308e59aa6bf49aa05597cadfa10fdc1ca58822566cd5013b20dd3f7659"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613053</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613053</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Wed, 28 Jan 2026 13:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4408344" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69356ab9f813fbba90d3c371/a12882b7807b6f5162d27e4024683c3c625e6f137e4cf1b55e429f673fd51ada"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612053</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/foedevarehjaelp-til-millionaerer-14842612053</link>
+            <title>Fødevarehjælp til millionærer</title>
+            <description>Få overblik og perspektiv på dagens vigtigste nyheder fra Kongeriget og resten af verden</description>
+            <pubDate>Wed, 28 Jan 2026 12:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21737958" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69353fe1e92e3adf15613072/d68a9a0586e07949eee7edfa29f6fea53375b16b08d3b61f7749602dd8fe2bd3"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611053</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611053</link>
