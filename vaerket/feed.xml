@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 28 Jan 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,22 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661054</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/gustav-holsts-korsymfoni-12422661054</link>
+            <title>Gustav Holsts korsymfoni</title>
+            <description>Gustav Holst: First choral symphony, op. 41. 
+Royal Philharmonic Orchestra. Guildford Choral Society. 
+Lynne Dawson, sopran. 
+Dirigent: Hilary Davan Wetton. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Thu, 29 Jan 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082107" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28e0b73064306f3c1fbf/e45db401b84b21f0d1aa1a3a2b89fd1d40bfac2c9b912c9133e3eaeaa852e65f"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661053</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/joachim-raffs-foraarssymfoni-12422661053</link>
