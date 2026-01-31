@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 30 Jan 2026 09:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 19:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332625056</guid>
+            <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet/droemmeholdet-til-danmarks-indsamling-13332625056</link>
+            <title>Drømmeholdet til Danmarks Indsamling</title>
+            <description>Hele ugen har Drømmeholdet samlet ind til Danmarks Indsamling, og det hele har ledt op til denne aften. Drømmeholdet sender nemlig live, direkte fra Næstved Arena, hvor årets Danmarks Indsamlingsshow også sender det store TV-show.
+Og det er lidt en spændende omgang det her med at sende radio og TV samtidig. Godt nok heldigt, at vi trives i kaos, for der er drømme, der skal opfyldes, og penge der skal samles ind. Tak fordi du er med på holdet - det er på grund af dig, at Drømmeholdet findes.
+Og husk at Drømmeholdet er tilbage igen på mandag, og hvis det er din drøm, vi skal opfylde, så send den og dit telefonnummer til p3drommer@dr.dk.</description>
+            <pubDate>Sat, 31 Jan 2026 19:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="259201500" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6964fa9b39379cc3ef65c6a7/a1d028945af164cfb9bc326df231e9cd032e656e4cc18be2d211b11a128704bc"/>
+        </item>
         <item>
             <guid isPermalink="false">13332625055</guid>
             <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet/droemmeholdet-med-kim-kaiser-13332625055</link>
@@ -59,19 +73,6 @@ Medvirkende: Michael Poulsen, forsanger i Volbeat.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254882178" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6929814aab1506d5ae6f5388/50f7d44803af039895dda4b491c0df448c9b05288e2d4a96d37ac05585233fc5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332625052</guid>
-            <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet/saa-er-der-haandbaaaaaald-13332625052</link>
-            <title>SÅ ER DER HÅNDBÅÅÅLD</title>
-            <description>Det er dag 2 af Drømmeholdet x Danmarks Indsamling, og hvilken vanvittig dag!? Hvor meget skal det koste, for at vores nyhedsvært laver robotten? Hvem skal vinde lounge-billetter til EM-finalen i håndbold? Hvor mange penge er nyhederne værd? Og hvem får opfyldt sin børnedrøm om at tømme en butik? Og så fandt vi jo i går ud af, at 'Himmelhunden' er en større indsamlingssang end 'Levels'. Så hvilken sang kan slå 'Himmelhunden'? Hav dine albuer klar, for det lugter sgu af Tørfisk.
-Medvirkende: Sofie Skødt, journalist og nyhedsvært.</description>
-            <pubDate>Tue, 27 Jan 2026 09:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254882185" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692981494f22de874eccb2c6/32f5f559b315df715622edaca72660de905fee901610ee6e65af54a5ed14e97f"/>
         </item>
     </channel>
 </rss>
