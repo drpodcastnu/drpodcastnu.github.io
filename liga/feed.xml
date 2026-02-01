@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 30 Jan 2026 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 15:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652602057</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/soendag-1-februar-2026-13652602057</link>
+            <title>Søndag 1. februar 2026</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Sun, 01 Feb 2026 15:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>05:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="514082106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6954e0d52e0ce5f0a4a39a74/78acc42f5f8ca2425c03bbb35a37d5fa4377304099daeef770b8b788101e1566"/>
+        </item>
         <item>
             <guid isPermalink="false">13652602055</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2026/fredag-30-januar-2026-13652602055</link>
@@ -130,18 +142,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:15:27</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="195062202" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac808b73064306f3870de/e75f15cc0627a2a65d256be8569eededbafa8f869c1498a59b44e202a0375be6"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652602016</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/loerdag-3-januar-2026-13652602016</link>
-            <title>Lørdag 3. januar 2026</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Sat, 03 Jan 2026 18:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:53:11</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="249406085" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac7de7663977dcbcc240d/4277978c2e46d98d354029eedc038d3204c1d2e9bd2923e8823e13563fa8fa27"/>
         </item>
     </channel>
 </rss>
