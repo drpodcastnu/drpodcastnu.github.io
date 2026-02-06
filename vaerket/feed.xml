@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 05 Feb 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661065</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/coppelia-12422661065</link>
+            <title>Coppelia</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Delibes: Coppelia, suite. 
+Det Skotske Nationalorkester, dir. Neeme Järvi. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Fri, 06 Feb 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081486" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28e1ab13616ad97b847c/ddc0cb4b5ceb08ab52b34d94c87c5d76a32e44be0b53f6172ac8037127176e65"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661064</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/babelstaarnet-12422661064</link>
