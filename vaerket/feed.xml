@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 10 Feb 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661073</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/gerald-finzis-cellokoncert-12422661073</link>
+            <title>Gerald Finzis Cellokoncert</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Gerald Finzi: Cellokoncert, a-mol, op. 40. Paul Watkins, cello. BBC Symfoniorkester. Dirigent: Andrew Davis. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Wed, 11 Feb 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082112" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28e1ab13616ad97b848e/916c632c831571fa2aad69781a4ce502290712d6fe5564f73598dbe70a20e27c"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661072</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/alberic-magnards-symfoni-nr-2-12422661072</link>
