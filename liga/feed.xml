@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 21 Feb 2026 14:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 14:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652602087</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/soendag-22-februar-2026-13652602087</link>
+            <title>Søndag 22. februar 2026</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Sun, 22 Feb 2026 14:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>07:00:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="604885626" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:695bcaa80e0af63d3cab6aa6/aa3307c950f7cb5d3578caf93b71a09c0645dd60293e0f963a4e45964152d9e7"/>
+        </item>
         <item>
             <guid isPermalink="false">13652602086</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2026/loerdag-21-februar-2026-13652602086</link>
@@ -251,18 +263,6 @@ Vært: Thomas Loft.</description>
             <itunes:duration>05:00:03</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="432085626" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac8627663977dcbcc2837/e9ca640647b58e58fc704225e93d26a66e9a40e6bb902014757f7c75407ad21d"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652602046</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/loerdag-24-januar-2026-13652602046</link>
-            <title>Lørdag 24. januar 2026</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Sat, 24 Jan 2026 18:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:00:03</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="259285626" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ac862af5ce965642cdac7/11e36f0a76c4f160283abacc49572f5042a697bfe8d9d72c66a3748677fd0e43"/>
         </item>
     </channel>
 </rss>
