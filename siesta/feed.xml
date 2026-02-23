@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 20 Feb 2026 12:15:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 12:15:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633091</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/ro-12422633091</link>
+            <title>Ro</title>
+            <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik.
+Vært: Carsten Wolf Andersen.</description>
+            <pubDate>Mon, 23 Feb 2026 12:15:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64915004" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69415e69af5ce96564680410/49cd97bd8173b7365c593e706989a73cb8849f371fd20e65e75698f3b3c8fa75"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633085</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422633085</link>
