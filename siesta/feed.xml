@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 25 Feb 2026 12:15:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 12:15:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633094</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422633094</link>
+            <title>Melankoli</title>
+            <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
+Vært: Claus Berthelsen.</description>
+            <pubDate>Thu, 26 Feb 2026 12:15:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64841281" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b38bdb73064306f3cb948/e2babaca66b67d7326f73904741c536f9e291eb0d2b1fb51cc995a6a3971f0c2"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633093</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422633093</link>
