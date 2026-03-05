@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 04 Mar 2026 07:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 07:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16452632104</guid>
+            <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452632104</link>
+            <title>Morgenbeatet</title>
+            <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Camilla Jane Lea.</description>
+            <pubDate>Thu, 05 Mar 2026 07:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="252001995" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69394e28b73064306f2a0116/0facd30421d2f024147cc497bef826b8432ac3d12cd2e896f9ac5f6cb5ac5bdf"/>
+        </item>
         <item>
             <guid isPermalink="false">16452632103</guid>
             <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/onsdag-4-marts-2026-16452632103</link>
