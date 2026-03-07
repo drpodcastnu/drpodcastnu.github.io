@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 03 Mar 2026 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 16:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652602106</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/loerdag-7-marts-2026-13652602106</link>
+            <title>Lørdag 7. marts 2026</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Sat, 07 Mar 2026 16:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>05:00:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="432085626" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6985b19bff0f9b331821e26c/f667792cbda4329fb4f9d87de6077ab1b41a45711eff16373538d2a988403c54"/>
+        </item>
         <item>
             <guid isPermalink="false">13652602102</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2026/tirsdag-3-marts-2026-13652602102</link>
@@ -228,18 +240,6 @@ Vært: Thomas Loft.</description>
             <itunes:duration>06:57:05</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="600618618" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6954e5bf7f1afcaa2fd9b03c/a8a96e4910974ade5c11a03cd85621d8960e759442ff4c1ca9ac8aa7d4c41d09"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652602065</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/fredag-6-februar-2026-13652602065</link>
-            <title>Fredag 6. februar 2026</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Fri, 06 Feb 2026 18:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>04:34:21</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="395078202" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6954e58b7f1afcaa2fd9ae8d/bfacb57e199da701ee0bee330a68f7f4c0f789858429bb155c057fd7b47ed94d"/>
         </item>
     </channel>
 </rss>
