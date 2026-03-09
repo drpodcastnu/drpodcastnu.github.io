@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 06 Mar 2026 12:15:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 12:15:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633111</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/ro-12422633111</link>
+            <title>Ro</title>
+            <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik. 
+Vært: Claus Berthelsen.</description>
+            <pubDate>Mon, 09 Mar 2026 12:15:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64812472" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69415e6aab13616ad9b16676/182ead747f7f88c1bdc76cd96aebaa72d5a3ece786ac400013ef78a1d4bf22a9"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633105</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422633105</link>
