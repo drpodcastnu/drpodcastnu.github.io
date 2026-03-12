@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 11 Mar 2026 12:15:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 12:15:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633114</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422633114</link>
+            <title>Melankoli</title>
+            <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne. 
+Vært: Carsten Wolf Andersen.</description>
+            <pubDate>Thu, 12 Mar 2026 12:15:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:58</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64776775" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b38bdaf5ce965643107a2/0fdcefd85440de9bc4df068321f4e2711a6ed39aa59c7aa70007204d76c60b00"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633113</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422633113</link>
