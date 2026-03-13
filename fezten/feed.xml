@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 06 Mar 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664115</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/vaelgermoede-16122664115</link>
+            <title>Vælgermøde</title>
+            <description>Valgkampen er i gang, og Fezten samler lydsporet til et rally. Byd ind med musik og slagsange, der sætter gang i støtterne, skaber fællesskab og mobiliserer vælgerne!</description>
+            <pubDate>Fri, 13 Mar 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602086" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6931958c4f22de874e145c54/53147b6a20dde8230296b49422cf1e01e7540ea54db95d8310be255a062c004a"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664105</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/cool-kopi-16122664105</link>
