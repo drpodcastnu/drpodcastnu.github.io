@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 19 Mar 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661125</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/koncert-for-orkester-af-lutoslawski-12422661125</link>
+            <title>Koncert for orkester af Lutoslawski</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Lutoslawski: Koncert for orkester. 
+Warszawa Filharmonikerne. Dirigent: Antoni Wit. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Fri, 20 Mar 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081512" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28e8b73064306f3c20a3/8dea51e523d39d5e6ae7d724e648911836ff38c07a8d2053d30433a868dfe10a"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661124</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/giulianis-guitarkoncert-nr-3-12422661124</link>
