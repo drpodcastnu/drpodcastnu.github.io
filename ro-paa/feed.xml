@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 13 Mar 2026 05:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 06:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -147,6 +147,24 @@ Produceret af P2.</description>
             <itunes:duration>01:14:25</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="107165818" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d426995a443496f51a27c1/5ae6628d28a598bede5009f2acdae9f451534c6e4441f788a0e0bbd842692d2c"/>
+        </item>
+        <item>
+            <guid isPermalink="false">12422590608</guid>
+            <link>https://www.dr.dk/lyd/p2/ro-paa-koncert/ro-paa-koncert/en-meditativ-symfoni-med-odense-symfoniorkester-12422590608</link>
+            <title>En meditativ symfoni med Odense Symfoniorkester</title>
+            <description>Sluk skærmen og glem alle bekymringer for en stund. 
+Midt i en verden fuld af stress og notifikationer, inviterer orkestrets ungepanel dig til at tage en pause. Med klassisk musik som guide lader vi roen flyde ind. 
+Musikken er nøje udvalgt til at skabe en meditativ stemning og give dig et frirum - et sted, hvor du kan være uden at skulle noget. 
+Odense Symfoniorkester. 
+(fra Carl Nielsen Salen, Odense Koncerthus 26. februar 2026). 
+Vært: Claus Berthelsen. 
+Produceret af P2.</description>
+            <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:25</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="72618489" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d426962257e391d9f041d2/29dbc9d3a895414ce3a49c09875c8f6591c03929d25aa69d78dff978eafaac29"/>
         </item>
         <item>
             <guid isPermalink="false">12422590201</guid>
@@ -1256,21 +1274,6 @@ Produceret af DR P2.</description>
             <itunes:duration>00:05:40</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="8169849" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697b2089074793e3d0c860a1/b8838ccd5478bbf857d9c330ae100bc32bf3f6b0509a598da2c7b93324b36fe3"/>
-        </item>
-        <item>
-            <guid isPermalink="false">12422690701</guid>
-            <link>https://www.dr.dk/lyd/p2/pausen/pausen-1/ro-og-naervaer-siddende-12422690701</link>
-            <title>Ro og nærvær (siddende)</title>
-            <description>Sæt dig godt til rette og lad Simon guide dig gennem en rolig meditation, hvor han inviterer til at lytte til musikken på forskellige måder: Med blødhed i ansigtet, med opmærksomheden nede i kroppen, og med bevidsthed om vejrtrækningen, så du bagefter kan føle større ro og nærvær. 
-Vært: Simon Krohn. 
-Producent: Cæcilie Iburg Printzlau. 
-Produceret af DR P2.</description>
-            <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:10:03</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="14494334" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:695e2b5e8d78c03769ccd236/8dbe9a5ee24983aa523a742713c89fc3fbaf1540e679def9c48446892777f57e"/>
         </item>
     </channel>
 </rss>
