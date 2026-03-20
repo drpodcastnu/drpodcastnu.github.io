@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 13 Mar 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664125</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/foraarsfornemmelser-16122664125</link>
+            <title>Forårsfornemmelser</title>
+            <description>Det pibler frem med ny musik. Niels Fez hylder foråret med frisk indiedisco kombineret med klubklassikere og skæverter, som har smidt vinterpelsen.</description>
+            <pubDate>Fri, 20 Mar 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601499" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6931958cb5054f0510703737/9bc3a6c12ffd7e873299c47b7dacc1a8fe701b3cd920979ef8e904c3a3765ade"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664115</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/vaelgermoede-16122664115</link>
