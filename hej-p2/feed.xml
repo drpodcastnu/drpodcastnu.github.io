@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 20 Mar 2026 08:30:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 08:30:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630131</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/back-to-bach-12422630131</link>
+            <title>Back to Bach</title>
+            <description>Hvilket værk af hvilken klassisk Bach skal vi høre og hvorfor?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
+Vært: Mette Greiffenberg.</description>
+            <pubDate>Mon, 23 Mar 2026 08:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204487256" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b27ceab13616ad97b7b4e/852ce5caad784f7b5f4f7598ab1019a9d559b5241fb8a31c45834d8ba93bef76"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630125</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/to-do-liste-12422630125</link>
