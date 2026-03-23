@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 20 Mar 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661131</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/beethovens-kejserkoncert-12422661131</link>
+            <title>Beethovens Kejserkoncert</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Ludwig van Beethoven: Klaverkoncert nr. 5, Es-dur, op. 73, Kejserkoncerten. Elisabeth Leonskaja, klaver. Orchestre Français des Jeunes. Dirigent: Michael Schønwandt. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Mon, 23 Mar 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082168" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28eaaf5ce96564307002/37a46762e279b31bb80dca26d02d4c37fbc5b2e333a1216fda318961652efc38"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661125</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/koncert-for-orkester-af-lutoslawski-12422661125</link>
