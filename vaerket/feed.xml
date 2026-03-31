@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 30 Mar 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661142</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/charles-ives-1-symfoni-12422661142</link>
+            <title>Charles Ives' 1. Symfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Ives: Symfoni nr. 1. 
+Los Angeles Filharmonikerne. Dirigent: Gustavo Dudamel. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Tue, 31 Mar 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081505" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28e9b73064306f3c20c1/2b9d3f92f430eb7329c6880cf499c9ea5e2c5acd0ea8da942dbdbe5adf4e5402"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661141</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/et-folkesagn-12422661141</link>
