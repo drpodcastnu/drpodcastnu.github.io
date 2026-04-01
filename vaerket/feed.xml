@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 31 Mar 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661143</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/beethovens-messe-i-c-dur-12422661143</link>
+            <title>Beethovens Messe i C-dur</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Beethoven: Messe i C-dur. 
+Bayerns Radiosymfoniorkester og Radiokor. Dirigent: Mariss Jansons. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Wed, 01 Apr 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082097" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28e9b73064306f3c20c7/b986ec69dacab6b1ba42560f2341106b0d1c7f82e604061abfac15aca73a7168"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661142</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/charles-ives-1-symfoni-12422661142</link>
