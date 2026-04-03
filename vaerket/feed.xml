@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 02 Apr 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661145</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/haydns-symfoni-bjoernen-12422661145</link>
+            <title>Haydns symfoni "Bjørnen"</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Haydn: Symfoni nr. 82, "Bjørnen". 
+Concentus Musicus Wien. Dirigent: Nikolaus Harnoncourt. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Fri, 03 Apr 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082093" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28efb73064306f3c215e/2ac8b2984ac17f447a4e2e4bb863a9369bffedd4fed9df573ec77ee9b162c0d2"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661144</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/moszkowskis-klaverkoncert-12422661144</link>
