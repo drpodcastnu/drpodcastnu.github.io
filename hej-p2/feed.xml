@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 02 Apr 2026 08:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 08:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630145</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/ro-i-musikken-12422630145</link>
+            <title>Ro i musikken</title>
+            <description>Hvilket stykke klassisk musik giver dig ro?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
+Værter: Anne Termansen og Malene Wichmann.</description>
+            <pubDate>Fri, 03 Apr 2026 08:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:46:57</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="240429657" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2791af5ce965643062ef/cfc15c058d27e76c13ce6e4aa6a93e4a7806df84dbe3752d8f5fea2be31f6ed7"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630144</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/bibelen-i-musikken-12422630144</link>
