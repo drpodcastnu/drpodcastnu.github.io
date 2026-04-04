@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 28 Mar 2026 20:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122634146</guid>
+            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/der-gaar-fugl-i-den-16122634146</link>
+            <title>Der går fugl i den</title>
+            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+            <pubDate>Sat, 04 Apr 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802144" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7beda5dc3e453281bac/2184ccf9461d981eda4c1e32536a44e1f3a9e5f4bfdd93e36cc60b18112c7c50"/>
+        </item>
         <item>
             <guid isPermalink="false">16122634136</guid>
             <link>https://www.dr.dk/lyd/p3/flex/flex-2026/hvad-er-humming-bass-16122634136</link>
@@ -274,18 +286,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802145" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68dc54e8ec3c25ed7062e710/ce771550eee4feb83853f727b41ac53c4d50852244746e979dd7454c5ba714b5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122534406</guid>
-            <link>https://www.dr.dk/lyd/p3/flex/flex-2025/big-ups-til-big-ang-16122534406</link>
-            <title>Big Ups til Big Ang</title>
-            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
-            <pubDate>Sat, 04 Oct 2025 18:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172801568" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d31aa2d97801dbf0a325ab/77faa9e07b731490339e860300425c13f00705ce21bc10f03108edf432f9c441"/>
         </item>
     </channel>
 </rss>
