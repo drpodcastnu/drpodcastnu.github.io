@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 06 Apr 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661152</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/d-alberts-symfoni-12422661152</link>
+            <title>D'Alberts Symfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Eugene D'Albert: Symfoni, F-dur, op. 4. Osnabrück Symfoniorkester. Dirigent: Hermann Bäumer. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Tue, 07 Apr 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082088" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b292cab13616ad97b88c6/ccbc6f153040183cbb94a088a57517fec1eba75bee22470b2fef7697c7970abd"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661151</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/dvoraks-violinkoncert-12422661151</link>
