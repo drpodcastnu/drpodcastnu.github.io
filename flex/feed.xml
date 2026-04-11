@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 04 Apr 2026 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122634156</guid>
+            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/stussys-album-16122634156</link>
+            <title>Stussys album</title>
+            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+            <pubDate>Sat, 11 Apr 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172801562" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7be0b4b4304e8698605/5c8885058510a193d590a66975ae4564a3a081af5baafb903f0dcc48e6237deb"/>
+        </item>
         <item>
             <guid isPermalink="false">16122634146</guid>
             <link>https://www.dr.dk/lyd/p3/flex/flex-2026/der-gaar-fugl-i-den-16122634146</link>
@@ -274,18 +286,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802135" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e50b434f0602d2fe20b512/7e87b0100c75376930eb2bafa117bf75b2e211ca7d85b2ed418fa2643b5dc0ae"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122534416</guid>
-            <link>https://www.dr.dk/lyd/p3/flex/flex-2025/dj-smokey-nuked-out-16122534416</link>
-            <title>DJ Smokey: Nuked Out</title>
-            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
-            <pubDate>Sat, 11 Oct 2025 18:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802145" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68dc54e8ec3c25ed7062e710/ce771550eee4feb83853f727b41ac53c4d50852244746e979dd7454c5ba714b5"/>
         </item>
     </channel>
 </rss>
