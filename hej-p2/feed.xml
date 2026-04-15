@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 14 Apr 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630163</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/hoens-og-kyllinger-12422630163</link>
+            <title>Høns og kyllinger</title>
+            <description>Fortæl om dit livs oplevelser med høns! 
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
+Vært: Cæcilie Iburg Printzlau.</description>
+            <pubDate>Wed, 15 Apr 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204554061" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b278daf5ce96564306299/5dd17ad4d45fc79636c70f34e3585b27c6d4e084d57180957f8cddb70394fdac"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630162</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/floejte-plus-12422630162</link>
