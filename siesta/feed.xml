@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 14 Apr 2026 12:15:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 12:15:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633163</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422633163</link>
+            <title>Drama</title>
+            <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser.
+Vært: Claus Berthelsen.</description>
+            <pubDate>Wed, 15 Apr 2026 12:15:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64803837" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69415fedab13616ad9b1735a/dbc8b9326ced6532cfa69fa76c1a4bdedda93c272551af6dc0274d4ebe98d75b"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633162</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/leg-12422633162</link>

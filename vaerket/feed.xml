@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 14 Apr 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661163</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/symfoni-af-chausson-12422661163</link>
+            <title>Symfoni af Chausson</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Chausson: Symfoni, B-dur. 
+Lilles Nationalorkester. Dirigent: Alexandre Bloch. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Wed, 15 Apr 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081502" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28ecb73064306f3c20fc/8f58bfc271260f2208e0891186daf7cde9a138b696645d76eb5e0774a22b5f38"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661162</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/bachs-kantate-nr-76-12422661162</link>
