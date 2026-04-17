@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 10 Apr 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664165</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/bas-og-bassister-16122664165</link>
+            <title>Bas og bassister</title>
+            <description>Fezten elsker bas, og det vrimler med ny bassistmusik fra Flea, Thundercat, Stig Pedersen m.fl. Har du en favoritbassist? Eller en basgang, der sætter skub i kroppen?</description>
+            <pubDate>Fri, 17 Apr 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602085" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d8adddef3c006c2b197830/79400c4908ba71d3e6e5c230a28fdacec1d882c706380c79d6d29b777afedb31"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664155</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/musikrejser-16122664155</link>
