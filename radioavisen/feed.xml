@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 17 Apr 2026 11:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 14:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614165</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614165</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 17 Apr 2026 14:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4444632" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aef0bb0208ed7425fb95f3/714f7a493b8eb73e2a8cebc25924a82b4422cbc3a091defb264005a005b1f5e0"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613165</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613165</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Fri, 17 Apr 2026 13:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4446360" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aef05103528d4650b1a566/08a8a70f726c9dac50491462a76693909793e0713a7523a6c6eb9ce6360a3dfa"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612165</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/glaede-og-skepsis-over-vaabenhvile-14842612165</link>
+            <title>Glæde og skepsis over våbenhvile</title>
+            <description>Få overblik og perspektiv på dagens vigtigste nyheder fra Danmark og resten af verden</description>
+            <pubDate>Fri, 17 Apr 2026 12:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21705123" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aeef030208ed7425fb8373/a531ec04a3c93a8a6577152bb03317d815c9a8e064369c0ca40ccecfbad50374"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611165</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611165</link>

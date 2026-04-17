@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 16 Apr 2026 12:15:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 12:15:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633165</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422633165</link>
+            <title>Glæde</title>
+            <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning. 
+Vært: Claus Berthelsen.</description>
+            <pubDate>Fri, 17 Apr 2026 12:15:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64849886" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6941608a695fcbe0fa0b9ca7/7b37bed4260765e686fd30d2487dd84f2d62b2d44baecc16a67554a07a6016af"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633164</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422633164</link>
