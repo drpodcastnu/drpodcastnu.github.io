@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 19 Apr 2026 14:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652602171</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/mandag-20-april-2026-13652602171</link>
+            <title>Mandag 20. april 2026</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Mon, 20 Apr 2026 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aeb90e03528d4650af9bc5/7cb950fd7103db8b8532f7cf52b59ec2d727d792ea64e44060cfe92327605f43"/>
+        </item>
         <item>
             <guid isPermalink="false">13652602167</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2026/soendag-19-april-2026-13652602167</link>
@@ -179,18 +191,6 @@ Vært: Morten Hausborg</description>
             <itunes:duration>04:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="424802106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:698c7aeeca1f393742a138d4/e1d066ffc61b36dcbc36175b8fb48e91fe23414c488b97f7408765386b86361d"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652602127</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/soendag-22-marts-2026-13652602127</link>
-            <title>Søndag 22. marts 2026</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Sun, 22 Mar 2026 14:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>08:00:03</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="691285626" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:698c7a93ca1f393742a135ad/5d821077002a5d2291bc4384fd1e964acef316ae08c9bbcf956c5cff44e73bd7"/>
         </item>
     </channel>
 </rss>
