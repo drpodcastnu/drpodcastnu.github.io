@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 18 Apr 2026 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122634176</guid>
+            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/fra-carnage-til-gordo-16122634176</link>
+            <title>Fra Carnage til Gordo</title>
+            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+            <pubDate>Sat, 25 Apr 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802146" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7bfaf5ce965642d804e/57ac5dc84db7a05e9a0cf9207a8ed5c690a60003e96588ba093ad89d445ab78d"/>
+        </item>
         <item>
             <guid isPermalink="false">16122634166</guid>
             <link>https://www.dr.dk/lyd/p3/flex/flex-2026/trutmunds-bas-16122634166</link>
@@ -274,18 +286,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801560" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e50b454f0602d2fe20b546/c0fd3971f44a8d8e39714fbd23508c4788915f004212fe4e510e2671771140b0"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122534436</guid>
-            <link>https://www.dr.dk/lyd/p3/flex/flex-2025/filmisk-og-fransk-16122534436</link>
-            <title>Filmisk og Fransk</title>
-            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
-            <pubDate>Sat, 25 Oct 2025 18:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802142" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e50b43df10db2ff7f8822a/df9537d813e084e0de830eb45aa6e6bf8551dc06c685827614b45a92b8072c8c"/>
         </item>
     </channel>
 </rss>
