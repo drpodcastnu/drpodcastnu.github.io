@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 19 Apr 2026 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122662177</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/the-art-of-the-remix-16122662177</link>
+            <title>The Art of The Remix</title>
+            <description>Man rekonstruerer genopfinder og vender og drejer hverandres tracks ude i musikverdenen. Hvad er et remix egentlig? Og hvad er et edit? At tage noget, og gøre det til noget andet.</description>
+            <pubDate>Sun, 26 Apr 2026 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482108" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6937ffe2af5ce96564127505/ff768ee6a5b4b6b4421ac53a639eac44b486b8efc6ca417c1666755f1db115e8"/>
+        </item>
         <item>
             <guid isPermalink="false">16122662167</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/percussion-16122662167</link>
@@ -262,18 +274,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482113" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68dbbf18ec3c25ed705db42b/32d1ca65362886dc043a842da6c4cde8ef507d96be4308bbdd81113f131e555c"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122562437</guid>
-            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2025/syretrip-16122562437</link>
-            <title>Syretrip</title>
-            <description>Musik inspireret af det psykedeliske tager mange former og har påvirket rock musik, elektronisk musik og alt derimellem i det sidste århundrede. Vi deep diver!</description>
-            <pubDate>Sun, 26 Oct 2025 19:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481451" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e5105a4f0602d2fe20e1a3/5904fc0c1def7d1af6dfc2364c55c67200daa76dde01a73a979f0d14f2f174b4"/>
         </item>
     </channel>
 </rss>
