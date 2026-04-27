@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 27 Apr 2026 11:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 12:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14302612181</guid>
+            <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-12-30-14302612181</link>
+            <title>Seneste nyt kl. 12:30</title>
+            <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
+            <pubDate>Mon, 27 Apr 2026 12:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881391" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6930209c4f22de874e076554/52aaf30935dbab0e13758b96388e158a41ce42f5fd0b8bb5464480871926703f"/>
+        </item>
         <item>
             <guid isPermalink="false">14302611181</guid>
             <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-11-30-14302611181</link>
@@ -370,18 +382,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>00:03:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="4321391" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693021a3f813fbba90a6d99e/a94f949341a797d6ba3bce2ea3e4fe64eabf4d53aa05060fa99012c51711cdb5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14302612174</guid>
-            <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-12-30-14302612174</link>
-            <title>Seneste nyt kl. 12:30</title>
-            <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-            <pubDate>Thu, 23 Apr 2026 12:30:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:02:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="2881391" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693020bae92e3adf15354f61/c67694a46438bb90218543419d77075b0f88f377e6946f8c0eacf987459d67e5"/>
         </item>
         <item>
             <guid isPermalink="false">14302611161</guid>
@@ -1882,18 +1882,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>00:02:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="2881967" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693021a0ab1506d5aeab1377/f2509b97eaf34b513ff8586dc7dd63ff004fe90fce0f9c44f84e049292c8c8d4"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14302612135</guid>
-            <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-12-30-14302612135</link>
-            <title>Seneste nyt kl. 12:30</title>
-            <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-            <pubDate>Fri, 27 Mar 2026 12:30:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:02:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="2881391" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693020b0ab1506d5aeab06a2/2721807091364287e515361e240c5d6ce87cf88ca78a9c1f73397ab37d33a545"/>
         </item>
     </channel>
 </rss>
