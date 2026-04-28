@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 27 Apr 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661182</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/schumanns-violinkoncert-12422661182</link>
+            <title>Schumanns Violinkoncert</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Robert Schumann: Violinkoncert
+Antje Weithaas, violin. Den Nordtyske Radiofilharmoni. Dirigent: Andrew Manze
+Vært: Jens Cornelius.</description>
+            <pubDate>Tue, 28 Apr 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081535" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28edb73064306f3c212e/8b42b206d50ac3c7c50410b52fba9117452f3f3dccab4758b6b02ba2bda1abc7"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661181</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/der-var-engang-12422661181</link>
