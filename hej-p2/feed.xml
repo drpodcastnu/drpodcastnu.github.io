@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 30 Apr 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630185</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/milde-maj-12422630185</link>
+            <title>Milde maj</title>
+            <description>Hvilket stykke mild klassisk musik skal vi høre?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk  
+Vært: Anne Termansen.</description>
+            <pubDate>Fri, 01 May 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:30:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="216001474" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b279db73064306f3c1404/c744581501fe354cd684574b53ca4d65bb14416faa03254c95e496f1c81c5a47"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630184</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/haandvaerk-12422630184</link>
