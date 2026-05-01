@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 24 Apr 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664185</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/faellessang-16122664185</link>
+            <title>Fællessang!</title>
+            <description>Fællessang i parken, til mødet eller koncerten, ved frokostbordet eller lejrbålet. Hvad synger vi sammen? Og hvordan skal fællessangene lyde i Fezten her 1. maj?</description>
+            <pubDate>Fri, 01 May 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601504" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195aa4f22de874e145d59/0f29fa2dd0c52737d5eee24d9d3c2e0fd1b44727ab148b75c02869f71e6ebb9a"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664175</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/international-goth-dag-16122664175</link>
