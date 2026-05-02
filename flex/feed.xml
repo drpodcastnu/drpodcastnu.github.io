@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 25 Apr 2026 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122634186</guid>
+            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/hvad-er-bubblin-16122634186</link>
+            <title>Hvad er Bubblin?</title>
+            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+            <pubDate>Sat, 02 May 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802140" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7bfb73064306f3929e6/399935ce3e31729cf7ae3297bc8fc25dbd911dca94b97c002b9458a72d6f7d0d"/>
+        </item>
         <item>
             <guid isPermalink="false">16122634176</guid>
             <link>https://www.dr.dk/lyd/p3/flex/flex-2026/fra-carnage-til-gordo-16122634176</link>
