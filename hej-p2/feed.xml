@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 05 May 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630193</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/taareperser-12422630193</link>
+            <title>Tåreperser</title>
+            <description>Hvilket stykke klassisk musik får dig til at fælde en tåre?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk  
+Vært: Jakob Wivel.</description>
+            <pubDate>Wed, 06 May 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:06</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204626062" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2786af5ce965643061f6/be12f43dc5eb435a1cf3aba43ef21e2a5734f910ba11bbe252080c2ca16b68d6"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630192</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/natur-i-musikken-12422630192</link>
