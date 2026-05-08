@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 01 May 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664195</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/fri-bar-16122664195</link>
+            <title>Fri bar</title>
+            <description>Er der en særlig sang, du har brug for at høre netop i dag? Der er fri bar i Fezten, og ønskelinjen er åben via SMS og DR Lyd.</description>
+            <pubDate>Fri, 08 May 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601466" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195aaf813fbba90b3a291/9bbfd20022738ab2e5e7e079bfc9c686d9bd9760428a6b5f1962214f6907d153"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664185</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/faellessang-16122664185</link>
