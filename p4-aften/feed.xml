@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 07 May 2026 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 18:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652670196</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/loerdag-9-maj-2026-13652670196</link>
+            <title>Lørdag 9. maj 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Louise Dreisig.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Sat, 09 May 2026 18:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="341282162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69e618f6456a2f08003a0b22/7878afce8524ac1729983ad62268d93db0326cb7330ca1514ded77360abf743d"/>
+        </item>
         <item>
             <guid isPermalink="false">13652670194</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/torsdag-7-maj-2026-13652670194</link>
@@ -51,20 +65,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>03:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aeba720208ed7425f986f1/c12155f2b70d9242d14c9fd3bbe55a627e78fd670c22e92c1b8f0c0313065bf7"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670192</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/tirsdag-5-maj-2026-13652670192</link>
-            <title>Tirsdag 5. maj 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Louise Dreisig.
-www.dr.dk/lyd/p4</description>
-            <pubDate>Tue, 05 May 2026 18:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aeba7203528d4650afaad8/bb6f72465583d85c1f2683ac5f9c198a29dce8d6b5f95dcb296e999aa99e23a0"/>
         </item>
     </channel>
 </rss>
