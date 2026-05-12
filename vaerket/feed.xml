@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 11 May 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661202</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/mozarts-violinkoncert-nr-5-12422661202</link>
+            <title>Mozarts Violinkoncert nr. 5</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Mozart: Violinkoncert nr. 5. 
+Christoph Koncz, violin &amp; Les Musiciens du Louvre. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Tue, 12 May 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082083" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28f1af5ce96564307095/73fce16838f4ebc56e0f2171dfa539b676ba2cf4f44a0be365c6808b5aac377e"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661201</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/en-karnevalsfest-12422661201</link>
