@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 12 May 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630203</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/musikken-fortaeller-12422630203</link>
+            <title>Musikken fortæller</title>
+            <description>Nogle klassiske værker beskriver noget konkret - f.eks. en flod, en vandretur eller en planet. Hvilket værk i denne genre skal vi høre?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
+Vært: Anne Termansen.</description>
+            <pubDate>Wed, 13 May 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204615202" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2789af5ce96564306221/973a769d583ef74e4b1186bdd2c4e19438df589686971aa83de40cbf973daf47"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630202</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/min-ring-12422630202</link>
