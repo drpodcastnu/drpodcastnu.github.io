@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 13 May 2026 03:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 03:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422663203</guid>
+            <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2026/sommerlyd-12422663203</link>
+            <title>Sommerlyd</title>
+            <description>Sommeren er på vej, og denne udgave af Natsværmeren starter og slutter med sommerdagens rytme fortalt med musik og lyd. Vært Peter Albrechtsen kommer derimellem rundt om alt fra Haydn over Michael Nyman til Miles Davis.</description>
+            <pubDate>Thu, 14 May 2026 03:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168510945" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b35b7ab13616ad97bff1c/6a4951ce3911a4a272a601d2ce89989b66c699b1971a2125cf6ba4d169ff64be"/>
+        </item>
         <item>
             <guid isPermalink="false">12422663202</guid>
             <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2026/lang-weekend-12422663202</link>
