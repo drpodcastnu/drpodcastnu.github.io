@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 14 May 2026 16:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 14:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652602207</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/soendag-17-maj-2026-13652602207</link>
+            <title>Søndag 17. maj 2026</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Sun, 17 May 2026 14:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>06:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="600481530" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69e61aa5fe441eba312bf363/c79c285eeffc23a6c07414df8ff2fc702b450bec0d887997708eca724c7ae2d6"/>
+        </item>
         <item>
             <guid isPermalink="false">13652602204</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2026/torsdag-14-maj-2026-13652602204</link>
@@ -178,19 +190,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>06:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="600481530" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69aeb91c03528d4650af9c54/d097cc465e53d03034f1b7a1d87d463d84abbcc03f04944732915941474a59cf"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652602166</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/vm-kvalifikation-k-danmark-italien-13652602166</link>
-            <title>VM-kvalifikation (k): Danmark - Italien</title>
-            <description>Parken i København danner rammen om en nøglekamp i VM-kvalifikationen for kvindelandsholdet i fodbold. I nationalarenaen tager Danmark imod Italien, som sidste år imponerede ved at nå EM-semifinalen. Da de to hold mødtes i Italien i sidste måned endte det 1-1, så en rød-hvid sejr i nationalarenaen er vigtig i forhold til at holde Italien bag Danmark i puljen, hvor kun vinderen går direkte videre til VM.
-Vært: Morten Hausborg</description>
-            <pubDate>Sat, 18 Apr 2026 14:45:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:30:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="216002185" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69e094831214cb42b989d8a6/722fc5e73e79516951f17e542201cf047b9f68107555b2ba03f4c03beb8837b0"/>
         </item>
     </channel>
 </rss>
