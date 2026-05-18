@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 15 May 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630211</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/kagebord-12422630211</link>
+            <title>Kagebord</title>
+            <description>Hvad skal der stå på dit sommer-kagebord?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
+Vært: Mette Greiffenberg.</description>
+            <pubDate>Mon, 18 May 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:21:55</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204376638" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b279eab13616ad97b795d/ac9086e73068d813a24635a8bfb46adfc0649153813a87060c8a131434bc47ae"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630205</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/klassisk-til-fest-12422630205</link>
