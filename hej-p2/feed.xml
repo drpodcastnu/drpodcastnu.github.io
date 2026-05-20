@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 19 May 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630213</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/en-hyldest-til-shakespeare-12422630213</link>
+            <title>En hyldest til Shakespeare</title>
+            <description>Hvis jeg siger Shakespeare, hvad siger du så?   
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
+Vært: Jakob Wivel.</description>
+            <pubDate>Wed, 20 May 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204528712" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b27c6ab13616ad97b7af1/c7020f72b2cbac4116442dc36a487c69a3842059daed87587b7a8ad2e945241e"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630212</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/nordisk-klassisk-musik-12422630212</link>
