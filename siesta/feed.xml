@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 20 May 2026 12:15:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 12:15:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633215</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422633215</link>
+            <title>Glæde</title>
+            <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning. 
+Vært: Claus Berthelsen.</description>
+            <pubDate>Fri, 22 May 2026 12:15:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64849310" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694160c7695fcbe0fa0b9ebf/bf2e3656b5184cb9726d5c5b7bc2793c3cc27df786e8452d2df5714d8834de5c"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633213</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422633213</link>
