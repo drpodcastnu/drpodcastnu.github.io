@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 15 May 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664215</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/pinsesolen-danser-16122664215</link>
+            <title>Pinsesolen danser</title>
+            <description>Hvem laver lydsporet, når pinsesolen skal danse? Fezten samler på energiske solopgange-favoritter. Kom med dit forslag via SMS eller gennem Feztens side i DR LYD.</description>
+            <pubDate>Fri, 22 May 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601510" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195abab1506d5aeb7f59a/48f1ad3606d562ada82a6b2af80ad2068ba43d5406604a1fd165ac02937b55cc"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664205</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/mellemdags-mix-16122664205</link>
