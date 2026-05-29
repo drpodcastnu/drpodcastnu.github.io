@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 28 May 2026 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652670225</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/fredag-29-maj-2026-13652670225</link>
+            <title>Fredag 29. maj 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Torben Møller.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Fri, 29 May 2026 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69eb3b655f0d9b8f41011df0/86f7ec1a1f3073042f4b5716380d5e4f6c31d6957f9c0dc924f354845f89f80a"/>
+        </item>
         <item>
             <guid isPermalink="false">13652670224</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/torsdag-28-maj-2026-13652670224</link>
@@ -51,20 +65,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>03:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69e61ae9456a2f08003a1c78/cc24bddf9b255c0e3a897e80be134bb899cf2cd5f6149573aced13d2c5fdc390"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670221</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/mandag-25-maj-2026-13652670221</link>
-            <title>Mandag 25. maj 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Torben Møller.
-www.dr.dk/lyd/p4</description>
-            <pubDate>Mon, 25 May 2026 18:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="341281586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69e61ae94514c31bdbe2f1e4/821ca9e32551cfbc4c1088fe2888828877a68241353a84d59ffa17527963da9a"/>
         </item>
     </channel>
 </rss>
