@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 22 May 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664225</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/dansk-fezt-16122664225</link>
+            <title>Dansk Fezt</title>
+            <description>Fezten vil også være med, når DR samler Top100 over danske sange. I dag finder vi sange fra klubben, elektroniske perler, indiedisco og de skæverter, som ikke må blive glemt. Byd ind!</description>
+            <pubDate>Fri, 29 May 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602101" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195ab4f22de874e145d6d/88307bb4f20aead72f11a8547b4c20d50cde9a5f9f155c4171edae1123962d37"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664215</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/pinsesolen-danser-16122664215</link>
