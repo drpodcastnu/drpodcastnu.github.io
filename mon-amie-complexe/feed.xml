@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 24 May 2026 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122662227</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/stjerner-paa-radio-himmelen-16122662227</link>
+            <title>Stjerner på radio himmelen</title>
+            <description>Musikken rækker mod stjernerne både i nutiden og fortiden. Fra 70erbandet Bacon til Madonnas Ray of Light, vi skal høre stjernemusik.</description>
+            <pubDate>Sun, 31 May 2026 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482066" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69380020b73064306f1d8a46/b0fe1e0bc5e76f56f9d0d0f66aa01a86da8ae2f45d76730b1c3173a4c5475abd"/>
+        </item>
         <item>
             <guid isPermalink="false">16122662217</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/californien-i-80erne-16122662217</link>
