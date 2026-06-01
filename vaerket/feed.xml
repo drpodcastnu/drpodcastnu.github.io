@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 29 May 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661231</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/nielsens-symfoni-nr-6-12422661231</link>
+            <title>Nielsens Symfoni nr. 6</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed.  
+Carl Nielsen: Symfoni nr. 6, Sinfonia semplice. DR Symfoniorkestret. Dirigent: Fabio Luisi. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Mon, 01 Jun 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081522" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b28f6ab13616ad97b8695/a08886f77e9612f471df2bb2a758d971e0ae6721572db1d20b57fb2cf59b55c1"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661225</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/beethovens-tripelkoncert-12422661225</link>
