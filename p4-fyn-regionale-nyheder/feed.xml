@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 04 Jun 2026 11:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 12:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14602612234</guid>
+            <link>https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2026/seneste-nyt-kl-12-30-14602612234</link>
+            <title>Seneste nyt kl. 12:30</title>
+            <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+            <pubDate>Thu, 04 Jun 2026 12:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881383" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69301239e92e3adf1534be00/ee66b80feb1eddfe9707c98b1e5b7139040926007fcb4779e7d5d2beda0ca3dc"/>
+        </item>
         <item>
             <guid isPermalink="false">14602611234</guid>
             <link>https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2026/seneste-nyt-kl-11-30-14602611234</link>
@@ -454,18 +466,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>00:03:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="4321959" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69300a524f22de874e066f73/5b9cd30dd62e49e8a02c2087e35e60ae6492097ffd671bd9ee7013c88f2b2b0b"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14602612227</guid>
-            <link>https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2026/seneste-nyt-kl-12-30-14602612227</link>
-            <title>Seneste nyt kl. 12:30</title>
-            <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-            <pubDate>Sun, 31 May 2026 12:30:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:02:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="2881383" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69301275e92e3adf1534c077/d0d848f3c1601cac693d492fe4f5a199a4d043ef2e0ac4018987394ca4900419"/>
         </item>
         <item>
             <guid isPermalink="false">14602610227</guid>
