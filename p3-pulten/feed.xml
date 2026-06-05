@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 29 May 2026 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332616235</guid>
+            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten/emma-lincoln-13332616235</link>
+            <title>Emma Lincoln</title>
+            <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står to af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften.
+Emma Lincoln og Talons skiftes til at tage din fredagsfest til det næste niveau!</description>
+            <pubDate>Fri, 05 Jun 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802150" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6960f5ff9b5f953534958a74/f599f7101fccd13122e24062f425dcf5739fc624bdeba0a48dd390ccb012978c"/>
+        </item>
         <item>
             <guid isPermalink="false">13332616225</guid>
             <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten/talons-13332616225</link>
@@ -332,18 +345,6 @@ Emma Lincoln og Talons skiftes til at tage din fredagsfest til det næste niveau
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172801587" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e3bcc3131784f6de24f1d1/2ec3d196a7f4559a0b8c44df8284e1d1e337ec1bb7228814f603db15585647d3"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332516495</guid>
-            <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-12-13332516495</link>
-            <title>Youss #12</title>
-            <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Sanjari, Adidaddi, DJ Lilli og Youss skiftes til at tage din fredagsfest til det næste niveau!</description>
-            <pubDate>Fri, 05 Dec 2025 20:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802161" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68adb9bcca1e334d4f336457/4a311d6045adfdf2d27e6e89c007eb50d74d3cfbf8068fc0d3e8c869cc65b6bd"/>
         </item>
     </channel>
 </rss>
