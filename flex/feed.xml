@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 23 May 2026 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122634236</guid>
+            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/you-wot-16122634236</link>
+            <title>You Wot??</title>
+            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+            <pubDate>Sat, 06 Jun 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802132" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7c0b73064306f392a0a/b8614ae3006e7ce0a41dd5d6cd633cd7ad32195b4ee0e0ab5f7ee21248caa7b8"/>
+        </item>
         <item>
             <guid isPermalink="false">16122634216</guid>
             <link>https://www.dr.dk/lyd/p3/flex/flex-2026/red-alert-16122634216</link>
@@ -262,18 +274,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802144" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e50b444f0602d2fe20b51e/d27816b0effc320efd90907acf6b84bc2c0631cf852e41f88db4888ba0d291a6"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122534496</guid>
-            <link>https://www.dr.dk/lyd/p3/flex/flex-2025/rotterdam-special-16122534496</link>
-            <title>Rotterdam Special</title>
-            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
-            <pubDate>Sat, 06 Dec 2025 18:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802142" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e50b44df10db2ff7f88256/160a051b588e3fdc2e868bf3c194d32d883fdf37b4c47c3543e6fc9e4a1300ef"/>
         </item>
     </channel>
 </rss>
