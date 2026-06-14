@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 07 Jun 2026 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122662247</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/frankrig-i-dag-16122662247</link>
+            <title>Frankrig i dag</title>
+            <description>Vi kigger indad og ud af og nu her, hvad sker der egentlig nu her i fransk musik?</description>
+            <pubDate>Sun, 14 Jun 2026 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482010" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6937ffe4b73064306f1d8792/003f676ffc527e83112279d034292f941aca1bbe885807e553fc2fb191fa9314"/>
+        </item>
         <item>
             <guid isPermalink="false">16122662237</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/harpegeddon-16122662237</link>
@@ -262,18 +274,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481451" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6937ff6bb73064306f1d82ec/a495541ffd5f2068135136947aa3ca4586bfe6f66792841c90dcbca38cc4b7d6"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122562507</guid>
-            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2025/julebuk-16122562507</link>
-            <title>Julebuk</title>
-            <description>Strå og røde bånd og djævelsk fortid, årets sidste program er et tema program om julebukken!</description>
-            <pubDate>Sun, 14 Dec 2025 19:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481445" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69270a57f813fbba905629bc/7b192b2b9565077b319a8c244f22410b3751942fb1a3859f4fe79131c7b66596"/>
         </item>
     </channel>
 </rss>
