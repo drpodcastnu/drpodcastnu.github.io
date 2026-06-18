@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 18 Jun 2026 11:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 12:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14302612254</guid>
+            <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-12-30-14302612254</link>
+            <title>Seneste nyt kl. 12:30</title>
+            <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
+            <pubDate>Thu, 18 Jun 2026 12:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881967" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693020a5e92e3adf15354df1/c60455dc5b11bdd19e10f89641700bbab4ea89f29542a3bc8ad3b67b5fc77217"/>
+        </item>
         <item>
             <guid isPermalink="false">14302611254</guid>
             <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-11-30-14302611254</link>
@@ -418,18 +430,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>00:03:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="4321391" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69301a36f813fbba90a68a76/4f9280f49dc475eefa7bf72465547b13867846998e17999373c6522fd92daebf"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14302612247</guid>
-            <link>https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2026/seneste-nyt-kl-12-30-14302612247</link>
-            <title>Seneste nyt kl. 12:30</title>
-            <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-            <pubDate>Sun, 14 Jun 2026 12:30:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:02:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="2881391" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693020904f22de874e076488/63084142e659ef10ede0d08a32a23bf999dfc9bc40945382e3d23e44ed68c68c"/>
         </item>
     </channel>
 </rss>
