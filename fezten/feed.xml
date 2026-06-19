@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 05 Jun 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664255</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/sommer-jukeboks-16122664255</link>
+            <title>Sommer-jukeboks</title>
+            <description>Jukeboksen er tændt og sat på 'free play', så du behøver ingen mønter for at ønske en sang i fredagsbaren. Bare send en sms eller skriv via Feztens side i DR Lyd.</description>
+            <pubDate>Fri, 19 Jun 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601511" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195acb5054f0510703849/dcb1ce5f83e25bca95889b1350b72264e42b3b0000834651061af814ee4dc462"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664235</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/festivalforventninger-16122664235</link>
