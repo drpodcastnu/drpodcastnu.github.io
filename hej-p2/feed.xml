@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 18 Jun 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630255</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/sommermusik-12422630255</link>
+            <title>Sommermusik</title>
+            <description>Hvilken klassisk musik indfanger sommeren for dig?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk   
+Vært: Jakob Wivel.</description>
+            <pubDate>Fri, 19 Jun 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204615106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b27a2b73064306f3c145b/d3662fa2e45f7ba8f84878ef11331e9ba700560e5db6f68c9a93e7927d68b63f"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630254</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/varm-musik-12422630254</link>
