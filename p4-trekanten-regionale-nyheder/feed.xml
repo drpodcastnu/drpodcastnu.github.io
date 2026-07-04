@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 04 Jul 2026 11:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 12:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14042612276</guid>
+            <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-12-30-14042612276</link>
+            <title>Seneste nyt kl. 12:30</title>
+            <description>Seneste nyt kl. 12:30</description>
+            <pubDate>Sat, 04 Jul 2026 12:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881897" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c62a9be22d8db59dc88a9/ee1677953fe1c5a7757ba6b5cecd2bb99cc170a0b252ac55ebf42d5f6c5c9c80"/>
+        </item>
         <item>
             <guid isPermalink="false">14042611276</guid>
             <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-11-30-14042611276</link>
