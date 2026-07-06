@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 05 Jul 2026 19:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 19:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,22 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652650031</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2026/vingegaard-vinker-farvel-til-gult-13652650031</link>
+            <title>Vingegaard vinker farvel til gult</title>
+            <description>En verdenspremiere! Måskei. Dagens program er optaget i en stolelift på vej ned fra toppen af Les Angles. Vi vender dagens spurt, hvor Vingegaard igen havde problemer med Pogacars power, hvilket betød, at han mistede den gule førertrøje.
+
+Men vi må op på hesten igen. For allerede tirsdag er der mulighed for dansk succes.
+
+Værter: Emil Schiønning og Morten Hausborg</description>
+            <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:10:30</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="15128508" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a3a8472350a42b486dbab74/2c381bdc9814711f027511e356dc2e530afac083817c650a9908a9dfbdd42455"/>
+        </item>
         <item>
             <guid isPermalink="false">13652650030</guid>
             <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2026/en-roert-hausborg-og-cristianos-sidste-chance-13652650030</link>
@@ -497,23 +513,6 @@ Gæster: Emil Halkier, Tobias Hansen og Kresten Mosbæk</description>
             <itunes:duration>00:36:36</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="52707325" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69454db52e0ce5f0a41ae956/739285bdde52c48d60c89cf9f3b98294d4f7c069e231c8af8eb1d1e5c0e33833"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652650001</guid>
-            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2026/forudsigelser-for-sportsaaret-2026-13652650001</link>
-            <title>Forudsigelser for sportsåret 2026</title>
-            <description>Velkommen til endnu et år her i vores lille Tyvstart-andedam. Vi lægger hårdt fra land med en stort forudsigelsesafsnit, hvor flere af de faste gæster i programmet slår vejen forbi for at komme med deres mere eller mindre ambitiøse forudsigelser for sportsåret 2026
-
-Vi kan både se frem til verdensmestre i flere forskellige sportsgrene, uhørt stor dansk succes i dansk fodbold og ikke mindst gode nyheder om den danske VM-deltagelse i fodbold. Til gengæld er der også lidt skår i glæden, når vi taler om en af de største danske stjerner. 
-
-Vært: Emil Schiønning 
-Gæster: Andreas Kraul, Tobias Hansen, Frederik Lindved, Kresten Mosbæk, Sarah Fisker og Henrik Liniger</description>
-            <pubDate>Tue, 06 Jan 2026 05:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:01:21</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="88362301" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69454db47f1afcaa2f555327/ea52386c644b2182c85ffa08aa53fea743e806b7f1e896b4c2574e76d3139812"/>
         </item>
     </channel>
 </rss>
