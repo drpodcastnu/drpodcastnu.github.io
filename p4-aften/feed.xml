@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 15 Jul 2026 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652670294</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/torsdag-16-juli-2026-13652670294</link>
+            <title>Torsdag 16. juli 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Iben Mortensen.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Thu, 16 Jul 2026 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a313c3bef746b88810c7cb0/2492a7cb6579665be154106425abbca0c9129bbee44d26fe83fbb6986e3fba8d"/>
+        </item>
         <item>
             <guid isPermalink="false">13652670293</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/onsdag-15-juli-2026-13652670293</link>
@@ -65,20 +79,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>03:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338401586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a31379c54294a000026bb84/64962f8a3b59fae2c88f56e57ecc17977fa72b6e758456e3195ba1517d14aed9"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670287</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/soendag-12-juli-2026-13652670287</link>
-            <title>Søndag 12. juli 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Louise Dreisig.
-www.dr.dk/lyd/p4</description>
-            <pubDate>Sun, 12 Jul 2026 18:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="341281586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a3135c9ef746b88810c415f/19183f3368f7714e9724b8ce11bd1d4b61ad70e8b14b0ae06345a35c09163f4e"/>
         </item>
     </channel>
 </rss>
