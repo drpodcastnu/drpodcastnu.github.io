@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 19 Jul 2026 19:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 19:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,22 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652650044</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2026/skjelmoses-store-dag-13652650044</link>
+            <title>Skjelmoses store dag</title>
+            <description>ER. DU. VANVITTIG. Sikke en monsterpræstation af Mathias Skjelmose. Det var lige, hvad vi havde brug for på bagkant af en hviledag med Vingegaards styrt i baghovedet. Enkeltstarten blev et drama uden lige, og selvom podcasten endnu en gang bliver optaget i en kø.
+
+Du kan også få en forsmag på, hvordan Hausborg agerer i trafikken, når tingene går ham imod. Og så slutter vi med en cliffhanger, der omhandler en gedde. Ja, fisken.
+
+Værter: Emil Schiønning og Morten Hausborg</description>
+            <pubDate>Tue, 21 Jul 2026 19:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:08</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="24678587" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a3a84be4a5de8a0a090a42d/9717a1a9f172c45fe1af2931bdedf13bc183da8c23d3ffd1da6ec8400d8fcea9"/>
+        </item>
         <item>
             <guid isPermalink="false">13652650043</guid>
             <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2026/tomhed-efter-vingegaards-exit-13652650043</link>
@@ -652,25 +668,6 @@ Gæster: Håndboldreporter Emil Halkier og fodboldkommentator Andreas Kraul.</de
             <itunes:duration>00:21:25</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="30849269" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69454db4424d2364ef6b2ce4/1e1d56137150365aa5cb318734611d5fcb95cb7a197c46ad318f7ade2b329377"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652650003</guid>
-            <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2026/em-chok-saetter-danmark-paa-ultimativ-proeve-13652650003</link>
-            <title>EM-chok sætter Danmark på ultimativ prøve</title>
-            <description>Det danske håndboldlandshold dummede sig mod Portugal og har nu ryggen mod muren. Foran dem venter en historisk svær mellemrunde, hvor de skal krydse klinger med håndboldstormagterne Frankrig, Spanien, Tyskland og Norge.  
-
-Kan Nikolaj Jacobsen og co. virkelig risikere ikke at være med, når der skal spilles knald eller fald kampe i Boxen?  
-
-Vi skal også forbi Australien, hvor Clara Tauson planmæssigt har spillet sig videre til tredje runde. Danskeren har haft en ustabil start på sæsonen, men har fået gang i ketcheren igen. Det til trods er armene ikke helt løftet i studiet endnu, for nu venter en af tourens varmeste navne i næste runde.  
-
-Vært: Emil Schiønning 
-Gæster: Emil Halkier og Kresten Mosbæk</description>
-            <pubDate>Wed, 21 Jan 2026 13:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:23:25</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="33724086" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69454db4424d2364ef6b2ce3/0cada8045254ffe419ed9bfb5a86f19c8987b17d7e441464d3e40f1f7a793f72"/>
         </item>
     </channel>
 </rss>
