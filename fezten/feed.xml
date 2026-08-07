@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 31 Jul 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664325</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/en-tur-i-skyggen-16122664325</link>
+            <title>En tur i skyggen</title>
+            <description>Fezten åbner sommerbaren på P6. Du får svale favoritter fra fortiden og fremtiden serveret sammen med gode historier.</description>
+            <pubDate>Fri, 07 Aug 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602044" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195adb5054f0510703862/e22dc4fdd0dc76c74ca84c179d4bd2b82eabc9f22c6fdac7f71829373551384a"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664315</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/sand-mellem-taeerne-16122664315</link>
