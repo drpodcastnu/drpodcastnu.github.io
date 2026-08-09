@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 02 Aug 2026 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122662327</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/aestetikeren-16122662327</link>
+            <title>Æstetikeren</title>
+            <description>Mon Amie universitetet går i tvær-æstetiske undersøgelse af den sanselige kategori. Vi hører musik som omfavner sanserne og eksisterer i nuet.</description>
+            <pubDate>Sun, 09 Aug 2026 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481501" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6937ffe8af5ce96564127592/ca6fd23f3f0c6f3cb29e9f125b5be0ee48348c60a8b8818dfd752e86b98e141e"/>
+        </item>
         <item>
             <guid isPermalink="false">16122662317</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/ledig-16122662317</link>
