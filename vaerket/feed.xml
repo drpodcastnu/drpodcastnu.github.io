@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 03 Oct 2025 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661331</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/knudaage-riisagers-benzin-12422661331</link>
+            <title>Knudåge Riisagers Benzin</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Knudåge Riisager: Benzin (ballet). DR Symfoniorkestret. Dirigent: Owain Arwel Hughes. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Mon, 10 Aug 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081517" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c1386c62af4c7de9f16fe/e1dd658939675b749b21e47e6801d45b1da04163e98101a15a72a4a24647fda2"/>
+        </item>
     </channel>
 </rss>
