@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 17 Aug 2026 11:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614341</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614341</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Mon, 17 Aug 2026 14:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4461912" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ea55a3c744b7aa3ead19f/ee6772b6ecdc4aaa1abd0ff06d1155d11cdb4048d442142012f41bdebc94d2c0"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613341</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613341</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Mon, 17 Aug 2026 13:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4460184" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ea4167b148e5451f943a7/8e6234b1a239bc41ced020db3a4d7e9237d8d011238e1561605b09f6d744b9d1"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612341</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/rektor-efter-drab-stop-drukfester-14842612341</link>
+            <title>Rektor efter drab: Stop drukfester</title>
+            <description>Få overblik og perspektiv på dagens vigtigste nyheder fra Danmark og resten af verden</description>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21718945" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ea21d7b148e5451f93037/d7478ec5a14c959ef9ad41b8765ca4575b499b0155a2525dbe21971126649e32"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611341</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611341</link>
