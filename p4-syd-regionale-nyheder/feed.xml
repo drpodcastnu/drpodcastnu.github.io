@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 18 Aug 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,30 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14502610342</guid>
+            <link>https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502610342</link>
+            <title>Seneste nyt kl. 10:30</title>
+            <description>Seneste nyt kl. 10:30</description>
+            <pubDate>Tue, 18 Aug 2026 10:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881897" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a03186ca8168ae8ecd744d9/497fa4fa3ac9abe5c1ae36dcc2d9a2cc312cb490bc3d941e39a249bb606263aa"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14502609342</guid>
+            <link>https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502609342</link>
+            <title>Seneste nyt kl. 09:30</title>
+            <description>Seneste nyt kl. 09:30</description>
+            <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0314e8b07afc4e61b4cbbe/907f30edc0d9b4c40fb46f20829a1105d98ab72f8667166e2a814c37041c0c4b"/>
+        </item>
         <item>
             <guid isPermalink="false">14502608342</guid>
             <link>https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502608342</link>
