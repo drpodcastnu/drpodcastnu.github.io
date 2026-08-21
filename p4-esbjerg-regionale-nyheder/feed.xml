@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 21 Aug 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">14032609345</guid>
+            <link>https://www.dr.dk/lyd/p4esbjerg/p4-esbjerg-regionale-nyheder/p4-esbjerg-regionale-nyheder/seneste-nyt-kl-09-30-14032609345</link>
+            <title>Seneste nyt kl. 09:30</title>
+            <description>Seneste nyt kl. 09:30</description>
+            <pubDate>Fri, 21 Aug 2026 09:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a04333aa8168ae8ece1429c/be49758c18002252bcad3285d52ff1764ad10822685ce9ed2a26d123ef596855"/>
+        </item>
+        <item>
             <guid isPermalink="false">14032608345</guid>
             <link>https://www.dr.dk/lyd/p4esbjerg/p4-esbjerg-regionale-nyheder/p4-esbjerg-regionale-nyheder/seneste-nyt-kl-08-30-14032608345</link>
             <title>Seneste nyt kl. 08:30</title>
@@ -33,7 +45,7 @@ Genudgivet RSS-feed.</description>
             <itunes:author>DR</itunes:author>
             <itunes:duration>00:03:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a043000cd36a2074c9433ed/57be1a369879f41727ad87cb40a1002a8a9ec6aa2d1380f706361f510b4c6245"/>
+            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a043000cd36a2074c9433ed/31626b3d8bf5d0bd84fd7e2aee8214888fa489ee31354a0a85e6fd68402ad7f5"/>
         </item>
         <item>
             <guid isPermalink="false">14032607345</guid>
