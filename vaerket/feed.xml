@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 21 Aug 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661351</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/hameriks-poetiske-symfoni-12422661351</link>
+            <title>Hameriks poetiske symfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Asger Hamerik: Symfoni nr. 1, F-dur, op. 29, Symphonie Poétique. Helsingborgs Symfoniorkester. Dirigent: Thomas Dausgaard. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Mon, 24 Aug 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082125" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c13887b148e5451e1a87f/0ff1bbd2bfb7114bf3f31e068e1110df34edd8e4e5a486b99b9268ffb85c127a"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661345</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/mozarts-jupitersymfoni-12422661345</link>
