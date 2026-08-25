@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 22 Aug 2026 18:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,20 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">13652670352</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/tirsdag-25-august-2026-13652670352</link>
+            <title>Tirsdag 25. august 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Torben Møller.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Tue, 25 Aug 2026 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338401586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7c2edbe4264bb6ee4cc3b9/81c78185a99728b8e17250a95a8e40640bddc34585c459056f287cb26cdd19a3"/>
+        </item>
+        <item>
             <guid isPermalink="false">13652670346</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/loerdag-22-august-2026-13652670346</link>
             <title>Lørdag 22. august 2026</title>
@@ -37,20 +51,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>03:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="341281586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a6b1665e61f6d7d62371e55/7d0c42f65ac62fc833445affc8fc64b3dd10b28961161546b77de428d3f4a9e5"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670345</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/fredag-21-august-2026-13652670345</link>
-            <title>Fredag 21. august 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Britt Berglund.
-www.dr.dk/lyd/p4</description>
-            <pubDate>Fri, 21 Aug 2026 18:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="338401586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7c2edbe4264bb6ee4cc3ad/cc009fb5179efb8814b1710d6ab50f707f0d1c3940a5571de54f5ff5b6003de7"/>
         </item>
     </channel>
 </rss>
