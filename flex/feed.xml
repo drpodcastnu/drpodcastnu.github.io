@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 21 Aug 2026 20:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 20:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122634355</guid>
+            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/fixed-by-flex-16122634355</link>
+            <title>Fixed By Flex</title>
+            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+            <pubDate>Fri, 28 Aug 2026 20:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:00:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="172802138" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a38f598c331c54c466829a8/52d050b871b36419c441a9ab3365157fe29c0306be782576495fac39f51493a7"/>
+        </item>
         <item>
             <guid isPermalink="false">16122634345</guid>
             <link>https://www.dr.dk/lyd/p3/flex/flex-2026/wu-tang-is-for-the-children-16122634345</link>
@@ -239,18 +251,6 @@ Produceret for DR af Chloroform.</description>
             <itunes:duration>02:00:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="172802149" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7bda678e46e5c7f0f7a/89264a2a70caea35b089844efcde3f6f1371e909ec63897d0e88491c0c50d0cb"/>
-        </item>
-        <item>
-            <guid isPermalink="false">16122634096</guid>
-            <link>https://www.dr.dk/lyd/p3/flex/flex-2026/warehouse-mesteren-16122634096</link>
-            <title>Warehouse-mesteren</title>
-            <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
-            <pubDate>Sat, 28 Feb 2026 20:00:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:00:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="172802142" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ad7bdb73064306f3929bf/8ad84dede1a722c3dffb2f8bcf67c4eea02b855cc21da420cc8fdcfc3b613642"/>
         </item>
     </channel>
 </rss>
