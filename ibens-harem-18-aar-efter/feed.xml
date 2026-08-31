@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 24 Aug 2026 05:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 05:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,25 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122595020</guid>
+            <link>https://www.dr.dk/lyd/special-radio/ibens-harem-18-aar-efter/18-aar-efter/jacob-haugaard-16122595020</link>
+            <title>Jacob Haugaard</title>
+            <description>Entertaineren Jacob Haugaard lever af at være sjov. 
+Men hans fortid er alt andet end sjov. De seneste år har Jacob så småt åbnet åbnet op om, at hans barndom ikke bare indebar et alkoholmisbrug, men også incest. 
+Med alderen har mørket fået lov at fylde mere hos manden, der ellers i årtier har været kendt for at få folk til at grine. 
+Efter at have sagt farvel til Grøn Koncert og Skanderborg Festivalen, er der en ny mand der kigger frem i Jacob, en mand med et andet navn og en anden mission.
+Vært, idé og tilrettelæggelse: Iben Maria Zeuthen.
+Medtilrettelægger og redaktør: Mikkel Clausen.
+Musik og klip: Hjalte Lehmann.
+Produceret for DR af FILT cph.</description>
+            <pubDate>Mon, 31 Aug 2026 05:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:54</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="81955471" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69ddfa1e164899668045485f/8b9f1222175a028061cf2c7bba377aeb4e96e1747be6aa010437e3f3635e82bd"/>
+        </item>
         <item>
             <guid isPermalink="false">16122595019</guid>
             <link>https://www.dr.dk/lyd/special-radio/ibens-harem-18-aar-efter/18-aar-efter/flemming-jensen-16122595019</link>
@@ -597,6 +616,19 @@ Produceret for DR af FILT cph.</description>
             <itunes:duration>00:41:49</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="60235642" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69ddfa1d16489966804547ba/823aeeb467d79eead244c5b5a21fe5e855d85a71e292a83c48a9f93ebe451555"/>
+        </item>
+        <item>
+            <guid isPermalink="false">16122595060</guid>
+            <link>https://www.dr.dk/lyd/special-radio/ibens-harem-18-aar-efter/ibens-harem/jacob-haugaard-16122595060</link>
+            <title>Jacob Haugaard</title>
+            <description>Entertaineren Jacob Haugaard interviewes på Skanderborg Festivalen om sine mange drukture og beslutningen om at stoppe med at drikke. Om sin kærlighed til Ilse, og om tabet af deres søn. 
+Produceret for DR af FILT cph.</description>
+            <pubDate>Sun, 31 Aug 2008 04:55:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:13:26</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="105756308" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69ddfa1c3b365c11ebd70e39/5100d9d751a69978885d35ef4615b7550875afc6839286ac27a5c19860790b55"/>
         </item>
     </channel>
 </rss>
