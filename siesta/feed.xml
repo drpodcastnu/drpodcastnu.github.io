@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 01 Sep 2026 12:15:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:15:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633363</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422633363</link>
+            <title>Drama</title>
+            <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser.
+Vært: Carsten Wolf Andersen.</description>
+            <pubDate>Wed, 02 Sep 2026 12:15:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64870082" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c1946e22eba467ac202e6/caa81f1a0f0f8a40dc5d782cfac2122e7ebad0ec93db3b76979958d9371a48e8"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633362</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/leg-12422633362</link>
