@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 02 Sep 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661364</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/brahms-symfoni-nr-2-12422661364</link>
+            <title>Brahms' Symfoni nr. 2</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed.  
+Brahms: Symfoni nr. 2. 
+Helsingborg Symfoniorkester. Dirigent: Andrew Manze. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Thu, 03 Sep 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081503" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c1389c62af4c7de9f174f/2f9b976a652dcb6056e3f170d28b7ca561f67db66a6d961a988c445beb5b21c4"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661363</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/guldhanen-12422661363</link>
