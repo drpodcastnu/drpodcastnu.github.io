@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 03 Sep 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661365</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/synnoeve-solbakken-12422661365</link>
+            <title>Synnøve Solbakken</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Hugo Alfvén: Suite fra filmen Synnøve Solbakken. 
+Norrköping Symfoniorkester. Dirigent: Niklas Willén. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Fri, 04 Sep 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082101" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c13897b148e5451e1a8b7/9f116747f9faf84f353c63769fda1b6a8673ec818aa7520a309635f6d7b5b81a"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661364</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/brahms-symfoni-nr-2-12422661364</link>

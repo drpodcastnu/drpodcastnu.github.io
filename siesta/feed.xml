@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 03 Sep 2026 12:15:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 12:15:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422633365</guid>
+            <link>https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422633365</link>
+            <title>Glæde</title>
+            <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning. 
+Vært: Carsten Wolf Andersen.</description>
+            <pubDate>Fri, 04 Sep 2026 12:15:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="64835491" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c19960626c2fd99f8f4a6/1933d522f3e61aa8318fea2672567b430b9692f2fd0623f84f1afcb692fc8f06"/>
+        </item>
         <item>
             <guid isPermalink="false">12422633364</guid>
             <link>https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422633364</link>
