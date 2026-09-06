@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 06 Sep 2026 11:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 14:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614367</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614367</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 06 Sep 2026 14:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4423320" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ea55f7b148e5451f95308/596ab9637b3f6c498b2d734edf9815331c37caeebe287afa58349608ec676081"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613367</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613367</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Sun, 06 Sep 2026 13:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4453272" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ea41d7b148e5451f944b8/c662eab7de879219233a7aff30f55015442555ce8f1af2852e37b04862fb9e3b"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612367</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/tysk-hoejrefloej-staar-til-sejr-i-sachsen-anhalt-14842612367</link>
+            <title>Tysk højrefløj står til sejr i Sachsen-Anhalt</title>
+            <description>Få overblik og perspektiv på dagens vigtigste nyheder fra Danmark og resten af verden</description>
+            <pubDate>Sun, 06 Sep 2026 12:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21709731" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ea2237b148e5451f93104/d83ec09ef56316d7a7eec7a67078a475468551b1ab0b8887009a70c7e53160f9"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611367</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611367</link>
