@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 07 Sep 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661372</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/sibelius-violinkoncert-12422661372</link>
+            <title>Sibelius' Violinkoncert</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Jean Sibelius: Violinkoncert, d-mol, op. 47. James Ehnes, violin. Bergen Filharmonikerne. Dirigent: Edward Gardner. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Tue, 08 Sep 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082118" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c138ac62af4c7de9f1773/5b353a9416e8ba2c69fbb66bbd26353314ec7984257731198075cbde9d1e061f"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661371</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/langgaards-morgensymfoni-12422661371</link>
