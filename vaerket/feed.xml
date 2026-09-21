@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 18 Sep 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661391</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/nielsens-violinkoncert-12422661391</link>
+            <title>Nielsens Violinkoncert</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Carl Nielsen: Violinkoncert op. 33. Johan Dalene, violin. Stockholm Filharmonikerne. Dirigent: John Storgårds. 
+Vært: Helle Kristensen</description>
+            <pubDate>Mon, 21 Sep 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082117" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c138c3c744b7aa3d32a08/806f13b88eaad74ea0c88b897f75897057560d7c8d64930520bdd2c0c5dd1bb0"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661385</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/richard-den-tredje-12422661385</link>
