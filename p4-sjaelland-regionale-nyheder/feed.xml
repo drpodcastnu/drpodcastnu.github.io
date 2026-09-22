@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 22 Sep 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 10:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,30 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14702610392</guid>
+            <link>https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702610392</link>
+            <title>Seneste nyt kl. 10:30</title>
+            <description>Seneste nyt kl. 10:30</description>
+            <pubDate>Tue, 22 Sep 2026 10:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881897" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a229a0d35464e1c56d115db/290ea0131d24fbaa33c80977ac7b7c763ec6cea17e687e847d05805b7d8a33aa"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14702609392</guid>
+            <link>https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702609392</link>
+            <title>Seneste nyt kl. 09:30</title>
+            <description>Seneste nyt kl. 09:30</description>
+            <pubDate>Tue, 22 Sep 2026 09:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4321321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a227d4e35464e1c56d00dd7/19171a7fc3c04424b8caf7a8a596494e85e6cb702c3cc076465aec76bb1c2d7b"/>
+        </item>
         <item>
             <guid isPermalink="false">14702608392</guid>
             <link>https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702608392</link>
