@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 22 Sep 2026 10:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 12:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,30 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14042612392</guid>
+            <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-12-30-14042612392</link>
+            <title>Seneste nyt kl. 12:30</title>
+            <description>Seneste nyt kl. 12:30</description>
+            <pubDate>Tue, 22 Sep 2026 12:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881897" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c62d49a054de09565d072/d0966dd00b8d1facea545233445c2ed108798cd9b68ed4bca541457c9ca81ac1"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14042611392</guid>
+            <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-11-30-14042611392</link>
+            <title>Seneste nyt kl. 11:30</title>
+            <description>Seneste nyt kl. 11:30</description>
+            <pubDate>Tue, 22 Sep 2026 11:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881321" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c5c9f7b148e5451e4df5f/f824194ecad1328c1f23e1610542ffa8d09b77747dfc1e516323c22623083fc9"/>
+        </item>
         <item>
             <guid isPermalink="false">14042610392</guid>
             <link>https://www.dr.dk/lyd/p4trekanten/p4-trekanten-regionale-nyheder/p4-trekanten-regionale-nyheder/seneste-nyt-kl-10-30-14042610392</link>
