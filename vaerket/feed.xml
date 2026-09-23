@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 22 Sep 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661393</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/offenbachs-concerto-militaire-12422661393</link>
+            <title>Offenbachs Concerto militaire</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Jacques Offenbach: Concerto militaire, G-dur. Jérôme Pernoo, cello. Les Musiciens du Louvre. Dirigent: Marc Minkowski. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Wed, 23 Sep 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082121" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c138c3c744b7aa3d32a17/caf0bdd7e9d011d9a55d7697acd194508b3a5b92cb4ceae3994e0dfaa3d685f5"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661392</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/elgars-falstaff-12422661392</link>
