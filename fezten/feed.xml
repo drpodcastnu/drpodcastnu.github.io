@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 18 Sep 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664395</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/oktoberfezt-16122664395</link>
+            <title>Oktoberfezt</title>
+            <description>Det er okay at stå på bordene, når fredagsbaren holder sin egen version af Oktoberfezt. 
+Men vi skal bruge et alternativt soundtrack. Har du et forslag til sang?</description>
+            <pubDate>Fri, 25 Sep 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602080" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195ae4f22de874e145db4/1166a404e5ae915ed479d5c2afd5086a76290ea227ab6d559b18b68207ae5cb2"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664385</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/naalen-i-huden-16122664385</link>
