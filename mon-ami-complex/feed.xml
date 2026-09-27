@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sun, 20 Sep 2026 19:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 19:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122662397</guid>
+            <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/moniversitet-apocalypso-16122662397</link>
+            <title>Moniversitet - Apocalypso</title>
+            <description>Hvad er lyden af enden?</description>
+            <pubDate>Sun, 27 Sep 2026 19:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481376" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69380027af5ce965641277fb/f82d3926ec757bda6dca7e8be793a1b9385db58bdff619610a949ca4ea2635a8"/>
+        </item>
         <item>
             <guid isPermalink="false">16122662387</guid>
             <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2026/moniversitet-hybris-16122662387</link>
