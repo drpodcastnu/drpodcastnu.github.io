@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 29 Sep 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630403</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/oratorie-onsdag-12422630403</link>
+            <title>Oratorie-onsdag</title>
+            <description>Det er onsdag og tid til at høre oratorier - hvad skal vi høre og hvorfor? 
+Vi giver dit input radiovinger, hvis du skriver til HejP2@dr.dk.
+Vært: Cæcilie Iburg Printzlau.</description>
+            <pubDate>Wed, 30 Sep 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:21:59</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204472298" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c0f117b148e5451e1632b/94913e33f4268560437dde2d79f645944f463ae65820f5ebcaece1e0f4e9660f"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630402</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/ord-du-kan-lide-12422630402</link>
