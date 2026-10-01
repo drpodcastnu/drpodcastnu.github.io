@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 30 Sep 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661404</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/schuberts-6-symfoni-12422661404</link>
+            <title>Schuberts 6. Symfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Schubert: Symfoni nr. 6. 
+Det Svenske Kammerorkester. Dirigent: Thomas Dausgaard. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Thu, 01 Oct 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082084" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c138d3c744b7aa3d32a30/bca71711b1ec97ded988fb96248f52ed7efc12139e50dbe8e5dd5c6e08ce68dd"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661403</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/des-knaben-wunderhorn-12422661403</link>
