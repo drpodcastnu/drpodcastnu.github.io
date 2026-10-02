@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 25 Sep 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664405</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/familiefezten-16122664405</link>
+            <title>Familiefezten</title>
+            <description>Fezten dækker op til ekstra mange musikalske brødre og søstre, mødre og fædre. Hvem synes du, vi skal invitere med til Familiefezten?</description>
+            <pubDate>Fri, 02 Oct 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601480" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195ebb5054f0510703a74/44b5bd55a10ef0b85e4e1fae6428de758d249e363c1f1656c17bb287ac7c7b40"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664395</guid>
             <link>https://www.dr.dk/lyd/special-radio/fezten/fezten/oktoberfezt-16122664395</link>
