@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 05 Oct 2026 18:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 18:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652670412</guid>
+            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/tirsdag-6-oktober-2026-13652670412</link>
+            <title>Tirsdag 6. oktober 2026</title>
+            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Louise Dreisig.
+www.dr.dk/lyd/p4</description>
+            <pubDate>Tue, 06 Oct 2026 18:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7c411de4264bb6ee4d84c5/6f1510204c8e1163d9a9bf6246f3622e65053257f6ae527670df91aa3536807e"/>
+        </item>
         <item>
             <guid isPermalink="false">13652670411</guid>
             <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/mandag-5-oktober-2026-13652670411</link>
@@ -51,20 +65,6 @@ www.dr.dk/lyd/p4</description>
             <itunes:duration>03:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="341282162" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7c411ce4264bb6ee4d84aa/6d2803614fb2f8d0861fc3740657fdb054c37890e771fe9581d3c2cb64992438"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652670405</guid>
-            <link>https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/fredag-2-oktober-2026-13652670405</link>
-            <title>Fredag 2. oktober 2026</title>
-            <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Britt Berglund.
-www.dr.dk/lyd/p4</description>
-            <pubDate>Fri, 02 Oct 2026 18:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>03:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="338401586" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7c411d7675eddde7a8b362/3830fcb26b8561a1d198563dcec987271b438ef4d9e015c636911858cc63b8df"/>
         </item>
     </channel>
 </rss>
