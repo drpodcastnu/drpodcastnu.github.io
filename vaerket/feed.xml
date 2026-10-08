@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 07 Oct 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661414</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/tjajkovskijs-koncertfantasi-12422661414</link>
+            <title>Tjajkovskijs Koncertfantasi</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Peter Tjajkovskij: Koncertfantasi, G-dur, op. 56. Lukas Geniusas, klaver. St. Gallen Symfonikerne. Dirigent: Modestas Pitrenas. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Thu, 08 Oct 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082131" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c138e3c744b7aa3d32a5c/d00cd43560d1fe308e161ee2e55e883d7817814831d4931ffbb5d820eabd4f83"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661413</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/erkki-melartins-symfoni-nr-3-12422661413</link>
