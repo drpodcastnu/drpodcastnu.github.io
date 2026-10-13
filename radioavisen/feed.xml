@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 13 Oct 2026 11:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 14:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,42 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14842614422</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202613/seneste-nyt-kl-14-00-14842614422</link>
+            <title>Seneste nyt kl. 14:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 13 Oct 2026 14:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4405464" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a80ac720c48a499332e7c46/eb4a6ba20f12dfd8cce225cf1c242188ad208446743581d0b9f9b34e543db17b"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842613422</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202612/seneste-nyt-kl-13-00-14842613422</link>
+            <title>Seneste nyt kl. 13:00</title>
+            <description>De seneste nyheder - døgnet rundt.</description>
+            <pubDate>Tue, 13 Oct 2026 13:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="4414680" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a80a4c92e60e1edf83d15a3/fc9e3ce3d5b0acec518cc2992bb1c298e2354d2f400b8feb080504403eb2aa2d"/>
+        </item>
+        <item>
+            <guid isPermalink="false">14842612422</guid>
+            <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202611/boligprisfald-i-koebenhavn-14842612422</link>
+            <title>Boligprisfald i København</title>
+            <description>Få overblik og perspektiv på dagens vigtigste nyheder fra Danmark og resten af verden</description>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="21717793" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a80a4602e60e1edf83d119c/33d7908ea3b60760c9475395feba50b49def5ccb9f98e66c2ad02b58b208d34a"/>
+        </item>
         <item>
             <guid isPermalink="false">14842611422</guid>
             <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202610/seneste-nyt-kl-11-00-14842611422</link>
