@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 13 Oct 2026 11:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 11:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661423</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/berwalds-naive-symfoni-12422661423</link>
+            <title>Berwalds naive symfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Franz Berwald: Symfoni nr. 4, Es-dur, Sinfonie naive. DR Symfoniorkestret. Dirigent: Thomas Dausgaard. 
+Vært: Helle Kristensen.</description>
+            <pubDate>Wed, 14 Oct 2026 11:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82082107" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c138e3c744b7aa3d32a88/b3c5725e485a52be0cfa3fc967ac5aac26821c179df4d9874c0da26d268388ca"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661422</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/glieres-koncerter-12422661422</link>
