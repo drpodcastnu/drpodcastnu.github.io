@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 15 Oct 2026 08:30:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 08:30:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630425</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/meningen-med-livet-12422630425</link>
+            <title>Meningen med livet</title>
+            <description>Hvad er meningen med livet for dig?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
+Vært: Jakob Wivel.</description>
+            <pubDate>Fri, 16 Oct 2026 08:30:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204596666" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c0ec87b148e5451e15e4d/a8cf34e6615e9e29986dd5f3dbfbf13e5b2b1bab096a22400d9cff45568b6ce2"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630424</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/klassisk-til-nye-lyttere-12422630424</link>
