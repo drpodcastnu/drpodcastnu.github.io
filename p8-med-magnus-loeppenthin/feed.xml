@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 17 Oct 2026 17:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 17:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">18452664427</guid>
+            <link>https://www.dr.dk/lyd/p8jazz/p8-med-magnus-loeppenthin/p8-med-magnus-loeppenthin/soendag-18-oktober-2026-18452664427</link>
+            <title>Søndag 18. oktober 2026</title>
+            <description>Vært: Magnus Løppenthin.</description>
+            <pubDate>Sun, 18 Oct 2026 17:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481951" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ac601f7842017fe110e24ba/5bd41a63ca58817150ebd6b137d126ca3a71f46f12c631a8c1eecd12629d9d66"/>
+        </item>
         <item>
             <guid isPermalink="false">18452664426</guid>
             <link>https://www.dr.dk/lyd/p8jazz/p8-med-magnus-loeppenthin/p8-med-magnus-loeppenthin/loerdag-17-oktober-2026-18452664426</link>
@@ -58,18 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481375" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ac361473b764a8d7ec96a43/c674706c7884265c22b0974fe9f5291dc0caa43f8a3f5ca37e0009d12c2dbe35"/>
-        </item>
-        <item>
-            <guid isPermalink="false">18452664423</guid>
-            <link>https://www.dr.dk/lyd/p8jazz/p8-med-magnus-loeppenthin/p8-med-magnus-loeppenthin/onsdag-14-oktober-2026-18452664423</link>
-            <title>Onsdag 14. oktober 2026</title>
-            <description>Vært: Magnus Løppenthin.</description>
-            <pubDate>Wed, 14 Oct 2026 10:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481951" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ac36147842017fe11f57391/26da5521cf719a81e4e7f4a3648e8b05d84aa14514085793fed464b0038dd727"/>
         </item>
     </channel>
 </rss>
