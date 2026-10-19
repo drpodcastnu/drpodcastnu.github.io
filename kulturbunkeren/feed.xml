@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 19 Oct 2026 05:02:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 05:00:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,23 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452655001</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kulturbunkeren/kulturbunkeren-1/rikke-hoerlykke-15452655001</link>
+            <title>Rikke Hørlykke</title>
+            <description>Den tidligere håndboldspiller Rikke Hørlykke har taget tre ting med ned i Kulturbunkeren til Jonas Mogensen og Anna Lin. En bog, der dyrker gamle værdier og sætter gang i de store tanker om livet. Et album, der er ekstremt populært, men alligevel risikerer at dele vandene i bunkeren. Og en tredje ting, der fik Rikke til græde for en sjælden gangs skyld, da hun var nybagt mor.
+Tilrettelægger og producer: Valdemar Stauning
+Producer og klipper: Jamshed Porbunderwala
+Caster og tilrettelægger: Lea Munk Kaarsholm
+Fotograf: Sarah Fals
+Redaktør: Kasper Overby</description>
+            <pubDate>Mon, 19 Oct 2026 05:00:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:27</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="36663996" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ac5fcd6ef48d8d414d0f4b0/b6a9ae48eca66f0def9d2d714641676d85262246edfae31a02331de53f837650"/>
+        </item>
         <item>
             <guid isPermalink="false">15452655003</guid>
             <link>https://www.dr.dk/lyd/special-radio/kulturbunkeren/kulturbunkeren-1/anna-lin-15452655003</link>
@@ -56,24 +73,6 @@ Redaktør: Kasper Overby</description>
             <itunes:duration>00:24:35</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="35408889" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ac5fcd7af341ddffa975046/ff31e3faa84a3a7a649e16f1f6d9bad7298a75b8e9a5f15a2812611e28858946"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452655001</guid>
-            <link>https://www.dr.dk/lyd/special-radio/kulturbunkeren/kulturbunkeren-1/rikke-hoerlykke-15452655001</link>
-            <title>Rikke Hørlykke</title>
-            <description>Den tidligere håndboldspiller Rikke Hørlykke har taget tre ting med ned i Kulturbunkeren til Jonas Mogensen og Anna Lin. En bog, der dyrker gamle værdier og sætter gang i de store tanker om livet. Et album, der er ekstremt populært, men alligevel risikerer at dele vandene i bunkeren. Og en tredje ting, der fik Rikke til græde for en sjælden gangs skyld, da hun var nybagt mor.
-Producere: Valdemar Stauning og Jamshed Porbunderwala
-Tilrettelægger og producer: Valdemar Stauning
-Producer og klipper: Jamshed Porbunderwala
-Caster og tilrettelægger: Lea Munk Kaarsholm
-Fotograf: Sarah Fals
-Redaktør: Kasper Overby</description>
-            <pubDate>Mon, 19 Oct 2026 05:00:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:25:27</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="36663996" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ac5fcd6ef48d8d414d0f4b0/b6a9ae48eca66f0def9d2d714641676d85262246edfae31a02331de53f837650"/>
         </item>
     </channel>
 </rss>
