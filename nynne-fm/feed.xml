@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 21 Oct 2026 18:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 18:03:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332621434</guid>
+            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/med-sira-jovina-13332621434</link>
+            <title>med Sira Jovina</title>
+            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
+Nynne FM - én frekvens, den vigtigste musik!</description>
+            <pubDate>Thu, 22 Oct 2026 18:03:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481605" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29917b148e5451e2a62e/ef931e5723a6d03caf670737340cef0c354fac61298ef3b1f1010b641ed44566"/>
+        </item>
         <item>
             <guid isPermalink="false">13332621433</guid>
             <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/neeeeej-slayyyter-13332621433</link>
@@ -205,19 +218,6 @@ Nynne FM - én frekvens, den vigtigste musik!</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482183" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29823c744b7aa3d423b6/99fd67649d60c4ff1db42d91c7c3f0acbde9369921aecc8251a0e1073051fcf0"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332621393</guid>
-            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/med-lea-romea-adela-og-unlikely-collabs-13332621393</link>
-            <title>med Lea Romea, Adela og unlikely collabs</title>
-            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
-Nynne FM - én frekvens, den vigtigste musik!</description>
-            <pubDate>Wed, 23 Sep 2026 18:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482187" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c298a7b148e5451e2a595/43d993b3c40a7864f235008863e7258e1507b675a0dbf8069f8f31ca665e3403"/>
         </item>
     </channel>
 </rss>
