@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 09 Oct 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664435</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2026/fri-bar-16122664435</link>
+            <title>Fri bar</title>
+            <description>Er der en sang, du har brug for at høre i dag? Der er fri bar i Fezten.</description>
+            <pubDate>Fri, 23 Oct 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601409" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195bce92e3adf15420b4f/4dee15f72679f81f9e7762c5dddb1d2ee476d6065358137f0ea8f5e93ca9aab7"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664415</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2026/efteraarsmixet-16122664415</link>

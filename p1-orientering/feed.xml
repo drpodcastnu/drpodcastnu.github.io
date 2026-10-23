@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 22 Oct 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610435</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-23-oktober-2026-11802610435</link>
+            <title>Fredag 23. oktober 2026</title>
+            <description>Hvordan bliver regeringens beslutning om at nedlægge minkavl modtaget? Hvad ved vi lige nu om nedlukningen af hele Vestbredden? Og hvorfor får rapport om manosfæren der udkom tidligere på ugen kritik?
+Dagens værter: Amalie Schroll Munk og Thomas Tjaerandsen.</description>
+            <pubDate>Fri, 23 Oct 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158485114" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f011e2e60e1edf82e71ba/3431f5f55faee89e932f11a6a561fb6a9046c474d8dcc43099e08bd4bf454fe6"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610434</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/torsdag-22-oktober-2026-11802610434</link>
@@ -1665,19 +1678,6 @@ Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
             <itunes:duration>01:50:03</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158476442" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69b2b67561374a0706c9c6e7/fd2cf3b9b11951d50081572de6b3395b1063c01f2a376f9790ff3f5e354000da"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610181</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-27-april-2026-11802610181</link>
-            <title>Mandag 27. april 2026</title>
-            <description>Skal vi forvente et gennembrud i regeringsforhandlingerne inden længe? Er kontrollen med dyrevelfærden i svinestaldene for slap? Og hvordan kan man elske en fodboldklub så meget, at den må fylde hele ens ben?
-Dagens værter: Anne Kirstine Hermann og Søren Carlsen.</description>
-            <pubDate>Mon, 27 Apr 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:03</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158479932" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69b2b67492347793b68cfe98/362ce33e0c3743d2d284d9a1f3edc86601b85c683dd8dfebaf1834360e54e1de"/>
         </item>
     </channel>
 </rss>

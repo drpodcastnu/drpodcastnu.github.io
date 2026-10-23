@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 22 Oct 2026 15:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 16:05:00 +0200</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14702630435</guid>
+            <link>https://www.dr.dk/lyd/p4sjaelland/p4-eftermiddag-sjaelland/p4-eftermiddag-sjaelland/fredag-23-oktober-2026-14702630435</link>
+            <title>Fredag 23. oktober 2026</title>
+            <description>P4 Eftermiddag Sjælland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Fri, 23 Oct 2026 16:05:00 +0200</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601478" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a227246ae7d63adc3a08957/6ea5211d8aff1fcb81bc62c3d730b179e84d1eaebc9a5ab7cb4f8a87e8abe4d6"/>
+        </item>
         <item>
             <guid isPermalink="false">14702630434</guid>
             <link>https://www.dr.dk/lyd/p4sjaelland/p4-eftermiddag-sjaelland/p4-eftermiddag-sjaelland/torsdag-22-oktober-2026-14702630434</link>
@@ -58,18 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254881478" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a22729335464e1c56cf9538/4b8307e972f15a2dfc0ff0a08c5cab226e6e585bf30ed674c4dcc87d7db51daa"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14702630431</guid>
-            <link>https://www.dr.dk/lyd/p4sjaelland/p4-eftermiddag-sjaelland/p4-eftermiddag-sjaelland/mandag-19-oktober-2026-14702630431</link>
-            <title>Mandag 19. oktober 2026</title>
-            <description>P4 Eftermiddag Sjælland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Mon, 19 Oct 2026 15:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254881478" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a227246ae7d63adc3a08949/d367c247e48f8e3ae8046969e9b01e7a64181abb9c3d048103d8de1581102356"/>
         </item>
     </channel>
 </rss>
