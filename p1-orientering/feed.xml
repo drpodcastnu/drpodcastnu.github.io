@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 23 Oct 2026 16:05:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610441</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-26-oktober-2026-11802610441</link>
+            <title>Mandag 26. oktober 2026</title>
+            <description>Hvorfor har en række læger på Rigshospitalet sagt op eller er blevet fyret? Hvad er det for nogle "hårde økonomiske tømmermænd", som venter Brasilien nu efter Lula da Silvas sejr? Hvorfor er Donald Trump så optaget af den mandlige fysik?
+Dagens værter: Amalie Schroll Munk og Jan Falkentoft.</description>
+            <pubDate>Mon, 26 Oct 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158467259" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f011e0c48a499331eb25b/d9d648d56beb36f7eddbf844bb739df347acfba0ad1654b6814644a092b58d7f"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610435</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-23-oktober-2026-11802610435</link>
@@ -1639,19 +1652,6 @@ Dagens værter: Anne Kirstine Hermann og August Stenbroen.</description>
             <itunes:duration>01:50:02</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158467243" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69c51fcb8b5763ce9df06714/bdd6a7e35576e1876fe3de257b1770817c01216e6fcf681a7fc19b72c5161471"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610184</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/torsdag-30-april-2026-11802610184</link>
-            <title>Torsdag 30. april 2026</title>
-            <description>Svigter Lars Løkke blå blok, når han forhandler med Mette Frederiksen? Hvem er revolutionsgarden i Iran? Hvorfor giver Lolland-Falsters Folketidende anonymitet til politikere?
-Dagens værter: August Stenbroen og Anne Kirstine Hermann.</description>
-            <pubDate>Thu, 30 Apr 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:01</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158429793" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69b2b676032f8227b0cfa7e5/a9e4ff3d080c1dc1bdc6d89d051ee107e35355024a795d410c738cd120cd11b8"/>
         </item>
     </channel>
 </rss>
