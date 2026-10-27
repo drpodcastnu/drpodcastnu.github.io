@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 26 Oct 2026 15:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 15:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">14202630442</guid>
+            <link>https://www.dr.dk/lyd/p4vest/p4-eftermiddag-midt-og-vest/p4-eftermiddag-midt-og-vest/tirsdag-27-oktober-2026-14202630442</link>
+            <title>Tirsdag 27. oktober 2026</title>
+            <description>P4 Eftermiddag Midt- og vestjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Tue, 27 Oct 2026 15:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254881488" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a268a855b74798dfa6318cb/5e90b76c9435c59af503027c66730c2e6533845eb7502cbded7dfb8fc5f986c1"/>
+        </item>
+        <item>
             <guid isPermalink="false">14202630441</guid>
             <link>https://www.dr.dk/lyd/p4vest/p4-eftermiddag-midt-og-vest/p4-eftermiddag-midt-og-vest/mandag-26-oktober-2026-14202630441</link>
             <title>Mandag 26. oktober 2026</title>
@@ -34,18 +46,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254881488" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a268a855b74798dfa6318d2/e988f458caa5be04ef87c5355eeea00dbade7c91a0d52587889ba55b429b2421"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14202630435</guid>
-            <link>https://www.dr.dk/lyd/p4vest/p4-eftermiddag-midt-og-vest/p4-eftermiddag-midt-og-vest/fredag-23-oktober-2026-14202630435</link>
-            <title>Fredag 23. oktober 2026</title>
-            <description>P4 Eftermiddag Midt- og vestjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Fri, 23 Oct 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="165601488" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a268a8ef54a830f3951c489/17352577e47602249fee6eae1458d2a90a88adcfc0ce9e2f6ac97da19c1cec34"/>
         </item>
     </channel>
 </rss>

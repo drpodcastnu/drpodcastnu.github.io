@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 26 Oct 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610442</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/tirsdag-27-oktober-2026-11802610442</link>
+            <title>Tirsdag 27. oktober 2026</title>
+            <description>Få et originalt perspektiv på de begivenheder, der former verden og opdag de oversete historier, der kommer til at ændre verden.</description>
+            <pubDate>Tue, 27 Oct 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:48:50</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="156744891" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f015b2e60e1edf82e7538/d9622cfdfbb1294083e3bcb6e525450ad03ba21b88b67da61fff66279f53bb6d"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610441</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-26-oktober-2026-11802610441</link>
@@ -1639,19 +1651,6 @@ Dagens værter: August Stenbroen og Anne Kirstine Hermann.</description>
             <itunes:duration>01:50:01</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158444773" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69c51fccf20b90c807dbf638/d8a98f60d2c4d6b73bcafeef06cff16c1549895b876e3130ad58154157d6bdf8"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610185</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-1-maj-2026-11802610185</link>
-            <title>Fredag 1. maj 2026</title>
-            <description>Hvad betyder det for regeringsforhandlinger, at Mette F begraver formueskatten? Er Alex Vanopslagh historieløs, fordi han har delt nazi-foto? Kan venstrefløjen bøje sig mod Moderaterne?  
-Dagens værter: Anne Kirstine Hermann og August Stenbroen.</description>
-            <pubDate>Fri, 01 May 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:02</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158467243" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69c51fcb8b5763ce9df06714/bdd6a7e35576e1876fe3de257b1770817c01216e6fcf681a7fc19b72c5161471"/>
         </item>
     </channel>
 </rss>
