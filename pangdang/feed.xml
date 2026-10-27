@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 16 Oct 2026 14:03:00 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 22:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,17 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332642601</guid>
+            <link>https://www.dr.dk/lyd/p3/pangdang/pangdang/soendag-25-oktober-2026-13332642601</link>
+            <title>Søndag 25. oktober 2026</title>
+            <description>De tre venner Freja Lützhøft, Kathrine Pontoppidan og Sebastian Gravesen udgør tilsammen PangDang. Et sandt overflødighedshorn af comedy, aktualitet og et nogenlunde løst radiokoncept. Om du er til quiz, radiospil eller fake news, så er PangDang din pendant til alle de andre auditive underholdningstilbud.</description>
+            <pubDate>Sun, 25 Oct 2026 22:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:59:15</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="171722147" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ad7512ad1248e677813411f/2dc9c455b397a2265d73508950846576e9b479c85c97116412788da3ead42240"/>
+        </item>
     </channel>
 </rss>
