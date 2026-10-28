@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 27 Oct 2026 18:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 18:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332621443</guid>
+            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/onsdag-28-oktober-2026-13332621443</link>
+            <title>Onsdag 28. oktober 2026</title>
+            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
+Nynne FM - én frekvens, den vigtigste musik!</description>
+            <pubDate>Wed, 28 Oct 2026 18:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481589" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c298f3c744b7aa3d424ab/15ba16f92e444280af65aa947a5cf9c9b8e63d5044dba337ad45d6481984671f"/>
+        </item>
         <item>
             <guid isPermalink="false">13332621442</guid>
             <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/bloed-road-rage-13332621442</link>
@@ -205,19 +218,6 @@ Nynne FM - én frekvens, den vigtigste musik!</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481589" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c298b3c744b7aa3d4245b/fcaf28ff4f71cb81620eae9da2bb3491bce2b8b4f4e5826332d8904691aa4a75"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332621402</guid>
-            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/med-remi-wolf-jada-og-yung-lean-13332621402</link>
-            <title>med Remi Wolf, Jada og Yung Lean</title>
-            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
-Nynne FM - én frekvens, den vigtigste musik!</description>
-            <pubDate>Tue, 29 Sep 2026 18:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482165" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29827b148e5451e2a4c1/67fe77a7ce667c1119329f83ad99ced64971bd4abfff01e40930ddefa27a39b9"/>
         </item>
     </channel>
 </rss>
