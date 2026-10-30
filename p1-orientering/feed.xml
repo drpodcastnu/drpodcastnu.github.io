@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 29 Oct 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610445</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-30-oktober-2026-11802610445</link>
+            <title>Fredag 30. oktober 2026</title>
+            <description>Hvordan foregår evakueringen af Oleshky? Hvorfor vil SF-borgmester have tørklæde- og fasteforbud i folkeskolen? Og hvad er der galt med Troels Lund Poulsens image?
+Dagens værter: Anne Kirstine Hermann og Søren Carlsen.</description>
+            <pubDate>Fri, 30 Oct 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158521363" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f011f2e60e1edf82e71e9/e03449e64ef20dbdb125e7181b4b60f0b4a1e1d498f82041f95c595d8defdf65"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610444</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/torsdag-29-oktober-2026-11802610444</link>
@@ -1665,19 +1678,6 @@ Dagens værter: August Stenbroen og Anne Kirstine Hermann.</description>
             <itunes:duration>01:50:03</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158482813" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69c51fce8b5763ce9df0686a/4492d03cca31457cffef3b2a05cdabc7bc5246cf74924972f21a8addcff8e54e"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610191</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-4-maj-2026-11802610191</link>
-            <title>Mandag 4. maj 2026</title>
-            <description>Hvilke vælgergrupper har Borgernes Parti tiltrukket? Er det ligestilling at ekskludere mænd fra at lave Kvindernes Internationale Kampdag-statue? Hvorfor stormer unge Scientology?
-Dagens værter: August Stenbroen og Anne Kirstine Hermann.</description>
-            <pubDate>Mon, 04 May 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:01</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158444773" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69c51fccf20b90c807dbf638/d8a98f60d2c4d6b73bcafeef06cff16c1549895b876e3130ad58154157d6bdf8"/>
         </item>
     </channel>
 </rss>

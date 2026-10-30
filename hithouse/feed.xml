@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 29 Oct 2026 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452623445</guid>
+            <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2026/fredag-30-oktober-2026-15452623445</link>
+            <title>Fredag 30. oktober 2026</title>
+            <description>Musik og historier fra 
+pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+            <pubDate>Fri, 30 Oct 2026 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:04</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="79313140" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c3d093c744b7aa3d4edae/6cc08fda6fe507c659e95638a016e744f473dc1cea98ac222674f48fbd64e920"/>
+        </item>
         <item>
             <guid isPermalink="false">15452623444</guid>
             <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2026/torsdag-29-oktober-2026-15452623444</link>
@@ -66,20 +80,6 @@ Vært: Jørgen de Mylius.</description>
             <itunes:duration>00:55:04</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="79313140" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c3d46e23fe4aa4f984151/d06244bd112d8207dede5befdc3ca8c5567cf904cb3ee94d4b02870ef8b38108"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452623441</guid>
-            <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2026/mandag-26-oktober-2026-15452623441</link>
-            <title>Mandag 26. oktober 2026</title>
-            <description>Musik og historier fra 
-pigtrådsæraen.
-Vært: Jørgen de Mylius.</description>
-            <pubDate>Mon, 26 Oct 2026 18:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>00:55:04</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="79313140" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c3d097b148e5451e37645/9cadadf187339d3f40fe78b8af8fdaa4c9350e93cb81b26eb181795e2809f62a"/>
         </item>
     </channel>
 </rss>
