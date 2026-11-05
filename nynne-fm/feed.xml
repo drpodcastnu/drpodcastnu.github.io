@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 04 Nov 2026 18:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 18:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332621454</guid>
+            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/med-lasse-knudsen-13332621454</link>
+            <title>med Lasse Knudsen</title>
+            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
+Nynne FM - én frekvens, den vigtigste musik!</description>
+            <pubDate>Thu, 05 Nov 2026 18:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481607" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29933c744b7aa3d42514/fc3e1a59ef3b00a079e1dd1377d15bae9ae738548e1a969a89b9f6c714cc3532"/>
+        </item>
         <item>
             <guid isPermalink="false">13332621453</guid>
             <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/til-den-kraesne-forbruger-13332621453</link>
@@ -205,19 +218,6 @@ Nynne FM - én frekvens, den vigtigste musik!</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482186" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29907b148e5451e2a60f/c9eaa7042620dc11baf7ead0c2a9564268772c299d7227fe688ee5ff68aaea77"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332621413</guid>
-            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/shygirl-er-kommet-op-ad-kaelderen-13332621413</link>
-            <title>Shygirl er kommet op ad kælderen</title>
-            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
-Nynne FM - én frekvens, den vigtigste musik!</description>
-            <pubDate>Wed, 07 Oct 2026 18:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481611" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29847b148e5451e2a4e4/671490853ddb2a3cb99d3583aa1ffe189b7b3b8b93fdf6403d21bcf6d779d5db"/>
         </item>
     </channel>
 </rss>
