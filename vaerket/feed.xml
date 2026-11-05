@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 04 Nov 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661454</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/stravinskijs-ildfuglen-12422661454</link>
+            <title>Stravinskijs Ildfuglen</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Igor Stravinskij: Ildfuglen. Liverpool Filharmonikerne. Dirigent: Vasilij Petrenko.  
+Vært: Helle Kristensen.</description>
+            <pubDate>Thu, 05 Nov 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081515" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c13963c744b7aa3d32b2e/fab7d9fb35a22b6544f596f2cd3d1eba3271a4025b599f6b5e26d64a42f8682a"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661453</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/tjajkovskijs-aarstiderne-12422661453</link>
