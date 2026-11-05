@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 04 Nov 2026 08:30:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 08:30:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422630454</guid>
+            <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/barokmusik-12422630454</link>
+            <title>Barokmusik</title>
+            <description>I dag står programmet på barokmusik. Hvad skal vi høre og hvorfor?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk. 
+Vært: Jakob Wivel.</description>
+            <pubDate>Thu, 05 Nov 2026 08:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:22:05</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="204607637" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c0ecb7b148e5451e15ece/ebe77fef16a1a5e279c9003c94e575e3fb6fd8cca130631504dcd2776e725c28"/>
+        </item>
         <item>
             <guid isPermalink="false">12422630453</guid>
             <link>https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/novembermusik-12422630453</link>
