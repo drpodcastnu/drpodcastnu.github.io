@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 05 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452639455</guid>
+            <link>https://www.dr.dk/lyd/p5/p5-med-christina-bjoern/p5-med-christina-bjoern/fredag-6-november-2026-15452639455</link>
+            <title>Fredag 6. november 2026</title>
+            <description>Vært: Christina Bjørn.</description>
+            <pubDate>Fri, 06 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:44:01</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="149793627" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ae1ecfc7335f9ff634915d5/b3ec60327d9012f0c2438f8f2423d28b93e8c12bd9d051e1d5c527ed333b1e9f"/>
+        </item>
         <item>
             <guid isPermalink="false">15452639454</guid>
             <link>https://www.dr.dk/lyd/p5/p5-med-christina-bjoern/p5-med-christina-bjoern/torsdag-5-november-2026-15452639454</link>
@@ -58,18 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:44:01</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="149793051" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ae1ecfa6c396c5ca0267887/b6364961cbf258222aeed2643b8c8737b89ceb03e5c88b13fcd4165f8d2d758c"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452639451</guid>
-            <link>https://www.dr.dk/lyd/p5/p5-med-christina-bjoern/p5-med-christina-bjoern/mandag-2-november-2026-15452639451</link>
-            <title>Mandag 2. november 2026</title>
-            <description>Vært: Christina Bjørn.</description>
-            <pubDate>Mon, 02 Nov 2026 16:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:44:01</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="149797083" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ae1ecf9126501daec547a47/e86fb013a1eeb4cea8237ebc4f79e124706ee98acde9d4276e6ac34a7fd5adc4"/>
         </item>
     </channel>
 </rss>
