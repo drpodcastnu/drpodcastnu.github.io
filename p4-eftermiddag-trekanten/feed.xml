@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 06 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 15:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">14042630461</guid>
+            <link>https://www.dr.dk/lyd/p4trekanten/p4-eftermiddag-trekanten/p4-eftermiddag-trekanten/mandag-9-november-2026-14042630461</link>
+            <title>Mandag 9. november 2026</title>
+            <description>P4 Eftermiddag Trekanten er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Mon, 09 Nov 2026 15:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:56:59</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254880326" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a02dc07a8168ae8ecd505cb/4cca68c646f26480e473370f61f2e02280952c8d0170fb47244f5c25f99fe210"/>
+        </item>
+        <item>
             <guid isPermalink="false">14042630455</guid>
             <link>https://www.dr.dk/lyd/p4trekanten/p4-eftermiddag-trekanten/p4-eftermiddag-trekanten/fredag-6-november-2026-14042630455</link>
             <title>Fredag 6. november 2026</title>
@@ -34,18 +46,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="165602054" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a02dbfc28597b90ee793691/d93111ebf2cd624470bdf5883e25e68ddfe17b22ea6ae9f99d7bec731cc17fd9"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14042630454</guid>
-            <link>https://www.dr.dk/lyd/p4trekanten/p4-eftermiddag-trekanten/p4-eftermiddag-trekanten/torsdag-5-november-2026-14042630454</link>
-            <title>Torsdag 5. november 2026</title>
-            <description>P4 Eftermiddag Trekanten er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Thu, 05 Nov 2026 15:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254881478" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a02dbfca8168ae8ecd504f0/b22dcdee89dae371bd3e43399a258c86a51654f37f19a5787df5f77bdd9aef46"/>
         </item>
     </channel>
 </rss>
