@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 09 Nov 2026 11:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 11:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,21 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">12422661462</guid>
+            <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/mendelssohns-1-symfoni-12422661462</link>
+            <title>Mendelssohns 1. Symfoni</title>
+            <description>Nyd et længere stykke klassisk musik i sin helhed.
+Felix Mendelssohn: Symfoni nr. 1. 
+Stuttgarts Radiosymfoniorkester. Dirigent: Roger Norrington. 
+Vært: Jens Cornelius.</description>
+            <pubDate>Tue, 10 Nov 2026 11:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="82081523" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c13977b148e5451e1aa1b/fcf9193ad414167778ea9cb6223990a52d8d13906cf0a1fe2cb233517f0f853a"/>
+        </item>
         <item>
             <guid isPermalink="false">12422661461</guid>
             <link>https://www.dr.dk/lyd/p2/vaerket/vaerket-2026/carmen-suite-12422661461</link>
