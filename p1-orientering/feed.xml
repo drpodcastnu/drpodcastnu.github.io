@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 09 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610462</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/tirsdag-10-november-2026-11802610462</link>
+            <title>Tirsdag 10. november 2026</title>
+            <description>Hvad kan Zelenskyj bruge samtalen med Mette Frederiksen til? Er det godt, at lærere får mulighed for at anvende mere magt over for eleverne? Hvad skete der på første dag i Sanjay Shahs ankesag?
+Dagens værter: Julie Toft og Ole Brink.</description>
+            <pubDate>Tue, 10 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158476451" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f01212e60e1edf82e721f/9832283275a308e15cc7179bd5956ddc0e63317fdacfd9137764e828e5c31ba6"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610461</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-9-november-2026-11802610461</link>
@@ -1651,19 +1664,6 @@ Dagens værter: Julie Hornbek Toft og Niels Frederik Dybdal Rickers.</descriptio
             <itunes:duration>01:50:02</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158453434" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d3cd2d557f5615c5be5b7a/293bb1e511fd48433ff23e1cb3f49b6e3c37d58830c611795a95ac480980313d"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610205</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-15-maj-2026-11802610205</link>
-            <title>Fredag 15. maj 2026</title>
-            <description>Hvilken effekt har den nye samtykkelov haft? Hvem er Starmers største udfordrer til formandskabet i Labour? Og hvad fortæller den døde hval på Anholt om vores natursyn?
-Dagens værter: Søren Carlsen og Bjarne Steensbeck.</description>
-            <pubDate>Fri, 15 May 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:04</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158503511" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d3cd2cdd0827d72dcd26fd/9aaf754a94caec2a7834fc04effa6b17e1419a434eb38726e2c26319855483f8"/>
         </item>
     </channel>
 </rss>
