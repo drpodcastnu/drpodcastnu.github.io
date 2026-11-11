@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 10 Nov 2026 16:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 16:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332626463</guid>
+            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/onsdag-11-november-2026-13332626463</link>
+            <title>Onsdag 11. november 2026</title>
+            <description>Verden er gået Balalajka! Lyt med, når Jens Malthe og Mathilde gør deres allerbedste for at forstå og forklare de vilde ting, der foregår - og sørger for den gode stemning imens.
+Værter: Mathilde Muus og Jens Malthe Næsby.</description>
+            <pubDate>Wed, 11 Nov 2026 16:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a846ee80c48a49933521b63/466fb7c2ac1e87effd70b50d11f82cd0d31f6bf2e2549e805486bf153d848aaf"/>
+        </item>
         <item>
             <guid isPermalink="false">13332626462</guid>
             <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/surprise-zelenskyj-er-i-danmark-13332626462</link>
@@ -1304,20 +1317,6 @@ Medvirkende: Jens Ringberg, politisk ekspert på DR.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e84f22de874ecc5acd/ddf8238fea67c45f1ecd9dabff1a9af2cd313334edae758763c5cb7d40fceb97"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332626201</guid>
-            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/aarhusiansk-guldfest-og-oemme-staenger-13332626201</link>
-            <title>Aarhusiansk guldfest og ømme stænger</title>
-            <description>Det har været svært at undgå den vilde sejrsstemning, som AGF har sørget for i Aarhus. I går sikrede de sig nemlig sejren i Superligaen, og derfor har der været kæmpe folkefest i Aarhus og omegn. Mathilde og Jens Malthe har besluttet sig for at udnytte situationen til deres fordel, for kanalens musikchef er stor fan af AGF, så måske han kan overtales til at give lidt valgfrihed i playlisten i dagens anledning. Det var ikke det eneste, der skete i går. Jens Malthe har været med til Copenhagen Marathon, så vi skal selvfølgelig høre, hvordan det gik. Derudover fortsætter vi også jagten på alle danskere med navnet Rasmus Søndergaard.
-Værter: Mathilde Muus &amp; Jens Malthe Næsby.
-Medvirkende: Mathias Buch, musikchef på P3.</description>
-            <pubDate>Mon, 11 May 2026 16:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e7f813fbba906c19e8/aa360947de43ba908b731c679ab81656d129eff4a62027441f9c6f6ee9e72c6a"/>
         </item>
     </channel>
 </rss>
