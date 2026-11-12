@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 11 Nov 2026 16:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 16:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332626464</guid>
+            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/torsdag-12-november-2026-13332626464</link>
+            <title>Torsdag 12. november 2026</title>
+            <description>Verden er gået Balalajka! Lyt med, når Mads og Jens Malthe gør deres allerbedste for at forstå og forklare de vilde ting, der foregår - og sørger for den gode stemning imens.
+Værter: Mads Læbel og Jens Malthe Næsby.</description>
+            <pubDate>Thu, 12 Nov 2026 16:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482127" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a846ee82e60e1edf85fbb0a/3d2ea3ab17a3a110fa8c20e2009b6ff8ecba62f206e0708c1bcdc794d38e59d8"/>
+        </item>
         <item>
             <guid isPermalink="false">13332626463</guid>
             <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/kan-du-spotte-en-honeypot-13332626463</link>
@@ -1306,20 +1319,6 @@ Medvirkende: Mads Korsager, forsvarskorrespondent.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168481557" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e8ab1506d5ae6efca0/b98f5c38f3b866be9fa28d95f65583dc07c11c9bc29aa621a5fa88e33cacdfd4"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332626202</guid>
-            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/er-regeringsforhandlinger-bare-noget-vi-leger-13332626202</link>
-            <title>Er regeringsforhandlinger bare noget, vi leger?</title>
-            <description>Regeringsforhandlingerne fortsætter i dag med Venstres formand, Troels Lund Poulsen, for bordenden. Jens Malthe synes, at det virker til at blive trukket i langdrag med vilje, så han har allieret sig med en politisk ekspert for at blive klogere på, om det egentlig bare er noget, de leger. I Aalborg er det nye supersygehus (endelig) åbnet, men folk er allerede sure på projektet, så hun vil gerne komme med en positiv peptalk. Derudover skal vi også tale lidt om ugens store musikalske begivenhed, Eurovision Song Contest, som bliver skudt i gang i aften.
-Værter: Mathilde Muus &amp; Jens Malthe Næsby.
-Medvirkende: Jens Ringberg, politisk ekspert på DR.</description>
-            <pubDate>Tue, 12 May 2026 16:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e84f22de874ecc5acd/ddf8238fea67c45f1ecd9dabff1a9af2cd313334edae758763c5cb7d40fceb97"/>
         </item>
     </channel>
 </rss>
