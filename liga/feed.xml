@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 11 Nov 2026 18:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 18:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13652602465</guid>
+            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/fredag-13-november-2026-13652602465</link>
+            <title>Fredag 13. november 2026</title>
+            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+            <pubDate>Fri, 13 Nov 2026 18:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>03:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="338402106" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6af4609b882de84ac52b7701/9d7c9c438d3955e3c9db2498a169d1751139e4cb8c3937ed9c7a5a7072e67d5a"/>
+        </item>
         <item>
             <guid isPermalink="false">13652602463</guid>
             <link>https://www.dr.dk/lyd/p4/liga/liga-2026/onsdag-11-november-2026-13652602463</link>
@@ -274,18 +286,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>03:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="338401530" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a97d05e7472ce6533506b07/b841355f11d30d90405836c9631343f56eea99c9e78650746d12a1ca78678f8c"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13652602424</guid>
-            <link>https://www.dr.dk/lyd/p4/liga/liga-2026/torsdag-15-oktober-2026-13652602424</link>
-            <title>Torsdag 15. oktober 2026</title>
-            <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-            <pubDate>Thu, 15 Oct 2026 18:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>04:55:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="424801530" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a97d05e6e5b4c997b47b693/224c654cc73dc5d58fb4f1111b550320093656cccffdce3dc4842bea1d4c0f4e"/>
         </item>
     </channel>
 </rss>

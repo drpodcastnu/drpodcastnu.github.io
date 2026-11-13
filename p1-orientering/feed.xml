@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 12 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610465</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-13-november-2026-11802610465</link>
+            <title>Fredag 13. november 2026</title>
+            <description>Skal vi forberede os på at IT-nedbrud som det i Microsofts i dag, bliver hverdag? Hvorfor sidder Hassan El Sayed varetægtsfængslet i Egypten? Og hvordan kom Russia Todays interview Jacob Harris i stand?
+Dagens værter: Søren Carlsen og Tjaerandsen.</description>
+            <pubDate>Fri, 13 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:03</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158476464" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f01222e60e1edf82e7241/5315ebbc300cde4f5c2f8ae8c090c9d6d59bfef06842c11ad3d6dfe7cec6bbbe"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610464</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/torsdag-12-november-2026-11802610464</link>
@@ -1675,19 +1688,6 @@ Dagens værter: Julie Hornbek Toft og Niels Frederik Dybdal Rickers.</descriptio
             <itunes:duration>01:50:03</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158474165" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d3cd2edd0827d72dcd2724/1b84b9e54dcfe569ccac73711477e295081845330277eba0a3aa2e60a6facfa2"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610211</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-18-maj-2026-11802610211</link>
-            <title>Mandag 18. maj 2026</title>
-            <description>Har Trump ændret strategi for at øge USA's indflydelse i Grønland? Er momentum i krigen ved at skifte til Ukraines fordel? Og skal staten beslutte, hvem der skal være forældre? Og på hvilket grundlag skal man gøre det?
-Dagens værter: Julie Hornbek Toft og Niels Frederik Dybdal Rickers.</description>
-            <pubDate>Mon, 18 May 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:02</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158453434" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d3cd2d557f5615c5be5b7a/293bb1e511fd48433ff23e1cb3f49b6e3c37d58830c611795a95ac480980313d"/>
         </item>
     </channel>
 </rss>

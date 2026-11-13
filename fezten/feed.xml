@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 06 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122664465</guid>
+            <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2026/vi-uhygger-16122664465</link>
+            <title>Vi uhygger</title>
+            <description>Tjek datoen. Det er fredag den 13., så Fezten er lidt mere uhyggelig end ellers.</description>
+            <pubDate>Fri, 13 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601422" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693195bc4f22de874e145e3e/e6e1ab233a5a1b20b38ce889cc3aaf116ea5df296989e86e67a170ca0ea445f5"/>
+        </item>
         <item>
             <guid isPermalink="false">16122664455</guid>
             <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2026/fredagsmixet-16122664455</link>

@@ -10,7 +10,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 12 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -25,6 +25,20 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">15452626465</guid>
+            <link>https://www.dr.dk/lyd/p5/dagen-er-din/dagen-er-din-2026/fredag-13-november-2026-15452626465</link>
+            <title>Fredag 13. november 2026</title>
+            <description>"Dagen er din" er eftermiddagens gearskifte på P5. Vi kigger på dagen, der er gået og på nogle af de historier, der har præget dagens mediebillede - og så tager vi sammen en status på din dags højdepunkter. Vi ser sammen med de andre P5 lyttere ind i den aften, der venter os. En aften, hvor tiden er din egen, men hvor der også er nogle valg, der skal tages: 
+Hvad skal jeg høre? Hvad skal jeg se? Hvad skal jeg spise? Her får P5 lytterne mulighed for at hjælpe hinanden. Alt sammen tilsat den gode P5-musik, du kender. 
+Vært: Gitte Førby.</description>
+            <pubDate>Fri, 13 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:43:55</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="149651003" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c3bd03c744b7aa3d4db80/4934ad8bf919097ce4e9e8a990d9a0992565ef1abbbb99b83e8e418fc3b9b8ce"/>
+        </item>
         <item>
             <guid isPermalink="false">15452626464</guid>
             <link>https://www.dr.dk/lyd/p5/dagen-er-din/dagen-er-din-2026/torsdag-12-november-2026-15452626464</link>
@@ -66,20 +80,6 @@ Vært: Gitte Førby.</description>
             <itunes:duration>01:43:58</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="149725307" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c3bd07b148e5451e36280/07474f1c7d49f07592f743d7fc12296e570555f336b138eacd2d2b553f99551d"/>
-        </item>
-        <item>
-            <guid isPermalink="false">15452626461</guid>
-            <link>https://www.dr.dk/lyd/p5/dagen-er-din/dagen-er-din-2026/mandag-9-november-2026-15452626461</link>
-            <title>Mandag 9. november 2026</title>
-            <description>"Dagen er din" er eftermiddagens gearskifte på P5. Vi kigger på dagen, der er gået og på nogle af de historier, der har præget dagens mediebillede - og så tager vi sammen en status på din dags højdepunkter. Vi ser sammen med de andre P5 lyttere ind i den aften, der venter os. En aften, hvor tiden er din egen, men hvor der også er nogle valg, der skal tages: 
-Hvad skal jeg høre? Hvad skal jeg se? Hvad skal jeg spise? Her får P5 lytterne mulighed for at hjælpe hinanden. Alt sammen tilsat den gode P5-musik, du kender. 
-Vært: Gitte Førby.</description>
-            <pubDate>Mon, 09 Nov 2026 16:05:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:43:58</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="149735675" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c3bd23c744b7aa3d4dba9/259306b509ee96d491978353a844bdac68994fafc2e941436fd672a7888f5278"/>
         </item>
     </channel>
 </rss>
