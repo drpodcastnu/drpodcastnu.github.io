@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 14 Nov 2026 06:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 07:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14302640467</guid>
+            <link>https://www.dr.dk/lyd/p4aarhus/p4-weekend-oestjylland/p4-weekend-oestjylland-2026/soendag-15-november-2026-14302640467</link>
+            <title>Søndag 15. november 2026</title>
+            <description>I P4 Weekend Østjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+            <pubDate>Sun, 15 Nov 2026 07:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254882093" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c4537ab1bc3f7580e18e0/e9cde80cbbcfc696961284967896c7b3e879f78a71618e12b49625da867c8c88"/>
+        </item>
         <item>
             <guid isPermalink="false">14302640466</guid>
             <link>https://www.dr.dk/lyd/p4aarhus/p4-weekend-oestjylland/p4-weekend-oestjylland-2026/loerdag-14-november-2026-14302640466</link>
@@ -334,18 +346,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254881517" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c4531ab1bc3f7580e184f/2546cd34e6c1304962cfbd8ab15ac3876aba6729d62f23f707e8f7d5bdb17eaf"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14302640336</guid>
-            <link>https://www.dr.dk/lyd/p4aarhus/p4-weekend-oestjylland/p4-weekend-oestjylland-2026/loerdag-15-august-2026-14302640336</link>
-            <title>Lørdag 15. august 2026</title>
-            <description>I P4 Weekend Østjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
-            <pubDate>Sat, 15 Aug 2026 06:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254881517" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c45300a2eb95301d5b6eb/28e8eb157c8a04f668cdeeb950e346e5951370a997cc7d10e17ad03ae6ad069c"/>
         </item>
     </channel>
 </rss>
