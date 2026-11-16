@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 13 Nov 2026 12:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 12:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,5 +23,17 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">16122633471</guid>
+            <link>https://www.dr.dk/lyd/p3/popdatering/popdatering-2026/hvad-har-brad-pitt-gjort-16122633471</link>
+            <title>Hvad har Brad Pitt gjort?</title>
+            <description>Bonjour, i dag skal du med os til Frankrig, simpelthen fordi der er så meget god fransk musik. Vi skal også lige cruise lidt, eller vi skal cruise i et spil. Da Ena spillede GTA, var det for at cruise og høre radioen i spillet, men hvilken sang fra GTA er din yndlings? Der er en sang, flere af jer melder ind med, så den skal vi sgu høre, så alle, der cruiser, har det perfekte soundtrack. Ena har også undret sig, hvad Brad Pitt har gjort imod Shania Twain?</description>
+            <pubDate>Mon, 16 Nov 2026 12:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482183" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694524efdf247982758a7b13/0ffe783365fca23e4acc48e50abd6a5b5f15a4190be43d472a56dba4c0ca60ba"/>
+        </item>
     </channel>
 </rss>
