@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Fri, 13 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 15:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,18 @@ Genudgivet RSS-feed.</description>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
         <item>
+            <guid isPermalink="false">14502630471</guid>
+            <link>https://www.dr.dk/lyd/p4syd/p4-eftermiddag-syd-og-esbjerg/p4-eftermiddag-syd-og-esbjerg/mandag-16-november-2026-14502630471</link>
+            <title>Mandag 16. november 2026</title>
+            <description>P4 Eftermiddag Syd og Esbjerg er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Mon, 16 Nov 2026 15:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>02:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="254881483" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a042abf28597b90ee85419b/c538482847fb0f832bf7c176fdef9eb4509a2134558a66721b0dbc6fe57386cd"/>
+        </item>
+        <item>
             <guid isPermalink="false">14502630465</guid>
             <link>https://www.dr.dk/lyd/p4syd/p4-eftermiddag-syd-og-esbjerg/p4-eftermiddag-syd-og-esbjerg/fredag-13-november-2026-14502630465</link>
             <title>Fredag 13. november 2026</title>
@@ -34,18 +46,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>01:55:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="165602059" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a042a82a8168ae8ece0e911/f2f35e7aba67a0c940961213eeda97119cc49bf0d6836e36564f6662aa639ad7"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14502630464</guid>
-            <link>https://www.dr.dk/lyd/p4syd/p4-eftermiddag-syd-og-esbjerg/p4-eftermiddag-syd-og-esbjerg/torsdag-12-november-2026-14502630464</link>
-            <title>Torsdag 12. november 2026</title>
-            <description>P4 Eftermiddag Syd og Esbjerg er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Thu, 12 Nov 2026 15:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254882059" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a042a8628597b90ee853e57/306c1858fedcf0ecd8211ab1fd3e7238ae30ec43cc5fcd129c958c8e63384644"/>
         </item>
     </channel>
 </rss>
