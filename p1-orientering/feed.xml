@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 16 Nov 2026 16:05:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">11802610472</guid>
+            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/tirsdag-17-november-2026-11802610472</link>
+            <title>Tirsdag 17. november 2026</title>
+            <description>Hvad er det helt konkret, som de 26 grønlændere sagsøger den danske stat for? Kommer planen om udrejsecenteret i Rwanda til at have en afskrækkende effekt på flygtninge- og migrantstrømningerne til Danmark? Hvad betyder angrebet på krimbroen for Putin?
+Dagens værter: Pernille Rudbæk og Søren Carlsen.</description>
+            <pubDate>Tue, 17 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:50:02</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="158469562" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a7f015e2e60e1edf82e7566/18070e4b2483762e14f5fb565fe76eb67daea31375eb8e7e81d2302620d18cc2"/>
+        </item>
         <item>
             <guid isPermalink="false">11802610471</guid>
             <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/mandag-16-november-2026-11802610471</link>
@@ -1649,19 +1662,6 @@ Dagens værter: Julie Hornbek Toft og Søren Carlsen.</description>
             <itunes:duration>01:50:02</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="158462575" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d3cd31557f5615c5be5bc5/0c6067a21e02316ec57c6f24fec9e608a2723aaec37ff80ffab16534a16d21a9"/>
-        </item>
-        <item>
-            <guid isPermalink="false">11802610215</guid>
-            <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2026/fredag-22-maj-2026-11802610215</link>
-            <title>Fredag 22. maj 2026</title>
-            <description>Hvorfor er det kritisabelt, at lokalpolitiker bliver brugt i DF-politikers AI-kampagne? Hvad siger Lars Løkke efter mødet med Troels Lund Poulsen? Hvad er ophævelsen af eksportforbuddet på norsk laks et tegn på?
-Dagens værter: Ole Brink og Jan Falkentoft.</description>
-            <pubDate>Fri, 22 May 2026 16:05:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:50:03</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="158488443" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69d3cd30557f5615c5be5ba8/19526fa0448630d2cfe042b43c8c1f1ea4ca3116fb447be44c2c397d27529d4a"/>
         </item>
     </channel>
 </rss>
