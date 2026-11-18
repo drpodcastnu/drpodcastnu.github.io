@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Tue, 17 Nov 2026 16:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 16:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332626473</guid>
+            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/onsdag-18-november-2026-13332626473</link>
+            <title>Onsdag 18. november 2026</title>
+            <description>Verden er gået Balalajka! Lyt med, når Jens Malthe og Mathilde gør deres allerbedste for at forstå og forklare de vilde ting, der foregår - og sørger for den gode stemning imens.
+Værter: Mathilde Muus og Jens Malthe Næsby.</description>
+            <pubDate>Wed, 18 Nov 2026 16:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a846f250c48a49933521e61/9c90399f6e92e5e9e90c87a5c38a512e2e72fce03b6232d18aa315e9f1352c46"/>
+        </item>
         <item>
             <guid isPermalink="false">13332626472</guid>
             <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/hvad-skal-soevaernet-oenske-sig-til-jul-13332626472</link>
@@ -1324,20 +1337,6 @@ Værter: Mathilde Muus og Jens Malthe Næsby.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e34f22de874ecc5a2a/a48d68e962325a0990c18fb962759a3e9ba358332b7c33e3a51e3308f2928ab4"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332626211</guid>
-            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/en-saar-regering-eller-en-slam-regering-13332626211</link>
-            <title>En SÅR-regering? Eller en SLAM-regering?</title>
-            <description>54 dage and counting. Så lang tid har regeringsforhandlingerne varet, og de varer nok ved lidt endnu. Kongelig undersøger Troels Lund Poulsen er ikke ligefrem kommet en regering nærmere, så nu tager Jens Malthe sagen i egen hånd. For han leger nemlig regeringsnumerolog og finder på de bedste navne til en regering, baseret på partiernes bogstaver, og så må de selv finde ud af resten. For hvem ville sige nej til en LAKS-regering?
-Vi er også nødt til at tage et smut til Aarhus. For de har festet løs i otte dage, og det virker ikke ligefrem som om, at de er færdige med festen. Så vi får en lille status på, hvor festglade aarhusianerne er, otte dage inde i festen.
-Værter: Mathilde Muus og Jens Malthe Næsby.</description>
-            <pubDate>Mon, 18 May 2026 16:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e9ab1506d5ae6efccb/80054d7e50e0ae1d22655e63f3a4e3ebac8e7589f105bdeb31518ed9efa919a2"/>
         </item>
     </channel>
 </rss>
