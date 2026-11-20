@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 19 Nov 2026 15:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14102630475</guid>
+            <link>https://www.dr.dk/lyd/p4nord/p4-eftermiddag-nordjylland/p4-eftermiddag-nordjylland/fredag-20-november-2026-14102630475</link>
+            <title>Fredag 20. november 2026</title>
+            <description>P4 Eftermiddag Nordjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Fri, 20 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602056" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a26b6cfe13834bf133a49ad/f0d4134e138bdb6b273a6aedde7e693048e0ebaea1784955b95f09108bd8e683"/>
+        </item>
         <item>
             <guid isPermalink="false">14102630474</guid>
             <link>https://www.dr.dk/lyd/p4nord/p4-eftermiddag-nordjylland/p4-eftermiddag-nordjylland/torsdag-19-november-2026-14102630474</link>
@@ -58,18 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254882056" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a26b654e13834bf133a43d9/f9bc9594369ba99b4f3862099cfd2c6b953c36ec844cd7396163ef91ba5dff9c"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14102630471</guid>
-            <link>https://www.dr.dk/lyd/p4nord/p4-eftermiddag-nordjylland/p4-eftermiddag-nordjylland/mandag-16-november-2026-14102630471</link>
-            <title>Mandag 16. november 2026</title>
-            <description>P4 Eftermiddag Nordjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Mon, 16 Nov 2026 15:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254882056" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a26b6535b74798dfa64ff4b/ab6fa05d574497098fd75f089b2ff01fbbc21c958d1a1904a85390441382ff8d"/>
         </item>
     </channel>
 </rss>

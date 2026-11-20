@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 19 Nov 2026 15:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14602630475</guid>
+            <link>https://www.dr.dk/lyd/p4fyn/p4-eftermiddag-fyn/p4-eftermiddag-fyn-2026/fredag-20-november-2026-14602630475</link>
+            <title>Fredag 20. november 2026</title>
+            <description>P4 Eftermiddag Fyn er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Fri, 20 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165602048" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c43293c744b7aa3d53ad5/f115ce03a883744dbcaffab6a5f4e8fa513d9733306aff25e140a55966b65562"/>
+        </item>
         <item>
             <guid isPermalink="false">14602630474</guid>
             <link>https://www.dr.dk/lyd/p4fyn/p4-eftermiddag-fyn/p4-eftermiddag-fyn-2026/torsdag-19-november-2026-14602630474</link>
@@ -58,18 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254882048" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c43283c744b7aa3d53ac7/fa021d01489ac6dbb30652a9a604584fbe947b1641ba5996163dd3a3a31772ac"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14602630471</guid>
-            <link>https://www.dr.dk/lyd/p4fyn/p4-eftermiddag-fyn/p4-eftermiddag-fyn-2026/mandag-16-november-2026-14602630471</link>
-            <title>Mandag 16. november 2026</title>
-            <description>P4 Eftermiddag Fyn er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Mon, 16 Nov 2026 15:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254882048" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c43283c744b7aa3d53ab8/60fb05a24028e5246c20d10b163f6aaa93cd78b3f10540f88a82b514d37c4cdf"/>
         </item>
     </channel>
 </rss>
