@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Mon, 23 Nov 2026 18:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 18:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332621482</guid>
+            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/langt-lys-og-ingen-modkoerende-13332621482</link>
+            <title>Langt lys og ingen modkørende</title>
+            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
+Nynne FM - én frekvens, den vigtigste musik!</description>
+            <pubDate>Tue, 24 Nov 2026 18:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168481611" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29953c744b7aa3d42543/fdd355a2eeff832c163721108d35bf3da5c188d0d8a80fe5c9e9d2d306beefc2"/>
+        </item>
         <item>
             <guid isPermalink="false">13332621481</guid>
             <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/yuppie-core-og-gta-13332621481</link>
@@ -231,19 +244,6 @@ Nynne FM - én frekvens, den vigtigste musik!</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482182" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29913c744b7aa3d424f0/ba90756a1aa26c2097d9a3bb310df058d1bdb9b027b1b857c635c078f575a667"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332621441</guid>
-            <link>https://www.dr.dk/lyd/p3/nynne-fm/nynne-fm/belgisk-sorgbearbejdelse-13332621441</link>
-            <title>Belgisk sorgbearbejdelse</title>
-            <description>På Nynne FM får musikken sin fulde båndbredde. Vær med, når Nynne Givskov inviterer dig tættere på de sange, vi elsker, dem vi ikke kan slippe, og dem vi ikke helt forstår endnu. Programmet er hjemstedet for Danmarks Sejeste Playliste - og hver uge kan du være med til at bestemme, hvordan den lyder!
-Nynne FM - én frekvens, den vigtigste musik!</description>
-            <pubDate>Mon, 26 Oct 2026 18:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481589" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0c29913c744b7aa3d424e9/20134ccbbcf5423c7b733f54b88fc459f395bfddb0dd1a2d417520c5af271c93"/>
         </item>
     </channel>
 </rss>
