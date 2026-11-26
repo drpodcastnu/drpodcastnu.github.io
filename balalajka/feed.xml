@@ -9,7 +9,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Wed, 25 Nov 2026 16:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 16:03:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -24,6 +24,19 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">13332626484</guid>
+            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/torsdag-26-november-2026-13332626484</link>
+            <title>Torsdag 26. november 2026</title>
+            <description>Verden er gået Balalajka! Lyt med, når Mads og Jens Malthe gør deres allerbedste for at forstå og forklare de vilde ting, der foregår - og sørger for den gode stemning imens.
+Værter: Mads Læbel og Jens Malthe Næsby.</description>
+            <pubDate>Thu, 26 Nov 2026 16:03:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="168482127" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a846f272e60e1edf85fbe1c/a167c22523ccaafa7aa934ec2f5a720026232e55ce22a3ca8e7088c231e85b6e"/>
+        </item>
         <item>
             <guid isPermalink="false">13332626483</guid>
             <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/mathilde-gaar-paa-barsel-13332626483</link>
@@ -1350,20 +1363,6 @@ Værter: Mathilde Muus og Jens Malthe Næsby.</description>
             <itunes:duration>01:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="168482133" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e9ab1506d5ae6efcc2/4a80578f7a317ffb15dc7f59b816e2d97013749f86ec8aea7b634a169f4a98e4"/>
-        </item>
-        <item>
-            <guid isPermalink="false">13332626222</guid>
-            <link>https://www.dr.dk/lyd/p3/balalajka/balalajka/hviledag-i-regeringsforhandlinger-13332626222</link>
-            <title>Hviledag i regeringsforhandlinger?</title>
-            <description>I dag er der ingen officielle forhandlinger om en ny regering. Det er, selv om vi nu er over de 60 dage uden en regering. Men sådan en dag kan man kategorisere det som en hviledag? Vi ringer til politisk analytiker i DR, Jens Ringberg, for at gøre os klogere på, hvad politikerne laver på en dag uden forhandlinger.
-Jens Malthe har været på cykelferie og har i den forbindelse fundet på en sag, som vi smider ind i vores folkeafstemning. Nemlig at hvis man skal cykle over fem kilometer, så SKAL man have cykelhjelm på; alle ture under fem kilometer er det valgfrit med cykelhjelm. Mathilde og alle andre er ikke lige så enige i, at det er en super god ide. Hvordan udtaler du ebola? For det er pludselig en sygdom, som vi skal til at tage alvorligt igen. Men der er stadig tvivl om, hvordan man udtaler det. Jens Malthe har ringet til en række eksperter, der kan gøre Mathilde lidt klogere på udtalen.
-Værter: Mathilde Muus og Jens Malthe Næsby.</description>
-            <pubDate>Tue, 26 May 2026 16:03:00 +0200</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>01:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="168481557" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692977e94f22de874ecc5adc/67bc992067544e0acbba9f3b26a2f85e3233b92ae8f37ae1d46394964c7920fc"/>
         </item>
     </channel>
 </rss>
