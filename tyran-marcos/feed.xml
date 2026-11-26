@@ -18,7 +18,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -122,6 +122,18 @@ Produceret for P3 af MonoMono.</description>
             <itunes:duration>00:40:51</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="58830762" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ad1ecc61068ba26db17aaea/d3b51c4db7558e8458ff600fb8ffcdf7eb7ba9586b4773fbc9013fe4c3e644e6"/>
+        </item>
+        <item>
+            <guid isPermalink="false">16122693716</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-marcos/tyran-marcos-24/6-6-marcos-noerdeafsnit-16122693716</link>
+            <title>6:6 - Marcos Nørdeafsnit</title>
+            <description>I det her afsnit skal det handle om Imelda Marcos - Ferdinand Marcos' kone.</description>
+            <pubDate>Thu, 26 Nov 2026 05:00:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:20</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="37927554" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6ad1ecb799797788ba1911fd/b2074abe2fb7c30af87cd51b2ebd969d583a4af4b7cdc1fbed6a9a2863efd920"/>
         </item>
     </channel>
 </rss>
