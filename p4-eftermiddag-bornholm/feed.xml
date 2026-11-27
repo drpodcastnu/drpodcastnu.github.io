@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Thu, 26 Nov 2026 15:03:00 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 16:05:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14902630485</guid>
+            <link>https://www.dr.dk/lyd/p4bornholm/p4-eftermiddag-bornholm/p4-eftermiddag-bornholm/fredag-27-november-2026-14902630485</link>
+            <title>Fredag 27. november 2026</title>
+            <description>P4 Eftermiddag Bornholm er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+            <pubDate>Fri, 27 Nov 2026 16:05:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:55:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="165601477" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69fc512b90091f11f7c34aed/e0967e27e025d452469e93c47f2d050ec2d26b5ce0b2f9e90d9e864ffad9fced"/>
+        </item>
         <item>
             <guid isPermalink="false">14902630484</guid>
             <link>https://www.dr.dk/lyd/p4bornholm/p4-eftermiddag-bornholm/p4-eftermiddag-bornholm/torsdag-26-november-2026-14902630484</link>
@@ -58,18 +70,6 @@ Genudgivet RSS-feed.</description>
             <itunes:duration>02:57:00</itunes:duration>
             <media:restriction relationship="allow" type="country">dk</media:restriction>
             <enclosure length="254882053" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69fc51262b1870316de298bc/818d43ccea6fad4ae16a2ce225ce2d94e4d11cbfa606a3c5d3d4ea999efcf728"/>
-        </item>
-        <item>
-            <guid isPermalink="false">14902630481</guid>
-            <link>https://www.dr.dk/lyd/p4bornholm/p4-eftermiddag-bornholm/p4-eftermiddag-bornholm/mandag-23-november-2026-14902630481</link>
-            <title>Mandag 23. november 2026</title>
-            <description>P4 Eftermiddag Bornholm er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-            <pubDate>Mon, 23 Nov 2026 15:03:00 +0100</pubDate>
-            <explicit>no</explicit>
-            <itunes:author>DR</itunes:author>
-            <itunes:duration>02:57:00</itunes:duration>
-            <media:restriction relationship="allow" type="country">dk</media:restriction>
-            <enclosure length="254882053" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69fc51262b1870316de298b5/db23f1e44229667f71fbd14e55b93a031b82ecd5436e3356645c26f9c90507fd"/>
         </item>
     </channel>
 </rss>
