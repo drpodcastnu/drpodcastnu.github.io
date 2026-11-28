@@ -8,7 +8,7 @@ Genudgivet RSS-feed.</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>no-reply@drpodcast.nu</managingEditor>
-        <lastBuildDate>Sat, 28 Nov 2026 11:30:00 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 12:30:00 +0100</lastBuildDate>
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
@@ -23,6 +23,18 @@ Genudgivet RSS-feed.</description>
         </image>
         <itunes:category>News</itunes:category>
         <media:restriction relationship="allow" type="country">dk</media:restriction>
+        <item>
+            <guid isPermalink="false">14802612486</guid>
+            <link>https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder-2026/seneste-nyt-kl-12-30-14802612486</link>
+            <title>Seneste nyt kl. 12:30</title>
+            <description>Hør seneste regionale nyheder fra P4 København.</description>
+            <pubDate>Sat, 28 Nov 2026 12:30:00 +0100</pubDate>
+            <explicit>no</explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:02:00</itunes:duration>
+            <media:restriction relationship="allow" type="country">dk</media:restriction>
+            <enclosure length="2881390" type="audio/mpeg" url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6a0ad4377b148e5451d62af2/fd215a9f3d9296926005be52102d167b376f61e40c073fa802e35e7363f8d655"/>
+        </item>
         <item>
             <guid isPermalink="false">14802611486</guid>
             <link>https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder-2026/seneste-nyt-kl-11-30-14802611486</link>
